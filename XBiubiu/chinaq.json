@@ -1,0 +1,104 @@
+{
+  "name": "中國人線上看",
+  "url": "https://chinaq.club/",
+  //访问请求头
+  "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+  //播放请求头
+  "User": "空",
+
+  //0表示：记录，1表示：不记录
+  "是否记录历史": "0",
+  //直接播放截取的播放页链接网址，0表示：否，1表示：是
+  "直接播放": "0",
+  //分类页是否使用列表方式显示，0表示：否，1表示：是
+  "列表显示": "0",
+  //列表图片是否横图显示，0表示：否，1表示：是
+  "横图显示": "0",
+  //可以自定义列表翻页起始页的页数
+  "qishiye": "1",
+
+  //如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。(完成)
+  "fenlei": "陸劇$/cn/#韓劇$/kr/#台劇$/tw/#日劇$/jp/#綜藝$/show/",
+  "houzhui": "空", //网站翻页链接的后缀
+  "shifouercijiequ": "0", //截取的列表数组是否需要二次截取，0不需要，1需要
+  "jiequqian": "空", //不需要二次截取就填空
+  "jiequhou": "空", //不需要二次截取就填空
+  "jiequshuzuqian": "class=\"sizing\">", //截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
+  "jiequshuzuhou": "</div>", //截取的列表数组的后关键词,截取的关键词有 " 的用 \ 进行转义
+
+  //如果图片前字段填写完整网络图片地址的话，列表页就自动使用这个网络图片作为列表的图片。
+  "tupianqian": "original=\"",
+  "tupianhou": "\"",
+  "tupianqianzhui": "空",
+  "biaotiqian": "title=\"",
+  "biaotihou": "\"",
+  "fubiaotiqian": "",
+  "fubiaotihou": "",
+  "lianjieqian": "href=\"",
+  "lianjiehou": "\"",
+  "ljqianzhui": "空",
+  "ljhouzhui": "空",
+
+  //搜索部分
+  //搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
+  //0：get方式，1：post方式，注意：如果用post方式，【ssmoshi】要填：1
+  "搜索请求方式": "0",
+  "ssmoshi": "0",
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=150",
+  "sousuohouzhui": "/voddetail/", //搜索页影片跳转详情页的中间标识链接部分
+  "jspic": "pic",
+  "jsname": "name",
+  "jsid": "id",
+  "sousuoshifouercijiequ": "0",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "空",
+  "ssjiequshuzuhou": "空",
+  "sstupianqian": "空",
+  "sstupianhou": "空",
+  "sstupianqianzhui": "空",
+  "ssbiaotiqian": "空",
+  "ssbiaotihou": "空",
+  "ssfubiaotiqian": "空",
+  "ssfubiaotihou": "空",
+  "sslianjieqian": "空",
+  "sslianjiehou": "空",
+  "ssljqianzhui": "空",
+  "ssljhouzhui": "空",
+
+  //线路名称显示部分，0不启用，1启用
+  "是否启用播放线路名": "0",
+  "线路名是否二次截取": "0",
+  "线路名截取前": "空",
+  "线路名截取后": "空",
+  "线路名截取数组前": "空",
+  "线路名截取数组后": "空",
+  "线路名标题前": "空",
+  "线路名标题后": "空",
+
+  //状态，导演，演员，剧情的截取(已完成)
+  "zhuangtaiqian": "class=\"description\">",
+  "zhuangtaihou": "</div>",
+  "daoyanqian": "【導演】",
+  "daoyanhou": " /【主演】",
+  "zhuyanqian": "【主演】",
+  "zhuyanhou": "<br",
+  "juqingqian": "<span class=\"description\"", //剧情前关键词
+  "juqinghou": "<br", //剧情后关键词
+
+  //播放集数截取部分
+  "bfshifouercijiequ": "0", //截取的播放列表数组是否需要二次截取，0不需要，1需要
+  "bfjiequqian": "空", //不需要二次截取就填空
+  "bfjiequhou": "空", //不需要二次截取就填空
+  "bfjiequshuzuqian": "class=\"dplayer-video dplayer-video-current", //播放剧集数组前关键词
+  "bfjiequshuzuhou": "</video>", //播放剧集数组后关键词
+
+  "bfyjiequshuzuqian": "<a", //播放剧集数组前关键词
+  "bfyjiequshuzuhou": "/a>", //播放剧集数组后关键词
+  "bfbiaotiqian": ">", //播放剧集标题前关键词
+  "bfbiaotihou": "<", //状播放剧集标题后关键词
+  "bflianjieqian": "href=\"", //播放剧集链接前关键词
+  "bflianjiehou": "\"",
+  "bfqianzhui": "空" //可以自己定义截取播放链接的前缀，不需要的话不填写，或者删除这个字段即可。
+}

@@ -1,0 +1,36 @@
+
+
+{
+  "免嗅": "1",
+  "作者":"ZXY",
+  "站名": "FreeOK",
+  "主页url": "https://www.freeok.vip",
+  "副标题": "module-item-note\">&&</div>",  
+
+ "搜索url": "https://www.freeok.vip/vodsearch/{wd}----------{pg}---.html",
+  "搜索模式": "1",
+  "搜索后缀":"/voddetail/",
+
+  "线路数组": "data-dropdown-value=&&</div>[包含:超清#备用]",
+  "线路标题": "<span>&&</small>[替换:备用频道>>有广告]",  
+  "播放数组": "<div class=\"module-play-list\">&&</div>",  
+  
+  "分类": "电影$1#剧集$2#动漫$3#综艺$4",
+  "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",  
+  
+  "剧情": "1",
+"地区": "替换[大陆$大陆>>中国大陆$中国大陆||香港$香港>>中国香港$中国香港||台湾$台湾>>中国台湾$中国台湾]",	
+  "年份": "1",
+  "排序": "1",
+"筛选": "1"
+//类型{cateId}、剧情{class}、地区{area}、年份{year}、排序{by}，{letter}字母 "{lang}语言",{catePg}翻页
+
+}
+
+
+
+
+
+
+
+

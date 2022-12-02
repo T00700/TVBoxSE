@@ -1,0 +1,27 @@
+// 豆瓣热搜
+// 感谢海王提供的豆瓣api
+
+"hotSearch": [{
+    "name": "mobilesearch",
+    "request": {
+      "method": "GET",
+      "header": [
+        {
+          "key": "Referer",
+          "value": "https://www.douban.com/"
+        }
+      ],
+      "url": {
+        "raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"
+      }
+    },
+    "response": {
+        "result": "$.data",
+        "data": [
+          {
+            "key": "keyword",
+            "value": "title"
+          }
+        ]
+    }
+}],

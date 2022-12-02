@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html>
+<head data-suburl="">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+	
+		<meta name="author" content="aruisi888" />
+		<meta name="description" content="tv" />
+		<meta name="keywords" content="go, git, self-hosted, gogs">
+	
+	<meta name="referrer" content="no-referrer" />
+	<meta name="_csrf" content="PeQzpyPBpBurv9N96NBJ1anrfv86MTY2MzQ3Mjk5NTI0NDU4Mjk4NQ==" />
+	<meta name="_suburl" content="" />
+	
+	
+	
+		<meta property="og:url" content="https://notabug.org/aruisi888/tv" />
+		<meta property="og:type" content="object" />
+		<meta property="og:title" content="aruisi888/tv">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="https://seccdn.libravatar.org/avatar/279e28d50294b124cb5ac3c7344927d1" />
+	
+
+	<link rel="shortcut icon" href="/img/favicon.png" />
+
+	<script src="/js/jquery-1.11.3.min.js"></script>
+	<script src="/js/libs/jquery.are-you-sure.js"></script>
+        <link href="/img/icon-48.ico" rel="icon" type="image/x-icon" />
+        <link href="/img/icon-60.png" rel="apple-touch-icon">
+        <link href="/img/icon-76.png" rel="apple-touch-icon" sizes="76x76">
+        <link href="/img/icon-120.png" rel="apple-touch-icon" sizes="120x120">
+        <link href="/img/icon-152.png" rel="apple-touch-icon" sizes="152x152">
+        <link href="/img/icon-240.png" rel="apple-touch-icon" sizes="240x240">
+
+	<link rel="stylesheet" href="/assets/font-awesome-4.6.3/css/font-awesome.min.css">
+	<link rel="stylesheet" href="/assets/octicons-4.3.0/octicons.min.css">
+
+	
+	
+
+	
+
+	
+	<link rel="stylesheet" href="/css/semantic-2.2.13.min.css">
+	<link rel="stylesheet" href="/css/gogs.css?v=6fc9e85aa88133794d3434ea74aa557a">
+	<link rel="stylesheet" href="/css/notabug.css">
+
+	
+	<script src="/js/semantic-2.2.13.min.js"></script>
+	<script src="/js/gogs.js?v=6fc9e85aa88133794d3434ea74aa557a"></script>
+
+	<title>aruisi888/tv - NotABug.org: Free code hosting</title>
+
+	<meta name="theme-color" content="#428bca">
+
+	
+
+
+<noscript><style>.nojs-popup:hover > .menu { display: block ; }</style></noscript>
+
+
+</head>
+<body>
+	<div class="full height">
+		<noscript>Please enable JavaScript in your browser!</noscript>
+
+		
+			<div id="header-div" class="following bar light">
+				<div class="ui container">
+					<div class="ui grid">
+						<div class="column">
+							<div class="ui top secondary menu">
+								<a class="item brand" href="/">
+									<img class="ui mini image" src="/img/favicon.png">
+								</a>
+
+								
+									<a class="item" href="/">Home</a>
+								
+
+								<a class="item" href="/explore/repos">Explore</a>
+								
+
+								
+
+
+
+									<a class="notabug-item item" href="/help" rel="noreferrer">Help</a>
+
+
+
+
+									<div class="right menu">
+										
+											<a class="item" href="/user/sign_up">
+												<i class="octicon octicon-person"></i> Register
+											</a>
+										
+										<a class="item" href="/user/login?redirect_to=%2faruisi888%2ftv%2fsrc%2fmaster%2fxb%2fdouyu.json">
+											<i class="octicon octicon-sign-in"></i> Sign In
+										</a>
+									</div>
+
+								
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+
+
+<div class="repository file list">
+	<div class="header-wrapper">
+
+	<div class="ui container">
+		<div class="ui vertically padded grid head">
+			<div class="column">
+				<div class="ui header">
+					<div class="ui huge breadcrumb">
+						<i class="mega-octicon octicon-repo-forked"></i>
+						<a href="/aruisi888">aruisi888</a>
+						<div class="divider"> / </div>
+						<a href="/aruisi888/tv">tv</a>
+						
+						<div class="fork-flag">forked from <a href="/imbig66/tv-spider-man">imbig66/tv-spider-man</a></div>
+					</div>
+
+					
+						<div class="ui right">
+							<div class="ui labeled button" tabindex="0">
+								<a class="ui basic button" href="/aruisi888/tv/action/watch?redirect_to=%2faruisi888%2ftv%2fsrc%2fmaster%2fxb%2fdouyu.json">
+									<i class="icon fa-eye-slash"></i>Watch
+								</a>
+								<a class="ui basic label" href="/aruisi888/tv/watchers">
+									1
+								</a>
+							</div>
+							<div class="ui labeled button" tabindex="0">
+								<a class="ui basic button" href="/aruisi888/tv/action/star?redirect_to=%2faruisi888%2ftv%2fsrc%2fmaster%2fxb%2fdouyu.json">
+									<i class="icon fa-star-o"></i>Star
+								</a>
+								<a class="ui basic label" href="/aruisi888/tv/stars">
+									0
+								</a>
+							</div>
+							
+								<div class="ui labeled button" tabindex="0">
+									<a class="ui basic button " href="/repo/fork/47926">
+										<i class="octicon octicon-repo-forked"></i>Fork
+									</a>
+									<a class="ui basic label" href="/aruisi888/tv/forks">
+										0
+									</a>
+								</div>
+							
+						</div>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	<div class="ui tabs container">
+		<div class="ui tabular menu navbar">
+			
+				<a class="active item" href="/aruisi888/tv">
+					<i class="octicon octicon-file-text"></i> Files
+				</a>
+			
+			
+			
+			
+			
+		</div>
+	</div>
+	<div class="ui tabs divider"></div>
+
+</div>
+
+	<div class="ui container">
+		
+
+
+
+
+		
+		<div class="ui secondary menu">
+			
+			<div class="fitted item choose reference">
+	<div class="ui floating filter dropdown" data-no-results="No results found.">
+			<div class="ui basic small button">
+			<span class="text">
+				<i class="octicon octicon-git-branch"></i>
+				Branch:
+				<strong>master</strong>
+			</span>
+			<i class="dropdown icon"></i>
+		</div>
+		<div class="menu">
+			<div class="ui icon search input">
+				<i class="filter icon"></i>
+				<input name="search" placeholder="Filter branch or tag...">
+			</div>
+			<div class="header">
+				<div class="ui grid">
+					<div class="two column row">
+						<a class="reference column" href="#" data-target="#branch-list">
+							<span class="text black">
+								Branches
+							</span>
+						</a>
+						<a class="reference column" href="#" data-target="#tag-list">
+							<span class="text ">
+								Tags
+							</span>
+						</a>
+					</div>
+				</div>
+			</div>
+			<div id="branch-list" class="scrolling menu" >
+				
+					<div class="item " data-url="/aruisi888/tv/src/maoxp/xb/douyu.json">maoxp</div>
+				
+					<div class="item selected" data-url="/aruisi888/tv/src/master/xb/douyu.json">master</div>
+				
+			</div>
+			<div id="tag-list" class="scrolling menu" style="display: none">
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+			<div class="fitted item">
+				<div class="ui breadcrumb">
+					<a class="section" href="/aruisi888/tv/src/master">tv</a>
+					
+					
+					
+						<div class="divider"> / </div>
+						
+							
+							<span class="section"><a href="/aruisi888/tv/src/master/xb">xb</a></span>
+						
+					
+						<div class="divider"> / </div>
+						
+							<span class="active section">douyu.json</span>
+						
+					
+				</div>
+			</div>
+			<div class="right fitted item">
+				
+					<div id="file-buttons" class="ui tiny blue buttons">
+						
+						
+					</div>
+				
+
+				
+				
+			</div>
+		</div>
+		
+			<div id="file-content" class="tab-size-8">
+	<h4 class="ui top attached header" id="repo-read-file">
+		
+			<i class="file text outline icon ui left"></i>
+			<strong>douyu.json</strong> <span class="text grey normal">6.9 KB</span>
+		
+		
+			<div class="ui right file-actions">
+				<div class="ui buttons">
+					
+						<a class="ui button" href="/aruisi888/tv/src/2691a9ee978549a82f24e595ddbd370cef948017/xb/douyu.json">Permalink</a>
+					
+					<a class="ui button" href="/aruisi888/tv/commits/master/xb/douyu.json">History</a>
+					<a class="ui button" href="/aruisi888/tv/raw/master/xb/douyu.json">Raw</a>
+				</div>
+				
+					
+						<i class="octicon octicon-pencil btn-octicon poping up disabled" data-content="You must fork this repository before editing the file" data-position="bottom center" data-variation="tiny inverted"></i>
+					
+					
+						<i class="octicon octicon-trashcan btn-octicon poping up disabled" data-content="You must have write access to make or propose changes to this file" data-position="bottom center" data-variation="tiny inverted"></i>
+					
+				
+			</div>
+		
+	</h4>
+	<div class="ui attached table segment">
+		<div id="" class="file-view code-view has-emoji">
+			
+				<table>
+					<tbody>
+						<tr>
+						
+							<td class="lines-num"><span id="L1">1</span><span id="L2">2</span><span id="L3">3</span><span id="L4">4</span><span id="L5">5</span><span id="L6">6</span><span id="L7">7</span><span id="L8">8</span><span id="L9">9</span><span id="L10">10</span><span id="L11">11</span><span id="L12">12</span><span id="L13">13</span><span id="L14">14</span><span id="L15">15</span><span id="L16">16</span><span id="L17">17</span><span id="L18">18</span><span id="L19">19</span><span id="L20">20</span><span id="L21">21</span><span id="L22">22</span><span id="L23">23</span><span id="L24">24</span><span id="L25">25</span><span id="L26">26</span><span id="L27">27</span><span id="L28">28</span><span id="L29">29</span><span id="L30">30</span><span id="L31">31</span><span id="L32">32</span><span id="L33">33</span><span id="L34">34</span><span id="L35">35</span><span id="L36">36</span><span id="L37">37</span><span id="L38">38</span><span id="L39">39</span><span id="L40">40</span><span id="L41">41</span><span id="L42">42</span><span id="L43">43</span><span id="L44">44</span><span id="L45">45</span><span id="L46">46</span><span id="L47">47</span><span id="L48">48</span><span id="L49">49</span><span id="L50">50</span><span id="L51">51</span><span id="L52">52</span><span id="L53">53</span><span id="L54">54</span><span id="L55">55</span><span id="L56">56</span><span id="L57">57</span><span id="L58">58</span><span id="L59">59</span><span id="L60">60</span><span id="L61">61</span><span id="L62">62</span><span id="L63">63</span><span id="L64">64</span><span id="L65">65</span><span id="L66">66</span><span id="L67">67</span><span id="L68">68</span><span id="L69">69</span><span id="L70">70</span><span id="L71">71</span><span id="L72">72</span><span id="L73">73</span><span id="L74">74</span><span id="L75">75</span><span id="L76">76</span></td>
+							<td class="lines-code"><pre><code class="json"><ol class="linenums"><li class="L1" rel="L1">{</li>
+<li class="L2" rel="L2">  &#34;author&#34;: &#34;20220611&#34;,</li>
+<li class="L3" rel="L3">  &#34;name&#34;: &#34;斗鱼&#34;,</li>
+<li class="L4" rel="L4">  &#34;url&#34;: &#34;https://www.douyu.com/&#34;, //填网站链接</li>
+<li class="L5" rel="L5">  &#34;tihuan&#34;: &#34;cnzz.com&#34;, //这个不用动，是个别网站嗅探时过滤地址用的</li>
+<li class="L6" rel="L6">  &#34;User&#34;: &#34;空&#34;, //这个不用动，是个别网站播放需要请求头时才用到</li>
+<li class="L7" rel="L7">  &#34;shouye&#34;: &#34;1&#34;,</li>
+<li class="L8" rel="L8">  &#34;横图显示&#34;: &#34;1&#34;,</li>
+<li class="L9" rel="L9"></li>
+<li class="L10" rel="L10">  &#34;fenlei&#34;: &#34;网游竞技$gapi/rkc/directory/mixList/1_1/#单机热游$gapi/rkc/directory/mixList/1_15/#手游休闲$gapi/rkc/directory/mixList/1_9/#娱乐天地$gapi/rkc/directory/mixList/1_2/#科技文化$gapi/rkc/directory/mixList/1_11/#语音互动$gapi/rkc/directory/mixList/1_20/#语音直播$gapi/rkc/directory/mixList/1_18/#正能量$gapi/rkc/directory/mixList/1_13/#颜值$gapi/rkc/directory/mixList/2_201/#音乐$gapi/rkc/directory/mixList/2_175/#舞蹈$gapi/rkc/directory/mixList/2_1008/#二次元$gapi/rkc/directory/mixList/2_174/#户外$gapi/rkc/directory/mixList/2_124/#美食$gapi/rkc/directory/mixList/2_194/#互动交友$gapi/rkc/directory/mixList/2_1555/#一起看$gapi/rkc/directory/mixList/2_208/#趣生活$gapi/rkc/directory/mixList/2_1097/#数码科技$gapi/rkc/directory/mixList/2_134/#文化$gapi/rkc/directory/mixList/2_195/#科普$gapi/rkc/directory/mixList/2_204/#社会人文$gapi/rkc/directory/mixList/2_1162/#汽车$gapi/rkc/directory/mixList/2_136/#纪录片$gapi/rkc/directory/mixList/2_514/#斗鱼购物$gapi/rkc/directory/mixList/2_1203/#交友$gapi/rkc/directory/mixList/2_1221/#电台$gapi/rkc/directory/mixList/2_1556/#一起玩$gapi/rkc/directory/mixList/2_1575/#音乐之声$gapi/rkc/directory/mixList/2_910/#正能量$gapi/rkc/directory/mixList/2_250/#英雄联盟$gapi/rkc/directory/mixList/2_1/#热门游戏$gapi/rkc/directory/mixList/2_270/#DOTA2$gapi/rkc/directory/mixList/2_3/#穿越火线$gapi/rkc/directory/mixList/2_33/#CFHD$gapi/rkc/directory/mixList/2_1997/#DNF$gapi/rkc/directory/mixList/2_40/#炉石传说$gapi/rkc/directory/mixList/2_2/#CS:GO$gapi/rkc/directory/mixList/2_6/#逆战$gapi/rkc/directory/mixList/2_46/#lol云顶之弈$gapi/rkc/directory/mixList/2_917/#魔兽争霸$gapi/rkc/directory/mixList/2_55/#魔兽怀旧服$gapi/rkc/directory/mixList/2_1055/#网易游戏$gapi/rkc/directory/mixList/2_3567/#守望先锋$gapi/rkc/directory/mixList/2_148/#DOTA$gapi/rkc/directory/mixList/2_217/#魔兽世界$gapi/rkc/directory/mixList/2_5/#天涯明月刀$gapi/rkc/directory/mixList/2_59/#三国杀$gapi/rkc/directory/mixList/2_14/#主机游戏$gapi/rkc/directory/mixList/2_19/#永劫无间$gapi/rkc/directory/mixList/2_1227/#生死狙击2$gapi/rkc/directory/mixList/2_1781/#迷失ARK$gapi/rkc/directory/mixList/2_3528/#艾尔登法环$gapi/rkc/directory/mixList/2_3406/#逃离塔科夫$gapi/rkc/directory/mixList/2_1024/#V Rising$gapi/rkc/directory/mixList/2_3684/#海上狼人杀$gapi/rkc/directory/mixList/2_3556/#怀旧游戏$gapi/rkc/directory/mixList/2_26/#王者荣耀$gapi/rkc/directory/mixList/2_181/#和平精英$gapi/rkc/directory/mixList/2_350/#火影忍者$gapi/rkc/directory/mixList/2_196/#LOL手游$gapi/rkc/directory/mixList/2_1920/#金铲铲之战$gapi/rkc/directory/mixList/2_2556/#重返帝国$gapi/rkc/directory/mixList/2_2915/#COD手游$gapi/rkc/directory/mixList/2_767/#哈利波特：魔法觉醒$gapi/rkc/directory/mixList/2_1192/#CF手游$gapi/rkc/directory/mixList/2_178/#欢乐斗地主$gapi/rkc/directory/mixList/2_416/#原神$gapi/rkc/directory/mixList/2_1223/#天刀手游$gapi/rkc/directory/mixList/2_911/#棋牌娱乐$gapi/rkc/directory/mixList/2_113/#欢乐麻将$gapi/rkc/directory/mixList/2_451/#新游中心$gapi/rkc/directory/mixList/2_229/#QQ飞车$gapi/rkc/directory/mixList/2_331/#阴阳师$gapi/rkc/directory/mixList/2_240/#热门手游$gapi/rkc/directory/mixList/2_30/&#34;, //网站列表的分类</li>
+<li class="L11" rel="L11">  &#34;houzhui&#34;: &#34;&#34;, //网站翻页链接的后缀</li>
+<li class="L12" rel="L12"></li>
+<li class="L13" rel="L13">  &#34;shifouercijiequ&#34;: &#34;0&#34;, //截取的列表数组是否需要二次截取，0不需要，1需要</li>
+<li class="L14" rel="L14">  &#34;jiequqian&#34;: &#34;空&#34;, //不需要二次截取就填空</li>
+<li class="L15" rel="L15">  &#34;jiequhou&#34;: &#34;空&#34;, //不需要二次截取就填空</li>
+<li class="L16" rel="L16">  &#34;jiequshuzuqian&#34;: &#34;\&#34;type\&#34;:1&#34;, //截取的列表数组的前关键词,截取的关键词有 &#34; 的用 \ 进行转义</li>
+<li class="L17" rel="L17">  &#34;jiequshuzuhou&#34;: &#34;\&#34;rs16\&#34;&#34;, //截取的列表数组的后关键词,截取的关键词有 &#34; 的用 \ 进行转义</li>
+<li class="L18" rel="L18">  &#34;tupianqian&#34;: &#34;\&#34;rs1\&#34;:\&#34;&#34;, //列表中资源的图片前关键词,截取的关键词有 &#34; 的用 \ 进行转义</li>
+<li class="L19" rel="L19">  &#34;tupianhou&#34;: &#34;\&#34;&#34;, //列表中资源的图片后关键词,截取的关键词有 &#34; 的用 \ 进行转义</li>
+<li class="L20" rel="L20">  &#34;biaotiqian&#34;: &#34;\&#34;rn\&#34;:\&#34;&#34;, //列表中资源的标题前关键词,截取的关键词有 &#34; 的用 \ 进行转义</li>
+<li class="L21" rel="L21">  &#34;biaotihou&#34;: &#34;\&#34;&#34;, //列表中资源的标题后关键词,截取的关键词有 &#34; 的用 \ 进行转义</li>
+<li class="L22" rel="L22">  &#34;lianjieqian&#34;: &#34;\&#34;rid\&#34;:&#34;, //列表中资源的详情页跳转链接前关键词,截取的关键词有 &#34; 的用 \ 进行转义</li>
+<li class="L23" rel="L23">  &#34;lianjiehou&#34;: &#34;,\&#34;&#34;, //列表中资源的详情页跳转链接后关键词,截取的关键词有 &#34; 的用 \ 进行转义</li>
+<li class="L24" rel="L24"></li>
+<li class="L25" rel="L25">  //新版Biubiu参数：副标题 (不需要的话，就不填写或者删除副标题2个字段也可以。)</li>
+<li class="L26" rel="L26">  &#34;fubiaotiqian&#34;: &#34;\&#34;nn\&#34;:\&#34;&#34;,</li>
+<li class="L27" rel="L27">  &#34;fubiaotihou&#34;: &#34;\&#34;&#34;,</li>
+<li class="L28" rel="L28"></li>
+<li class="L29" rel="L29"></li>
+<li class="L30" rel="L30">  //搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。</li>
+<li class="L31" rel="L31">  &#34;sousuoqian&#34;: &#34;/japi/search/api/searchShow?kw=&#34;,</li>
+<li class="L32" rel="L32">  &#34;sousuohou&#34;: &#34;&amp;page=1&amp;pageSize=50&#34;,</li>
+<li class="L33" rel="L33">  &#34;sousuohouzhui&#34;: &#34;/&#34;, //搜索页影片跳转详情页的中间标识链接部分</li>
+<li class="L34" rel="L34">  &#34;ssmoshi&#34;: &#34;0&#34;,</li>
+<li class="L35" rel="L35">  &#34;sousuoshifouercijiequ&#34;: &#34;0&#34;,</li>
+<li class="L36" rel="L36">  &#34;jspic&#34;: &#34;roomSrc&#34;,</li>
+<li class="L37" rel="L37">  &#34;jsname&#34;: &#34;roomName&#34;,</li>
+<li class="L38" rel="L38">  &#34;jsid&#34;: &#34;rid&#34;,</li>
+<li class="L39" rel="L39">  &#34;ssjiequqian&#34;: &#34;空&#34;,</li>
+<li class="L40" rel="L40">  &#34;ssjiequhou&#34;: &#34;空&#34;,</li>
+<li class="L41" rel="L41">  &#34;ssjiequshuzuqian&#34;: &#34;空&#34;,</li>
+<li class="L42" rel="L42">  &#34;ssjiequshuzuhou&#34;: &#34;空&#34;,</li>
+<li class="L43" rel="L43">  &#34;sstupianqian&#34;: &#34;空&#34;,</li>
+<li class="L44" rel="L44">  &#34;sstupianhou&#34;: &#34;空&#34;,</li>
+<li class="L45" rel="L45">  &#34;ssbiaotiqian&#34;: &#34;空&#34;,</li>
+<li class="L46" rel="L46">  &#34;ssbiaotihou&#34;: &#34;空&#34;,</li>
+<li class="L47" rel="L47">  &#34;sslianjieqian&#34;: &#34;空&#34;,</li>
+<li class="L48" rel="L48">  &#34;sslianjiehou&#34;: &#34;空&#34;,</li>
+<li class="L49" rel="L49"></li>
+<li class="L50" rel="L50">  &#34;bfshifouercijiequ&#34;: &#34;0&#34;,</li>
+<li class="L51" rel="L51">  &#34;bfjiequqian&#34;: &#34;空&#34;,</li>
+<li class="L52" rel="L52">  &#34;bfjiequhou&#34;: &#34;空&#34;,</li>
+<li class="L53" rel="L53">  &#34;bfjiequshuzuqian&#34;: &#34;left\&#34;&gt;&lt;div class=\&#34;Title&#34;, //播放截取的列表数组的前关键词</li>
+<li class="L54" rel="L54">  &#34;bfjiequshuzuhou&#34;: &#34;&lt;/a&gt;&#34;, //播放截取的列表数组的后关键词</li>
+<li class="L55" rel="L55"></li>
+<li class="L56" rel="L56">  &#34;zhuangtaiqian&#34;: &#34;Header-logo\&#34; title=\&#34;&#34;, //状态前关键词</li>
+<li class="L57" rel="L57">  &#34;zhuangtaihou&#34;: &#34;\&#34;&#34;, //状态后关键词</li>
+<li class="L58" rel="L58">  &#34;daoyanqian&#34;: &#34;Title-anchorNameH2\&#34;&gt;&#34;, //导演前关键词</li>
+<li class="L59" rel="L59">  &#34;daoyanhou&#34;: &#34;&lt;/h2&gt;&#34;, //导演态后关键词</li>
+<li class="L60" rel="L60">  &#34;zhuyanqian&#34;: &#34;canonical\&#34; href=\&#34;&#34;, //主演前关键词</li>
+<li class="L61" rel="L61">  &#34;zhuyanhou&#34;: &#34;\&#34;&#34;, //主演后关键词</li>
+<li class="L62" rel="L62">  &#34;juqingqian&#34;: &#34;is-announceTxt\&#34;&gt;&#34;, //剧情前关键词</li>
+<li class="L63" rel="L63">  &#34;juqinghou&#34;: &#34;&lt;/p&gt;&#34;, //剧情后关键词</li>
+<li class="L64" rel="L64"></li>
+<li class="L65" rel="L65">  &#34;bfyshifouercijiequ&#34;: &#34;0&#34;, //截取的播放列表数组是否需要二次截取，0不需要，1需要</li>
+<li class="L66" rel="L66">  &#34;bfyjiequqian&#34;: &#34;空&#34;, //不需要二次截取就填空</li>
+<li class="L67" rel="L67">  &#34;bfyjiequhou&#34;: &#34;空&#34;, //不需要二次截取就填空</li>
+<li class="L68" rel="L68">  &#34;bfyjiequshuzuqian&#34;: &#34;&lt;h3 class=\&#34;Title&#34;, //播放剧集数组前关键词</li>
+<li class="L69" rel="L69">  &#34;bfyjiequshuzuhou&#34;: &#34;target=\&#34;_blank&#34;, //播放剧集数组后关键词</li>
+<li class="L70" rel="L70">  &#34;bfbiaotiqian&#34;: &#34;header\&#34;&gt;&#34;, //播放剧集标题前关键词</li>
+<li class="L71" rel="L71">  &#34;bfbiaotihou&#34;: &#34;&lt;/h3&gt;&#34;, //状播放剧集标题后关键词</li>
+<li class="L72" rel="L72">  &#34;bflianjieqian&#34;: &#34;rid=&#34;, //播放剧集链接前关键词</li>
+<li class="L73" rel="L73">  &#34;bflianjiehou&#34;: &#34;\&#34;&#34;</li>
+<li class="L74" rel="L74">} //播放剧集链接后关键词</li>
+<li class="L75" rel="L75">Footer</li>
+<li class="L76" rel="L76"></li>
+</ol></code></pre></td>
+						
+						</tr>
+					</tbody>
+				</table>
+			
+		</div>
+	</div>
+</div>
+
+<script>
+function submitDeleteForm() {
+    var message = prompt("delete_confirm_message\n\ndelete_commit_summary", "Delete ''");
+    if (message != null) {
+        $("#delete-message").val(message);
+        $("#delete-file-form").submit()
+    }
+}
+</script>
+
+		
+	</div>
+</div>
+
+	</div>
+	<footer>
+		<div class="ui container">
+			<div class="ui left">
+
+
+
+				<a href="/tos">Terms of Service</a>
+				&bull;
+				<a href="/about">About us</a>
+				&bull;
+				<a href="/outages">Outages</a>
+				&bull;
+				<a href="/hp/gogs/issues">Report a problem</a>
+				&bull;
+				<a href="/assets/librejs/librejs.html" data-jslicense="1">Javascript licenses</a>
+				&bull;
+				<a href="/fingerprints">SSH Fingerprints</a>
+
+
+
+			</div>
+			<div class="ui right links">
+				
+				<div class="ui language bottom floating slide up dropdown link item">
+					<i class="world icon"></i>
+					<div class="text">English</div>
+					<div class="menu">
+						
+							<a class="item active selected" href="#">English</a>
+						
+							<a class="item " href="/aruisi888/tv/src/master/xb/douyu.json?lang=zh-CN">简体中文</a>
+						
+							<a class="item " href="/aruisi888/tv/src/master/xb/douyu.json?lang=zh-HK">繁體中文（香港）</a>
+						
+							<a class="item " href="/aruisi888/tv/src/master/xb/douyu.json?lang=zh-TW">繁體中文（臺灣）</a>
+						
+							<a class="item " href="/aruisi888/tv/src/master/xb/douyu.json?lang=de-DE">Deutsch</a>
+						
+							<a class="item " href="/aruisi888/tv/src/master/xb/douyu.json?lang=fr-FR">français</a>
+						
+							<a class="item " href="/aruisi888/tv/src/master/xb/douyu.json?lang=nl-NL">Nederlands</a>
+						
+							<a class="item " href="/aruisi888/tv/src/master/xb/douyu.json?lang=lv-LV">latviešu</a>
+						
+							<a class="item " href="/aruisi888/tv/src/master/xb/douyu.json?lang=ru-RU">русский</a>
+						
+							<a class="item " href="/aruisi888/tv/src/master/xb/douyu.json?lang=ja-JP">日本語</a>
+						
+							<a class="item " href="/aruisi888/tv/src/master/xb/douyu.json?lang=es-ES">español</a>
+						
+							<a class="item " href="/aruisi888/tv/src/master/xb/douyu.json?lang=pt-BR">português do Brasil</a>
+						
+							<a class="item " href="/aruisi888/tv/src/master/xb/douyu.json?lang=pl-PL">polski</a>
+						
+							<a class="item " href="/aruisi888/tv/src/master/xb/douyu.json?lang=bg-BG">български</a>
+						
+							<a class="item " href="/aruisi888/tv/src/master/xb/douyu.json?lang=it-IT">italiano</a>
+						
+							<a class="item " href="/aruisi888/tv/src/master/xb/douyu.json?lang=fi-FI">suomi</a>
+						
+							<a class="item " href="/aruisi888/tv/src/master/xb/douyu.json?lang=tr-TR">Türkçe</a>
+						
+							<a class="item " href="/aruisi888/tv/src/master/xb/douyu.json?lang=cs-CZ">čeština</a>
+						
+							<a class="item " href="/aruisi888/tv/src/master/xb/douyu.json?lang=sr-SP">српски</a>
+						
+							<a class="item " href="/aruisi888/tv/src/master/xb/douyu.json?lang=sv-SE">svenska</a>
+						
+							<a class="item " href="/aruisi888/tv/src/master/xb/douyu.json?lang=ko-KR">한국어</a>
+						
+							<a class="item " href="/aruisi888/tv/src/master/xb/douyu.json?lang=gl-ES">galego</a>
+						
+							<a class="item " href="/aruisi888/tv/src/master/xb/douyu.json?lang=uk-UA">українська</a>
+						
+							<a class="item " href="/aruisi888/tv/src/master/xb/douyu.json?lang=en-GB">English (United Kingdom)</a>
+						
+							<a class="item " href="/aruisi888/tv/src/master/xb/douyu.json?lang=hu-HU">Magyar</a>
+						
+							<a class="item " href="/aruisi888/tv/src/master/xb/douyu.json?lang=sk-SK">Slovenčina</a>
+						
+							<a class="item " href="/aruisi888/tv/src/master/xb/douyu.json?lang=id-ID">Indonesian</a>
+						
+							<a class="item " href="/aruisi888/tv/src/master/xb/douyu.json?lang=fa-IR">Persian</a>
+						
+					</div>
+				</div>
+
+
+
+				
+			</div>
+		</div>
+	</footer>
+</body>
+
+
+
+	<link rel="stylesheet" href="/plugins/highlight-9.6.0/github.css">
+	<script src="/plugins/highlight-9.6.0/highlight.pack.js"></script>
+
+
+
+
+<script src="/js/libs/emojify-1.1.0.min.js"></script>
+<script src="/js/libs/clipboard-1.5.9.min.js"></script>
+	
+</html>
+

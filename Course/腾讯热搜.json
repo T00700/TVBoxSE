@@ -1,0 +1,24 @@
+"hotSearch": [{
+    "name": "mobilesearch",
+    "request": {
+      "method": "GET",
+      "header": [
+        {
+          "key": "Referer",
+          "value": "https://v.qq.com/"
+        }
+      ],
+      "url": {
+        "raw": "https://node.video.qq.com/x/api/hot_mobilesearch?channdlId=0&_={time}"
+      }
+    },
+    "response": {
+        "result": "$.data.itemList",
+        "data": [
+          {
+            "key": "keyword",
+            "value": "title"
+          }
+        ]
+    }
+}],

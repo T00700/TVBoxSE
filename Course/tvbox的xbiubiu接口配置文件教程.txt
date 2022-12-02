@@ -1,0 +1,173 @@
+示例下载地址：
+
+地址1：https://www.123pan.com/s/T5PRVv-LgzIA
+
+地址2：https://bingge.lanzouy.com/iU0PA0amou5c
+
+大家打开示例，然后访问示例内的网站，查看源代码；
+
+用示例和源代码对照理解。:
+
+
+附：简单解释，也可能解释的不太准确
+
+  一、填写网站信息
+
+  "author": "1202",随便大概是版本信息
+
+  "name": "番茄韩剧",名字随便
+
+  "url": "https://tjomet.com", 填网站链接
+
+  "tihuan": "cnzz.com", /这个不用动-是个别网站嗅探时过滤地址用的
+
+  "User": "空", //这个不用动-是个别网站播放需要请求头时才用到
+
+  "fenlei": "电影$/vodshow/1#电视剧$/vodshow/2", 网站列表的分类
+
+  "houzhui": ".html", 网站链接的后缀
+
+  "shouye": "1",设置软件首页推荐显示哪个页面
+
+
+
+二、分类内影片列表抓取规则
+
+  "shifouercijiequ": "0", 0不需要，1需要；就是先截取一段代码，等会在这段代码里头再截取一段代码，一般不需要。
+
+  "jiequqian": "空", 不需要二次截取就填空
+
+  "jiequhou": "空", 不需要二次截取就填空
+
+
+
+  "jiequshuzuqian": "<a class=\"hl-item-thumb hl-lazy\"", /截取的列表数组的前关键词,截取的关键词有 " 的用，要在前面加\ ，所有关键词都要这样处理
+
+  "jiequshuzuhou": "</a>", 截取的列表数组的后关键词
+
+  "tupianqian": "data-original=\"", 列表中资源的图片前关键词
+
+  "tupianhou": "\"", 列表中资源的图片后关键词
+
+  "biaotiqian": "title=\"", 列表中资源的标题前关键词
+
+  "biaotihou": "\"", 列表中资源的标题后关键词
+
+  "lianjieqian": "href=\"", 列表中资源的详情页跳转链接前关键词
+
+  "lianjiehou": "\"", 列表中资源的详情页跳转链接后关键词
+
+
+
+  "fubiaotiqian":"<span class=\"hl-lc-1 remarks\">", 新版Biubiu参数-副标题 (不需要的话-就不填写或者删除副标题2个字段也可以)
+
+  "fubiaotihou":"</span>",
+
+
+
+
+
+  三、搜索部分基本不用动-现在网站基本都是苹果CMS-所有搜索是固定的。
+
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+
+  "sousuohou": "&limit=500",
+
+  "sousuohouzhui": "vodsearch", //搜索页影片跳转详情页的中间标识链接部分
+
+  "ssmoshi": "0",
+
+  "sousuoshifouercijiequ": "0",
+
+  "jspic": "pic",
+
+  "jsname": "name",
+
+  "jsid": "id",
+
+  "ssjiequqian": "空",
+
+  "ssjiequhou": "空",
+
+  "ssjiequshuzuqian": "空",
+
+  "ssjiequshuzuhou": "空",
+
+  "sstupianqian": "空",
+
+  "sstupianhou": "空",
+
+  "ssbiaotiqian": "空",
+
+  "ssbiaotihou": "空",
+
+  "sslianjieqian": "空",
+
+  "sslianjiehou": "空",
+
+
+
+四、随便打开一个影片，点击查看源代码，然后填下面的东西
+
+  "zhuangtaiqian": "<span class=\"hl-text-conch\">", //状态前关键词
+
+  "zhuangtaihou": "</span></li>", //状态后关键词
+
+  "daoyanqian": "class=\"hl-text-conch\">", //导演前关键词
+
+  "daoyanhou": "</span>", //导演态后关键词
+
+  "zhuyanqian": "主演：</em>", //主演前关键词
+
+  "zhuyanhou": "</li>", //主演后关键词
+
+  "juqingqian": "简介：</em>", //剧情前关键词
+
+  "juqinghou": "</ul>", //剧情后关键词
+
+
+
+
+
+  五、填播放数据组的信息
+
+  "bfshifouercijiequ": "0",
+
+  "bfjiequqian": "空",
+
+  "bfjiequhou": "空",
+
+
+
+一个播放源的--所有集数的--代码的--上下代码。，比如1-20集数有一段代码，他的上下代码
+
+  "bfjiequshuzuqian":"class=\"hl-plays-list", //前关键词代码
+
+  "bfjiequshuzuhou":"</div>", //后关键词代码
+
+
+
+六、单个集数的代码
+
+  "bfyshifouercijiequ": "0", 截取的播放列表数组是否需要二次截取-0不需要-1需要
+
+  "bfyjiequqian": "空", 不需要二次截取就填空
+
+  "bfyjiequhou": "空", 不需要二次截取就填空
+
+
+
+  "bfyjiequshuzuqian": "<li", 播放剧集数--前关键词
+
+  "bfyjiequshuzuhou": "</li>", 播放剧集数--后关键词
+
+
+
+  "bfbiaotiqian": "html\">", 播放剧集标题前关键词
+
+  "bfbiaotihou": "</a>", 状播放剧集标题后关键词
+
+  "bflianjieqian": "<a href=\"", 播放剧集链接前关键词
+
+  "bflianjiehou": "\""，播放剧集链接后关键词
+

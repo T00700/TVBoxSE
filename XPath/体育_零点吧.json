@@ -1,0 +1,49 @@
+{
+    "author": "dj22.9.8",
+    "homeUrl": "http://www.jrszx.com/",//http://www.jrszx.com/
+    "cateManual": {"DJ-零点吧-体育直播": "666"},
+
+    // 首页
+    "cateUrl": "http://www.jrszx.com/",
+	// 首页推荐视频的节点
+	"cateVodNode": "//div[@class='txtdiv']/parent::li",
+    // 首页推荐视频的名称
+    "cateVodName": "/div/text()",
+    // 首页推荐视频的id
+    "cateVodId": "/a[1]/@href",
+    "cateVodIdR": "/shipin-(\\d+).html",
+    // 首页推荐视频的图片
+    "cateVodImg": "'http://ys-f.ysepan.com/621545016/119101634/h485U2V3523QLJkfsqlj8a/%E5%B0%81%E9%9D%A2.jpg'",
+    // 首页推荐视频的简介
+    "cateVodMark":"",
+ 
+	
+	// 详情页
+	"dtUrl": "http://www.jrszx.com/vedio/shipin-{vid}.html",
+	// 详情节点
+    "dtNode": "//head",
+	// 视频名
+    "dtName": "/title/text()",
+	// 视频图片
+    "dtImg": "'http://ys-f.ysepan.com/621545016/119101634/h485U2V3523QLJkfsqlj8a/%E5%B0%81%E9%9D%A2.jpg'",
+    // 视频简介
+    "dtDesc": "concat('DJ - ','Never underestimate the heart of a champion! ','篮球迷588741862')",
+	
+	// 播放源节点
+    "dtFromNode": "//body",
+	// 播放源名称
+    "dtFromName":  "'【直播源】'",
+	// 播放列表节点
+    "dtUrlNode": "//div[@class='pmain2']/dl/dt",
+	// 播放地址节点
+    "dtUrlSubNode": "/li/a[contains(@href, 'http')]",
+	// 播放地址
+    "dtUrlId": "/@href",
+    "dtUrlIdR": "http(\\S+)",
+	// 剧集名称
+    "dtUrlName": "/span/text()",
+	
+	//播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
+    "playUrl":"http{playUrl}"
+
+}

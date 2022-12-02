@@ -1,0 +1,21 @@
+{
+    "api":[
+{"key":"@Pro","name":"@Pro",
+    "ext":"https://share.nite07.com/api/v3/file/source/18035/BOX3.json?sign=m9tt9AehwEjJDDEvTovp-zk4ckhrAj89uRP02TRq2_M%3D%3A0",
+    "date":"2022-08-29"},
+{"key":"@TV","name":"@TV",
+    "ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/tv.json",
+    "date":"2022-08-29"},
+{"key":"BOX线路","name":"BOX线路",
+    "ext":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
+    "date":">默认推荐"},
+{"key":"刚刚线路","name":"刚刚线路",
+    "ext":"http://刚刚.live/猫 ",
+    "date":"♻️>推荐线路"},
+{"key":"️哔哩学习线路","name":"️哔哩学习线路",
+    "ext":"http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0",
+    "date":">娱乐学习线路"},
+{"key":"alist+网盘综合线路","name":"alist+网盘综合线路",
+    "ext":"http://52bsj.vip:81/api/v3/file/get/45055/alist.json?sign=5hJ60J-4XMmtamakqYzTiaX_8-1vwxpGeN0WcRVDsh8%3D%3A0",
+    "date":">4K搜索专用"}]
+}

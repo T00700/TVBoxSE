@@ -1,0 +1,35 @@
+
+{
+  "免嗅": "0",
+  "作者":"ZXY",
+  "站名": "厂长资源",
+  "主页url": "https://www.czspp.com",
+  "数组": "<li>&&</li>",
+  "副标题": "span>&&</span>", 
+  "简介": "<p>&&</p>",
+  "搜索url": "https://www.czspp.com/xssearch?q={wd}=_all&p={pg}",
+  "搜索模式": "1",
+  "搜索前缀":"/movie/",
+
+  "线路数组": "<div class=\"mi_paly_box\">&&</div>",
+  "线路标题": "<span>&&</span>",
+  
+  "播放数组": "<div class=\"paly_list_btn\">&&</div>",
+  "播放列表": "<a&&/a>",
+  "播放标题": ">&&<",
+  "播放链接": "czspp.com&&\"",
+  
+	"分类": "电影$movie_bt_series/dyy#电视剧$movie_bt_series/dianshiju#动漫$movie_bt_series/dohua#豆瓣电影Top250$dbtop250",
+  "分类url": "https://czspp.com/movie_bt/{class}/{cateId}/page/{catePg}",
+     
+
+"筛选": "https://zhxy.neocities.org/筛选/厂长资源.json"
+//类型{cateId}、剧情{class}、地区{area}、年份{year}、排序{by}，{letter}字母 "{lang}语言",{catePg}翻页
+
+}
+
+
+
+
+
+

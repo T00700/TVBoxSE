@@ -1,0 +1,278 @@
+ublic class XPathRule {
+    /**
+     * user-agent
+     */
+    private String ua;
+    /**
+     * 获取分类和首页推荐的Url
+     */
+    private String homeUrl;
+    /**
+     * 分类节点 xpath
+     */
+    private String cateNode;
+    /**
+     * 分类节点名 xpath
+     */
+    private String cateName;
+    /**
+     * 正则对取到的数据进行二次处理
+     */
+    private Pattern cateNameR;
+    /**
+     * 分类节点id xpath
+     */
+    private String cateId;
+    /**
+     * 正则对取到的数据进行二次处理
+     */
+    private Pattern cateIdR;
+    /**
+     * 手动指定 分类 如果有则不从homeUrl中获取分类
+     */
+    private LinkedHashMap<String, String> cateManual = new LinkedHashMap<>();
+
+    /**
+     * 更新推荐视频节点 xpath
+     */
+    private String homeVodNode;
+    /**
+     * 更新推荐视频名称 xpath
+     */
+    private String homeVodName;
+    /**
+     * 正则对取到的数据进行二次处理
+     */
+    private Pattern homeVodNameR;
+    /**
+     * 更新推荐视频id xpath
+     */
+    private String homeVodId;
+    /**
+     * 正则对取到的数据进行二次处理
+     */
+    private Pattern homeVodIdR;
+    /**
+     * 更新推荐视频图片 xpath
+     */
+    private String homeVodImg;
+    /**
+     * 正则对取到的数据进行二次处理
+     */
+    private Pattern homeVodImgR;
+    /**
+     * 更新推荐视频简介 xpath
+     */
+    private String homeVodMark;
+    /**
+     * 正则对取到的数据进行二次处理
+     */
+    private Pattern homeVodMarkR;
+    /**
+     * 分类页地址
+     */
+    private String cateUrl;
+    /**
+     * 分类叶视频节点 xpath
+     */
+    private String cateVodNode;
+    /**
+     * 分类叶视频名称 xpath
+     */
+    private String cateVodName;
+    /**
+     * 正则对取到的数据进行二次处理
+     */
+    private Pattern cateVodNameR;
+    /**
+     * 分类叶视频视频id xpath
+     */
+    private String cateVodId;
+    /**
+     * 正则对取到的数据进行二次处理
+     */
+    private Pattern cateVodIdR;
+    /**
+     * 分类叶视频视频图片 xpath
+     */
+    private String cateVodImg;
+    /**
+     * 正则对取到的数据进行二次处理
+     */
+    private Pattern cateVodImgR;
+    /**
+     * 分类叶视频视频简介 xpath
+     */
+    private String cateVodMark;
+    /**
+     * 正则对取到的数据进行二次处理
+     */
+    private Pattern cateVodMarkR;
+
+    /**
+     * 详情页面
+     */
+    private String dtUrl;
+    /**
+     * 详情节点 xpath
+     */
+    private String dtNode;
+    /**
+     * 详情 视频名 xpath
+     */
+    private String dtName;
+    /**
+     * 正则对取到的数据进行二次处理
+     */
+    private Pattern dtNameR;
+    /**
+     * 详情视频图片 xpath
+     */
+    private String dtImg;
+    /**
+     * 正则对取到的数据进行二次处理
+     */
+    private Pattern dtImgR;
+    /**
+     * 详情视频分类 xpath
+     */
+    private String dtCate;
+    /**
+     * 正则对取到的数据进行二次处理
+     */
+    private Pattern dtCateR;
+    /**
+     * 详情视频年份 xpath
+     */
+    private String dtYear;
+    /**
+     * 正则对取到的数据进行二次处理
+     */
+    private Pattern dtYearR;
+    /**
+     * 详情视频地区 xpath
+     */
+    private String dtArea;
+    /**
+     * 正则对取到的数据进行二次处理
+     */
+    private Pattern dtAreaR;
+    /**
+     * 详情视频简介 xpath
+     */
+    private String dtMark;
+    /**
+     * 正则对取到的数据进行二次处理
+     */
+    private Pattern dtMarkR;
+    /**
+     * 详情演员 xpath
+     */
+    private String dtActor;
+    /**
+     * 正则对取到的数据进行二次处理
+     */
+    private Pattern dtActorR;
+    /**
+     * 详情导演 xpath
+     */
+    private String dtDirector;
+    /**
+     * 正则对取到的数据进行二次处理
+     */
+    private Pattern dtDirectorR;
+    /**
+     * 详情 说明 长  xpath
+     */
+    private String dtDesc;
+    /**
+     * 正则对取到的数据进行二次处理
+     */
+    private Pattern dtDescR;
+
+    /**
+     * 详情播放来源节点
+     */
+    private String dtFromNode;
+    /**
+     * 详情播放来源名称 xpath
+     */
+    private String dtFromName;
+    /**
+     * 详情
+     */
+    private Pattern dtFromNameR;
+    /**
+     * 详情播放地址列表节点  xpath
+     */
+    private String dtUrlNode;
+    /**
+     * 详情播放地址节点  xpath
+     */
+    private String dtUrlSubNode;
+    /**
+     * 详情播放地址id  xpath
+     */
+    private String dtUrlId;
+    /**
+     * 详情
+     */
+    private Pattern dtUrlIdR;
+    /**
+     * 详情播放地址名称  xpath
+     */
+    private String dtUrlName;
+    /**
+     * 详情
+     */
+    private Pattern dtUrlNameR;
+    /**
+     * 播放页面url
+     */
+    private String playUrl;
+    /**
+     * 播放解析调用ua
+     */
+    private String playUa;
+
+    /**
+     * 搜索页地址
+     */
+    private String searchUrl;
+
+    /**
+     * 搜索页视频节点 xpath
+     */
+    private String scVodNode;
+    /**
+     * 搜索页视频名称 xpath
+     */
+    private String scVodName;
+    /**
+     * 正则对取到的数据进行二次处理
+     */
+    private Pattern scVodNameR;
+    /**
+     * 搜索页视频id xpath
+     */
+    private String scVodId;
+    /**
+     * 正则对取到的数据进行二次处理
+     */
+    private Pattern scVodIdR;
+    /**
+     * 搜索页视频图片 xpath
+     */
+    private String scVodImg;
+    /**
+     * 正则对取到的数据进行二次处理
+     */
+    private Pattern scVodImgR;
+    /**
+     * 搜索页视频简介 xpath
+     */
+    private String scVodMark;
+    /**
+     * 正则对取到的数据进行二次处理
+     */
+    private Pattern scVodMarkR;

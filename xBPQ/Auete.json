@@ -1,0 +1,16 @@
+
+{
+ 
+"站名": "Auete影院",
+"嗅探词":"m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#.mp4#item/video#is_play_url=1",
+"起始页":"2",
+"免嗅":"0",
+"导演": "导演: &&</p",
+"主演": "主演: &&</p",
+"简介":"</a><p>&&</p>",
+"线路数组": "<h2&&</h2>",
+"线路标题": "』&&：",
+"播放数组":"player_list&&<div>",
+"分类":"电影$Movie#电视剧$Tv#综艺$Zy#动漫$Dm",
+"分类url":"https://auete.org/{cateId}/index{catePg}.html[https://auete.org/{cateId}/index.html]"
+}

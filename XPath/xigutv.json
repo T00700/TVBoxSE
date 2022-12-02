@@ -1,0 +1,382 @@
+{
+    "author": "csp_XPathFilter",
+    "ua":"",
+    "homeUrl": "https://www.xigutv.com/",
+    "dcPlayUrl":"true",
+    "cateManual": {
+        "电影": "1",
+        "剧集": "2",
+        "综艺": "3",
+        "动漫": "4",
+        "哔哩":"20"
+    },
+    "homeVodNode": "//div[@class='module-main tab-list  active']/div/a[position()<6]",
+    "homeVodName": "/@title",
+    "homeVodId": "/@href",
+    "homeVodIdR": "/index.php/vod/detail/id/(.+).html",
+    "homeVodImg": "//img/@data-original",
+	"homeVodImgR": "(https?.+)",
+    "homeVodMark": "//div[@class='module-item-note']/text()",
+    "cateUrl": "https://www.xigutv.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "cateVodNode": "//a[@class='module-poster-item module-item']",
+    "cateVodName": "/@title",
+    "cateVodId": "/@href",
+    "cateVodIdR": "/index.php/vod/detail/id/(.+).html",
+    "cateVodImg": "//img/@data-original",
+	"cateVodImgR": "(https?.+)",
+    "cateVodMark": "//div[@class='module-item-note']/text()",
+    "dtUrl": "https://www.xigutv.com/index.php/vod/detail/id/{vid}.html",
+    "dtNode": "//body",
+    "dtName": "//h1/text()",
+    "dtImg": "//img[@class='ls-is-cached lazy lazyload']/@data-original",
+	"dtImgR": "(https?.+)",
+	
+    "dtCate": "concat(//div[@class='module-info-tag-link']//text())",
+    "dtCateR":"(.+?)/*$",
+    "dtActor": "concat(//div[@class='module-info-item'][2]/div[@class='module-info-item-content']//text())",
+    "dtActorR":"(.+?)/*$",
+    "dtDirector": "//div[@class='module-info-item'][1]/div[@class='module-info-item-content']//text()",
+    "dtDirectorR": "(.+?)/*$",
+    "dtDesc": "//div[@class='module-info-introduction-content']/p/text()",
+
+    "dtFromNode": "//div[@id='y-playList']/div[contains(@class,'module-tab-item tab-item')]",
+    "dtFromName": "concat(//text(),'集')",
+    "dtFromNameR": "",
+    "dtUrlNode": "//div[@id='panel1']",
+    "dtUrlSubNode": "//a",
+    "dtUrlId": "/@href",
+    "dtUrlIdR": "/index.php/vod/play/id/(.+).html",
+    "dtUrlName": "//text()",
+    "dtUrlNameR": "",
+    "playUrl": "https://www.xigutv.com/index.php/vod/play/id/{playUrl}.html",
+	"playUa": "",
+
+    "searchUrl": "https://www.xigutv.com/index.php/vod/search/page/1/wd/{wd}.html",
+   "scVodNode": "//div[@class='module-card-item module-item'][position()<6]",
+  "scVodName": "//strong/text()",
+  "scVodId": "/a/@href",
+  "scVodIdR": "/index.php/vod/detail/id/(.+).html",
+  "scVodImg": "//img/@data-original",
+  "scVodImgR":"(https?.+)",
+  "scVodMark": "//div[@class='module-item-note']/text()",
+  "filter":{"1": [
+            {
+            "key": "year",
+            "name": "年份",
+            "value": [{
+                "n": "全部",
+                "v": ""
+            }, {
+                "n": "2022",
+                "v": "2022"
+            }, {
+                "n": "2021",
+                "v": "2021"
+            }, {
+                "n": "2020",
+                "v": "2020"
+            }, {
+                "n": "2019",
+                "v": "2019"
+            }, {
+                "n": "2018",
+                "v": "2018"
+            }, {
+                "n": "2017",
+                "v": "2017"
+            }, {
+                "n": "2016",
+                "v": "2016"
+            }, {
+                "n": "2015",
+                "v": "2015"
+            }, {
+                "n": "2014",
+                "v": "2014"
+            }, {
+                "n": "2013",
+                "v": "2013"
+            }, {
+                "n": "2012",
+                "v": "2012"
+            }, {
+                "n": "2011",
+                "v": "2011"
+            }, {
+                "n": "2010",
+                "v": "2010"
+            }]
+        }, {
+            "key": "by",
+            "name": "排序",
+            "value": [{
+                "n": "全部",
+                "v": ""
+            }, {
+                "n": "时间排序",
+                "v": "time"
+            }, {
+                "n": "人气排序",
+                "v": "hits"
+            }, {
+                "n": "评分排序",
+                "v": "score"
+            }]
+        }],
+		"2": [
+            {
+            "key": "year",
+            "name": "年份",
+            "value": [{
+                "n": "全部",
+                "v": ""
+            }, {
+                "n": "2022",
+                "v": "2022"
+            }, {
+                "n": "2021",
+                "v": "2021"
+            }, {
+                "n": "2020",
+                "v": "2020"
+            }, {
+                "n": "2019",
+                "v": "2019"
+            }, {
+                "n": "2018",
+                "v": "2018"
+            }, {
+                "n": "2017",
+                "v": "2017"
+            }, {
+                "n": "2016",
+                "v": "2016"
+            }, {
+                "n": "2015",
+                "v": "2015"
+            }, {
+                "n": "2014",
+                "v": "2014"
+            }, {
+                "n": "2013",
+                "v": "2013"
+            }, {
+                "n": "2012",
+                "v": "2012"
+            }, {
+                "n": "2011",
+                "v": "2011"
+            }, {
+                "n": "2010",
+                "v": "2010"
+            }]
+        }, {
+            "key": "by",
+            "name": "排序",
+            "value": [{
+                "n": "全部",
+                "v": ""
+            }, {
+                "n": "时间排序",
+                "v": "time"
+            }, {
+                "n": "人气排序",
+                "v": "hits"
+            }, {
+                "n": "评分排序",
+                "v": "score"
+            }]
+        }],
+		"3": [
+            {
+            "key": "year",
+            "name": "年份",
+            "value": [{
+                "n": "全部",
+                "v": ""
+            }, {
+                "n": "2022",
+                "v": "2022"
+            }, {
+                "n": "2021",
+                "v": "2021"
+            }, {
+                "n": "2020",
+                "v": "2020"
+            }, {
+                "n": "2019",
+                "v": "2019"
+            }, {
+                "n": "2018",
+                "v": "2018"
+            }, {
+                "n": "2017",
+                "v": "2017"
+            }, {
+                "n": "2016",
+                "v": "2016"
+            }, {
+                "n": "2015",
+                "v": "2015"
+            }, {
+                "n": "2014",
+                "v": "2014"
+            }, {
+                "n": "2013",
+                "v": "2013"
+            }, {
+                "n": "2012",
+                "v": "2012"
+            }, {
+                "n": "2011",
+                "v": "2011"
+            }, {
+                "n": "2010",
+                "v": "2010"
+            }]
+        }, {
+            "key": "by",
+            "name": "排序",
+            "value": [{
+                "n": "全部",
+                "v": ""
+            }, {
+                "n": "时间排序",
+                "v": "time"
+            }, {
+                "n": "人气排序",
+                "v": "hits"
+            }, {
+                "n": "评分排序",
+                "v": "score"
+            }]
+        }],
+		"4": [
+            {
+            "key": "year",
+            "name": "年份",
+            "value": [{
+                "n": "全部",
+                "v": ""
+            }, {
+                "n": "2022",
+                "v": "2022"
+            }, {
+                "n": "2021",
+                "v": "2021"
+            }, {
+                "n": "2020",
+                "v": "2020"
+            }, {
+                "n": "2019",
+                "v": "2019"
+            }, {
+                "n": "2018",
+                "v": "2018"
+            }, {
+                "n": "2017",
+                "v": "2017"
+            }, {
+                "n": "2016",
+                "v": "2016"
+            }, {
+                "n": "2015",
+                "v": "2015"
+            }, {
+                "n": "2014",
+                "v": "2014"
+            }, {
+                "n": "2013",
+                "v": "2013"
+            }, {
+                "n": "2012",
+                "v": "2012"
+            }, {
+                "n": "2011",
+                "v": "2011"
+            }, {
+                "n": "2010",
+                "v": "2010"
+            }]
+        }, {
+            "key": "by",
+            "name": "排序",
+            "value": [{
+                "n": "全部",
+                "v": ""
+            }, {
+                "n": "时间排序",
+                "v": "time"
+            }, {
+                "n": "人气排序",
+                "v": "hits"
+            }, {
+                "n": "评分排序",
+                "v": "score"
+            }]
+        }],
+		"20": [
+            {
+            "key": "year",
+            "name": "年份",
+            "value": [{
+                "n": "全部",
+                "v": ""
+            }, {
+                "n": "2022",
+                "v": "2022"
+            }, {
+                "n": "2021",
+                "v": "2021"
+            }, {
+                "n": "2020",
+                "v": "2020"
+            }, {
+                "n": "2019",
+                "v": "2019"
+            }, {
+                "n": "2018",
+                "v": "2018"
+            }, {
+                "n": "2017",
+                "v": "2017"
+            }, {
+                "n": "2016",
+                "v": "2016"
+            }, {
+                "n": "2015",
+                "v": "2015"
+            }, {
+                "n": "2014",
+                "v": "2014"
+            }, {
+                "n": "2013",
+                "v": "2013"
+            }, {
+                "n": "2012",
+                "v": "2012"
+            }, {
+                "n": "2011",
+                "v": "2011"
+            }, {
+                "n": "2010",
+                "v": "2010"
+            }]
+        }, {
+            "key": "by",
+            "name": "排序",
+            "value": [{
+                "n": "全部",
+                "v": ""
+            }, {
+                "n": "时间排序",
+                "v": "time"
+            }, {
+                "n": "人气排序",
+                "v": "hits"
+            }, {
+                "n": "评分排序",
+                "v": "score"
+            }]
+        }]}
+}

@@ -1,0 +1,183 @@
+1、Pluto 的启动 可以设置密码了
+
+// 配置文件密码
+"password": "123456"
+
+2、每日一言
+
+// 每日一言 (随机显示欢迎语)
+"dairyWords": [{
+    "name": "rating",
+    "request": {
+      "method": "GET",
+      "url": {
+        "raw": "https://saying.api.azwcl.com/saying/get"
+      }
+    },
+    "response": {
+        "result": "$.data.content"
+    },
+    "expires" : "43200"
+}],
+
+
+3、// 驱动器 (可选)
+"drives": [
+  {"name":"aList","server":"http://alist.lan:8000/dav/","userName":"****","password":"****","type":"webdav"}, 
+  {"name":"DSM","server":"http://dsm.lan:5000","userName":"****","password":"****","type":"webdav"},
+  {"name":"ali-WebDAV-App","server":"http://127.0.0.1:8080/","userName":"****","password":"****","type":"webdav"}
+],
+
+4、
+// 字幕格式 (可选)
+"subtitle": {"color": "#FFFFFF", "size": "18"},
+
+5、
+// 壁纸 支持URL/颜色代码 (可选)
+"wallpaper": "#000000",
+
+6、
+// 默认浏览器首页
+"homepage": "https://m.baidu.com/",
+7、// 首页推荐视频 (豆瓣)
+"recommend": [{
+  "name": "豆瓣推荐",
+  "request": {
+    "method": "GET",
+    "header": [{
+      "key": "Referer",
+      "value": "https://movie.douban.com/"
+    }],
+    "url": {
+      "raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"
+    }
+  },
+  "response": {
+    "result": "$.data",
+    "data": [{
+        "key": "name",
+        "value": "title"
+      },
+      {
+        "key": "note",
+        "value": "rate"
+      },
+      {
+        "key": "pic",
+        "value": "cover"
+      }
+    ]
+  },
+  "expires" : "86400"
+}],
+
+
+// 首页推荐视频 (IMDb Popular Movies)
+"recommend": [{
+    "name": "imdb",
+    "request": {
+      "method": "GET",
+      "url": {
+        "raw": "https://imdb-api.com/en/API/MostPopularMovies/k_1kz039kt"
+      }
+    },
+    "response": {
+        "result": "$.items",
+        "data": [
+          {
+            "key": "name",
+            "value": "title"
+          },
+          {
+            "key": "note",
+            "value": "imDbRating"
+          },
+          {
+            "key": "pic",
+            "value": "image"
+          }
+        ]
+    },
+    "expires" : "86400"
+}],
+
+8、
+// 评分 (数据来自 豆瓣)
+"rating": [{
+    "name": "rating",
+    "request": {
+      "method": "GET",
+      "url": {
+        "raw": "https://api.wmdb.tv/api/v1/movie/search?q={name}&limit=1"
+      }
+    },
+    "response": {
+        "result": "this",
+        "data": [
+          {
+            "key": "rating",
+            "value": "doubanRating"
+          }
+        ]
+    }
+}],
+
+// 评分 (数据来自 IMDB)
+"rating": [{
+    "name": "rating",
+    "request": {
+      "method": "GET",
+      "url": {
+        "raw": "https://api.wmdb.tv/api/v1/movie/search?q={name}&limit=1"
+      }
+    },
+    "response": {
+        "result": "this",
+        "data": [
+          {
+            "key": "rating",
+            "value": "imdbRating"
+          }
+        ]
+    }
+}],
+
+9、
+{
+
+// 源
+"sites":[
+  //api 对应 Class com.github.catvod.spider.source.A
+  {"key":"唯一键值","name":"显示名称(可选)","type":3,"api":"plugin.source.A","searchable":1,"quickSearch":1,"filterable":1,"plugin":"可选调用其他插件的jar包","password": "频道密码", "ext": "插件拓展数据"}
+}
+
+
+// 热搜关键字
+"hotSearch": [],
+
+// 输入法智能联想接口
+"association": [],
+
+// 中文分词接口
+"pullWord": [{
+  "name": "pullWord",
+  "request": {
+    "method": "GET",
+    "url": {
+      "raw": "http://api.pullword.com/get.php?source={source}&param1=0&param2=0&json=1"
+    }
+  },
+  "response": {
+    "data": [{
+      "key": "keyword",
+      "value": "t"
+    }]
+  }
+}],
+
+
+// 加载插件 支持相对路径 ./ 相对于主配置文件json所在位置 适用于所有环境
+"plugin": "./jar/test.jar",
+
+...
+}

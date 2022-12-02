@@ -1,0 +1,48 @@
+{
+"author": "dj22.9.1",
+"ua": "",
+"homeUrl": "http://www.88kanqiu.cc/",
+"cateManual": {
+"DJ-88看球直播": "dj666"
+},
+
+"cateUrl": "http://www.88kanqiu.cc",
+"cateVodNode": "//div[@class='row d-none d-lg-flex justify-content-between align-items-center vertical-center']",
+"cateVodName": "concat(/div[@class='col-md-4 text-right']/span/text(),'vs',/div[@class='col-md-4 text-left']/span/text())",
+"cateVodId": "/div[contains(@class,'pay-btn')]/a/@href",
+"cateVodIdR": "/live/(\\d+)/play",
+"cateVodImg": "/div[4]/img/@src",
+"cateVodImgR": "\\S+(http\\S+)",
+"cateVodMark": "concat(/div[contains(@class,'category-game-time')]/text(),'-',/div[contains(@class,'pay-btn')]/a/text())",
+
+	// 详情页
+	"dtUrl": "http://www.88kanqiu.cc/live/{vid}/play",
+	// 详情节点
+    "dtNode": "//head",
+	// 视频名
+    "dtName": "/title/text()",
+	// 视频图片
+    "dtImg": "'http://ys-f.ysepan.com/621545016/119101634/h485U2V3523QLJkfsqlj8a/%E5%B0%81%E9%9D%A2.jpg'",
+    // 视频简介
+    "dtDesc": "concat('DJ - ','Never underestimate the heart of a champion! ','篮球迷588741862')",
+	
+	// 播放源节点
+    "dtFromNode": "//body",
+	// 播放源名称
+    "dtFromName":  "'【直播源】'",
+	// 播放列表节点
+    "dtUrlNode": "//div[@class='game-videos-btn-container']",
+	// 播放地址节点
+    "dtUrlSubNode": "//a[@rel='nofollow']",
+	// 播放地址
+    "dtUrlId": "/@href",
+    "dtUrlIdR": "(\\S+)",
+	// 剧集名称
+    "dtUrlName": "/text()",
+	
+	//播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
+    "playUrl":"http://www.88kanqiu.cc{playUrl}"
+
+
+
+}

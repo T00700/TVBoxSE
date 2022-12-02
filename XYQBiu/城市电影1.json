@@ -1,0 +1,87 @@
+{
+    "title": "城市电影",
+    "author": "灰太狼",
+    "UserAgent":"(Linux; Android 10; DBY-W09 Build/HUAWEIDBY-W09;) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.93 Safari/537.36", //可填MOBILE_UA或PC_UA内置手机或电脑UA
+    "Referer":"WebView", //一般很少用，留空或删除
+    "homeContent":"0", //开启首页，0关闭，1开启
+  //分类数据
+    "firstpage": "1",  //起始页码。
+    //分类链接,{cateId}是分类，{catePg}是页码,第一页没有页码的可以这样写 第二页链接[firstPage=第一页的链接]
+    //https://www.citydy.com/type/id-{cateId}-{catePg}.html
+    "class_url": "https://www.citydy.com/show/id-{cateId}/page/{catePg}.html",
+    "class_name": "电影&电视剧&综艺&动漫",   //分类名，分类1&分类2&分类3
+    "class_value": "1&2&3&4",
+    "filterdata":{},
+    //数组数据
+    "cat_YN_twice": "1", //分类是否二次截取
+    "cat_twice_pre": "class=\"col-sm-6",  //分类二次截取前
+    "cat_twice_suf": "class=\"footer text-center",  //分类二次截取后 
+    "cat_arr_pre": "<a", //分类数组截取前  
+    "cat_arr_suf": "</span>",  //分类数组截取后 
+    "cat_pic": "data-original=\"&&\"", //图片截取前缀&&截取后缀  
+    "cat_title": "title=\"&&\"",  //标题，截取前缀&&截取后缀
+    "cat_subtitle": "right\">&&</span>",  //副标题，截取前缀&&截取后缀
+    "cat_url": "pic\" href=\"&&\"",    //链接，截取前缀&&截取后缀
+    "cat_prefix": "https://www.citydy.com",  //链接前缀 
+    "cat_suffix": "",  //链接补后缀  
+    //搜索链接，搜索关键字用{wd}表示，post请求的最后面加;post
+    //POST链接示例 https://www.citydy.com/index.php?m=vod-search;post
+    "search_url": "https://www.citydy.com/search.html?wd={wd};post",
+    //POST搜索body，填写搜索关键字的键值，一般常见的是searchword和wd，不是POST搜索的可留空或删除。
+    "sea_PtBody":"wd={wd}&search=",
+    //搜索模式,0为json搜索，只支持列表在list数组里的，其它为网页截取。
+    "search_mode": "0",
+    "jsonpic": "pic",  //json片单图片
+    "jsonname": "name",  //json片单标题
+    "jsonid": "id",  //json片单链接
+    "jsonstitle":"",  //json片单副标题，这个很少有，预留着
+    "sea_YN_twice": "0",  //搜索是否二次截取  
+    "sea_twice_pre": "空",   //搜索二次截取前
+    "sea_twice_suf": "空",  //搜索二次截取后
+    "sea_arr_pre": "空",  //搜索数组前缀
+    "sea_arr_suf": "空",   //搜索数组后缀
+    "sea_pic": "data-original=\"&&\"",   //搜索图片截取前缀&&截取后缀
+    "sea_title": "title=\"&&\"",  //搜索标题，截取前缀&&截取后缀 
+    "sea_url": "href=\"&&\"",  //搜索链接，截取前缀&&截取后缀
+    "search_prefix": "https://www.citydy.com",  //搜索链接补前缀
+    "search_suffix": "",   //搜索链接补后缀，这个一般json搜索的需要
+    "sea_subtitle": "",  //搜索副标题，截取前缀&&截取后缀
+    //直接播放数据
+    "force_play": "0",  //链接是否直接播放，1播放，0否。
+    "play_prefix": "https://live.52sf.ga/huya/",  //直接播放链接补前缀
+    //直接播放链接补后缀，设置为#isVideo=true#可强制识别为视频链接
+    "play_suffix": "#isVideo=true#",
+    //直接播放链接设置请求头，只对直链视频有效，每一组用#分开
+    "play_header": "authority$ku.peizq.online#Referer$https://play.peizq.online",
+    //演员与简介
+    "proj_actor": "主演：</span>&&</a>",  //演员截取前缀&&截取后缀
+    "proj_plot": "简介：</span>&&</p>",  //简介内容，截取前缀&&截取后缀    
+    //线路名数据
+    "tab_YN_twice": "0",  //线路是否二次截取
+    "tab_twice_pre": "",  //线路二次截取前
+    "tab_twice_suf": "",  //线路二次截取后
+    "tab_arr_pre": "class=\"gico",  //线路截取数组前
+    "tab_arr_suf": "</span>",  //线路截取数组后
+    "tab_title": ">&&<",   //线路标题，截取前缀&&截取后缀
+    //播放列表及数据
+    "list_YN_twice": "0",  //列表是否二次截取
+    "list_twice_pre": "空",  //列表二次截取前
+    "list_twice_suf": "空",  //列表二次截取后
+    "list_arr_pre": "class=\"play-div-oa",   //列表数组截取前，必须
+    "list_arr_suf": "</div>",   //列表数组截取后，必须
+    "epi_YN_twice": "0",   //集数是否二次截取
+    "epi_twice_pre": "空",  //集数二次截取前  
+    "epi_twice_suf": "空",  //集数二次截取后
+    "epi_arr_pre": "<a",   //集数数组截取前，必须
+    "epi_arr_suf": "/a>",  //集数数组截取后，必须
+    "epi_title": ">&&<",  //标题截取前缀&&截取后缀
+    "epi_url": "href=\"&&\"",  //链接截取前缀&&截取后缀
+    "epiurl_prefix": "https://www.citydy.com",  //链接补前缀
+    "epiurl_suffix": "",   //集数链接补后缀
+    //分析网页源码中有<script type="text/javascript">var player_aaaa={"flag":"play","encrypt这种源码的链接解析为1没有折为0
+    "Anal_MacPlayer":"1",
+    //网页嗅探关键词开启有效，0否，1是
+    "ManualSniffer":"1",
+    //嗅探视频链接关键词每个用#隔开
+    "VideoFormat":".mp4#.m3u8#shtpin.com"
+}

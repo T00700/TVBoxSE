@@ -1,0 +1,98 @@
+{
+	"ua": "",
+    // 首页地址 用于获取 分类和首页推荐
+	"homeUrl": "https://www.grab4k.com",
+    // 分类节点
+	"cateNode": "//div[@class='nav']//a[contains(@href,'/vod/')]",
+    // 分类名
+	"cateName": "/@title",
+    // 分类id
+	"cateId": "/@href",
+    // 分类id二次处理正则
+	"cateIdR": "/vod/show/id/(\\S+).html",
+    // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
+	"cateManual": {},
+    // 首页推荐视频的节点
+	"cateVodNode": "//div[@class='module-item-pic']",
+	"homeVodName": "/a/@title",
+	"homeVodNameR": "",
+	"homeVodId": "/a/@href",
+	"homeVodIdR": "/down/(\\S+).html",
+	"homeVodImg": "/img/@data-src",
+	"homeVodImgR": "",
+	"homeVodMark": "/parent::*//span[contains(text(),'豆瓣')]/text()",
+    // 分类页地址 {cateId} 分类id {catePg} 当前页
+	"cateUrl": "https://www.grab4k.com/vod/show/id/{cateId}/page/{catePg}.html",
+    // 同上面的homeVod字段 分类列表中的视频信息
+	"cateVodNode": "//div[@class='module-item-pic']",
+	"cateVodName": "/a/@title",
+	"cateVodNameR": "",
+	"cateVodId": "/a/@href",
+	"cateVodIdR": "/down/(\\S+).html",
+	"cateVodImg": "/img/@data-src",
+	"cateVodImgR": "",
+	"cateVodMark": "/parent::*//span[contains(text(),'豆瓣')]/text()",
+    // 详情页地址 用于获取详情页信息 及 播放列表和地址
+	"dtUrl": "https://www.grab4k.com/down/{vid}.html",
+    // 详情节点
+	"dtNode": "//main[@id='main']",
+    // 视频名
+	"dtName": "//img[@alt]/@alt",
+	"dtNameR": "",
+    // 视频图片
+	"dtImg": "//img[@alt]/@data-src",
+	"dtImgR": "",
+    // 视频分类
+	"dtCate": "//div[@class='video-info-aux scroll-content']/a[1]/text()",
+	"dtCateR": "",
+    // 视频年份
+	"dtYear": "//div[@class='video-info-aux scroll-content']/a[2]/text()",
+	"dtYearR": "",
+    // 视频地区
+	"dtArea": "//div[contains(@class,'video-info-aux')]/a[3]/text()",
+	"dtAreaR": "",
+    // 视频状态
+	"dtMark": "//span[contains(text(),'更新')]/following-sibling::*//text()",
+	"dtMarkR": "",
+    // 主演
+	"dtActor": "concat(//span[contains(text(),'主演')]/following-sibling::*//text())",
+	"dtActorR": "",
+    // 导演
+	"dtDirector": "concat(//span[contains(text(),'导演')]/following-sibling::*//text())",
+	"dtDirectorR": "",
+    // 视频简介
+	"dtDesc": "//div[contains(@class,'video-info-content')]/span/text()",
+	"dtDescR": "",
+    // 播放源节点
+	"dtFromNode": "//div[@id='download-list']",
+    // 播放源名称
+	"dtFromName": "//h2/text()",
+    // 二次处理正则
+	"dtFromNameR": "",
+    // 播放列表节点
+	"dtUrlNode": "//div[@class='module-row-one']",
+    // 播放地址节点
+	"dtUrlSubNode": "/div[last()]/a/div[@class='module-row-title']",
+    // 播放地址
+	"dtUrlId": "/p/text()",
+    // 二次处理正则
+	"dtUrlIdR": "(\\S+)&\\S+",
+    // 剧集名称
+	"dtUrlName": "/h4/text()",
+    // 二次处理正则
+	"dtUrlNameR": "",
+    // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
+	"playUrl": "{playUrl}",
+    // 解析webview的user-agent
+	"playUa": "",
+    // 搜索地址
+  "searchUrl": "https://www.grab4k.com/vod/search.html?wd={wd}",
+	"scVodNode": "//div[@class='module-item-pic']",
+	"scVodName": "/a/@title",
+	"scVodNameR": "",
+	"scVodId": "/a/@href",
+	"scVodIdR": "/down/(\\S+).html",
+	"scVodImg": "/img/@data-src",
+	"scVodImgR": "",
+	"scVodMark": "/parent::*//span[contains(text(),'豆瓣')]/text()"
+}

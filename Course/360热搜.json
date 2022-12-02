@@ -1,0 +1,27 @@
+热搜关键字失效的可以把下面这段加到配置文件
+
+// 360 热搜api
+"hotSearch": [{
+    "name": "mobilesearch",
+    "request": {
+      "method": "GET",
+      "header": [
+        {
+          "key": "Referer",
+          "value": "https://www.360kan.com/"
+        }
+      ],
+      "url": {
+        "raw": "https://api.web.360kan.com/v1/query/addef?ver=2&t={time}"
+      }
+    },
+    "response": {
+        "result": "$.data",
+        "data": [
+          {
+            "key": "keyword",
+            "value": "title"
+          }
+        ]
+    }
+}],
