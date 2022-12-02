@@ -1,3 +1,4 @@
+# https://ghproxy.com/https://raw.githubusercontent.com/T00700/TVBoxOS/master/vvebo.json
 # https://jsd.cdn.zzko.cn/gh/T00700/TVBoxOS@master/vvebo.json
 # https://raw.iqiq.io/T00700/TVBoxOS/master/vvebo.json
 # https://raw.kgithub.com/T00700/TVBoxOS/master/vvebo.json
