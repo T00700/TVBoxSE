@@ -8,7 +8,7 @@
 
 "sites":[
 {"key":"csp_Kunyu77","name":"手机端┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_AppTT","name":"电视端┃图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://110.42.6.212:5566"},
+{"key":"csp_AppTT","name":"电视端┃图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.35.148:9797/api/tutuapp.php"},
 
 {"key":"csp_JRSKan","name":"体育┃赛事直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontents.com/T00700/TVBoxOS/master/XPath/jrskan2.json"},
 {"key":"csp_Bili","name":"曲艺┃相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontents.com/T00700/TVBoxOS/master/Bilibili/Bili_%E7%9B%B8%E5%A3%B0.txt"},
