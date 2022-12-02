@@ -1,13 +1,4 @@
 {
-//备用配置
-//https://pandora2277.github.io/tang.bmp
-//https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
-//http://xn--m7r412advb92j21st65a.tk/pz.json
-//http://pandown.pro/tvbox/tvbox.json
-//http://101.34.67.234/config/3
-//http://home.jundie.top:81/top98.json
-//http://111.67.196.181/mtv/meow.txt
-
 "spider":"https://agit.ai/00700/vvebo/raw/branch/main/spider/vvebo.jar;md5;C5816E74C0E417E5D19D35A3E5DE6E5F",
 "wallpaper":"https://agit.ai/00700/vvebo/raw/branch/main/wallpaper/03.png",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzAwNzAwL3Z2ZWJvL3Jhdy9icmFuY2gvbWFpbi9saXZlLnR4dA=="]}]}],
