@@ -45,7 +45,7 @@
 	// 播放源节点
     "dtFromNode": "//div[@class='sub_channel']",
 	// 播放源名称
-    "dtFromName":  "concat('【优先选择中文超清或中文高清观看','】')",
+    "dtFromName":  "concat('【优先选择中文超清或中文高清观看】')",
     "dtFromNameR": "",
 	// 播放列表节点
     "dtUrlNode": "//div[@class='sub_channel']",
