@@ -2,22 +2,22 @@
 //敬谢开发：@CatVodTVOfficial、@q215613905/TVBoxOS、@救阴白骨爪、@香雅情、@劳思、@道长
 //特别鸣谢：@所有被白嫖的影视资源站长、@所有免费分享直播源的资源站长、@所有提供免费解析的资源站长
 
-"spider":"https://jsd.cdn.zzko.cn/gh/T00700/TVBoxOS@master/spider/vvebo.jar;md5;FA1981D675136061C6BA1A1F98966633",
-"wallpaper":"https://jsd.cdn.zzko.cn/gh/T00700/TVBoxOS@master/wallpaper/03.png",
-"lives":[{"name":"直播","type":0,"url":"https://jsd.cdn.zzko.cn/gh/T00700/TVBoxOS@master/live.txt"}],
+"spider":"https://raw.iqiq.io/T00700/TVBoxOS/master/spider/vvebo.jar;md5;FA1981D675136061C6BA1A1F98966633",
+"wallpaper":"https://raw.iqiq.io/T00700/TVBoxOS/master/wallpaper/03.png",
+"lives":[{"name":"直播","type":0,"url":"https://raw.iqiq.io/T00700/TVBoxOS/master/live.txt"}],
 
 "sites":[
 {"key":"csp_Kunyu77","name":"手机端┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"电视端┃图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.35.148:9797/api/tutuapp.php"},
 
-{"key":"csp_JRSKan","name":"体育┃赛事直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jsd.cdn.zzko.cn/gh/T00700/TVBoxOS@master/XPath/jrskan2.json"},
-{"key":"csp_Bili","name":"曲艺┃相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jsd.cdn.zzko.cn/gh/T00700/TVBoxOS@master/Bilibili/Bili_%E7%9B%B8%E5%A3%B0.txt"},
-{"key":"csp_liveTV","name":"️直播┃电视直播","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jsd.cdn.zzko.cn/gh/T00700/TVBoxOS@master/XYQPlugin/liveTV.json"},
+{"key":"csp_JRSKan","name":"体育┃赛事直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/T00700/TVBoxOS/master/XPath/jrskan2.json"},
+{"key":"csp_Bili","name":"曲艺┃相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/T00700/TVBoxOS/master/Bilibili/Bili_%E7%9B%B8%E5%A3%B0.txt"},
+{"key":"csp_liveTV","name":"️直播┃电视直播","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/T00700/TVBoxOS/master/XYQPlugin/liveTV.json"},
 {"key":"csp_Zxzj","name":"点播┃欧美日韩","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_SP360","name":"官网┃爱优腾芒","type":3,"api":"csp_SP360","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"影视┃快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Nmys","name":"影视┃剧集倒叙","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jsd.cdn.zzko.cn/gh/T00700/TVBoxOS@master/XPath/nmys.json"},
+{"key":"csp_Nmys","name":"影视┃剧集倒叙","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/T00700/TVBoxOS/master/XPath/nmys.json"},
 
 {"key":"csp_Lezhu","name":"影视┃乐猪影视","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.lezhutv.com/list/{cateId}_{catePg}__time_____.html"},
 {"key":"csp_Voflix","name":"影视┃沃利克斯","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.voflix.com/show/{cateId}--------{catePg}---.html"},
