@@ -2,7 +2,7 @@
 //致谢开发：@CatVodTVOfficial、@q215613905/TVBoxOS、@救阴白骨爪、@香雅情、@劳思、@道长
 //特别鸣谢：@所有被白嫖的影视资源站长、@所有免费分享直播源的资源站长、@所有提供免费解析的资源站长
 
-"spider":"https://raw.codehub.cn/p/tvbox/d/vvebo/git/raw/master/Spider/vvebo.jar?token=6aCZ9PU58iun77CMr56oiO9tDQ4V8XmzcQFSAyfw44;md5;FA1981D675136061C6BA1A1F98966633",
+"spider":"https://notabug.org/thorjsbox/pluot/raw/master/vvebo.jar;md5;FA1981D675136061C6BA1A1F98966633",
 "wallpaper":"https://ghproxy.com/https://raw.githubusercontent.com/T00700/TVBoxOS/master/wallpaper/03.png",
 "lives":[{"name":"直播","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/T00700/TVBoxOS/master/live.txt"}],
 
