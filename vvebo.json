@@ -3,7 +3,7 @@
 //特别鸣谢：@所有被白嫖的影视资源站长、@所有免费分享直播源的资源站长、@所有提供免费解析的资源站长
 
 "spider":"https://notabug.org/00700/TVBoxSE/raw/master/Spider/vvebo.jar;md5;FA1981D675136061C6BA1A1F98966633",
-"wallpaper":"https://ghproxy.com/https://raw.githubusercontent.com/T00700/TVBoxSE/master/wallpaper/03.png",
+"wallpaper":"https://notabug.org/00700/TVBoxSE/master/wallpaper/03.png",
 "lives":[{"name":"直播","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/T00700/TVBoxSE/master/live.txt"}],
 
 "sites":[
