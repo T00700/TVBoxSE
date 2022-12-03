@@ -12,4 +12,4 @@ Takagen99_TVBox:https://github.com/takagen99/Box.git
 
 Pluto-player:https://github.com/pluto-player/updates
 
-道长:https://gitcode.net/qq_32394351/dr_py
+道长_DR_JS:https://gitcode.net/qq_32394351/dr_py
