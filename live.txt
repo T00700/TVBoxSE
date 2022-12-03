@@ -1,16 +1,19 @@
 央视频道,#genre#
 CCTV-1,http://yfsl.vsd.gehua.net.cn/live/CCTV1HD_1200.m3u8
 CCTV-1,http://124.220.17.172/as.php?id=1
+CCTV-1,http://218.29.55.44:808/hls/1/index.m3u8
 CCTV-1,http://hls.ye23.vip/hls/cctv1hd.m3u8
 CCTV-1,http://live.tvfix.org/hls/cctv1hd.m3u8
 
 CCTV-2,http://yfsl.vsd.gehua.net.cn/live/CCTV2HD_1200.m3u8
 CCTV-2,http://124.220.17.172/as.php?id=2
+CCTV-2,http://218.29.55.44:808/hls/2/index.m3u8
 CCTV-2,http://hls.ye23.vip/hls/cctv2hd.m3u8
 CCTV-2,http://live.tvfix.org/hls/cctv2hd.m3u8
 
 CCTV-5,http://yfsl.vsd.gehua.net.cn/live/CCTV5HD_1200.m3u8
 CCTV-5,http://124.220.17.172/as.php?id=5
+CCTV-5,http://218.29.55.44:808/hls/5/index.m3u8
 CCTV-5,http://hls.ye23.vip/hls/cctv5hd.m3u8
 CCTV-5,http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
 CCTV-5,http://live.tvfix.org/hls/cctv5hd.m3u8
@@ -22,21 +25,25 @@ CCTV-5+,http://live.tvfix.org/hls/cctv5phd.m3u8
 
 CCTV-6,http://yfsl.vsd.gehua.net.cn/live/CCTV6HD_1200.m3u8
 CCTV-6,http://124.220.17.172/as.php?id=6
+CCTV-6,http://218.29.55.44:808/hls/6/index.m3u8
 CCTV-6,http://hls.ye23.vip/hls/cctv6hd.m3u8
 CCTV-6,http://live.tvfix.org/hls/cctv6hd.m3u8
 
 CCTV-10,http://yfsl.vsd.gehua.net.cn/live/CCTV10HD_1200.m3u8
 CCTV-10,http://124.220.17.172/as.php?id=10
+CCTV-10,http://218.29.55.44:808/hls/10/index.m3u8
 CCTV-10,http://hls.ye23.vip/hls/cctv10hd.m3u8
 CCTV-10,http://live.tvfix.org/hls/cctv10hd.m3u8
 
 CCTV-12,http://yfsl.vsd.gehua.net.cn/live/CCTV12HD_1200.m3u8
 CCTV-12,http://124.220.17.172/as.php?id=12
+CCTV-12,http://218.29.55.44:808/hls/12/index.m3u8
 CCTV-12,http://hls.ye23.vip/hls/cctv12hd.m3u8
 CCTV-12,http://live.tvfix.org/hls/cctv12hd.m3u8
 
 CCTV-13,http://yfsl.vsd.gehua.net.cn/live/CCTV13HD_1200.m3u8
 CCTV-13,http://124.220.17.172/as.php?id=13
+CCTV-13,http://218.29.55.44:808/hls/13/index.m3u8
 CCTV-13,http://hls.ye23.vip/hls/cctv13hd.m3u8
 CCTV-13,http://live.tvfix.org/hls/cctv13hd.m3u8
 
