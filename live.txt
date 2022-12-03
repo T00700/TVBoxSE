@@ -170,6 +170,7 @@ JJ斗地主,http://36.99.180.171/txdirect.hls.huya.com/src/0-0-0-3666366740-1005
 东北戏曲,http://stream1.jlntv.cn/dbxq/sd/live.m3u8
 梨园戏曲,http://media.hndyjyfw.gov.cn/live/jz-henanliyuan/live.m3u8
 梨园戏曲,http://123.6.9.146/live/jz-henanliyuan/live.m3u8
+梨园戏曲,http://218.29.55.44:808/hls/25/index.m3u8
 梨园戏曲,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 移动戏曲,http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8
 七彩戏剧,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
