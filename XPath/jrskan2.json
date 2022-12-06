@@ -53,7 +53,7 @@
     "dtUrlSubNode": "/a",
     "dtUrlSub": "/ff",
 	// 播放地址
-    "dtUrlId": "@data-play",
+    "dtUrlId": "@data-play=",
     "dtUrlIdR": "/play/(\\S+)",
 	//"dtUrlIdR": "\\S+/(\\d+)&id2=",
 	// 剧集名称
