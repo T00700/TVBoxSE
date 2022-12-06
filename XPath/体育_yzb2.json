@@ -27,7 +27,7 @@
 	// 视频图片
     "dtImg": "''",
     // 视频简介
-    "dtDesc": "concat('播放不了CCTV5和CCTV5+频道.会花屏')",
+    "dtDesc": "concat('播放不了CCTV5和CCTV5+频道.会花屏.想看去直播里看')",
 	
 	// 播放源节点
     "dtFromNode": "//body",
