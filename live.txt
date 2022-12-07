@@ -21,6 +21,7 @@ CCTV-5,http://live.tvfix.org/hls/cctv5hd.m3u8
 CCTV-5+,http://yfsl.vsd.gehua.net.cn/live/CCTV5plusHD_1200.m3u8
 CCTV-5+,http://124.220.17.172/as.php?id=5p
 CCTV-5+,http://60.10.167.88:808/hls/17/index.m3u8
+CCTV-5+,http://183.207.255.207/live/program/live/cctv5phd/4000000/mnf.m3u8
 CCTV-5+,http://live.tvfix.org/hls/cctv5phd.m3u8
 
 CCTV-6,http://yfsl.vsd.gehua.net.cn/live/CCTV6HD_1200.m3u8
