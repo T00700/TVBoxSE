@@ -55,37 +55,44 @@ CCTV-4K,http://159.75.85.63:8280/cctv4k.php
 
 卫视频道,#genre#
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+浙江卫视,http://hls.yun.gehua.net.cn:8088/live/ZheJiangHD_1200.m3u8
 浙江卫视,http://124.220.17.172/as.php?id=21
 浙江卫视,http://218.29.55.44:808/hls/26/index.m3u8
 浙江卫视,http://hls.ye23.vip/hls/zjwshd.m3u8
 浙江卫视,http://113.117.74.17:808/hls/43/index.m3u8
 
+北京卫视,http://hls.yun.gehua.net.cn:8088/live/BTV1HD_1200.m3u8
 北京卫视,http://124.220.17.172/as.php?id=24
 北京卫视,http://218.29.55.44:808/hls/29/index.m3u8
 北京卫视,http://hls.ye23.vip/hls/bjwshd.m3u8
 北京卫视,http://113.117.74.17:808/hls/45/index.m3u8
 
+江苏卫视,http://hls.yun.gehua.net.cn:8088/live/JiangSuHD_1200.m3u8
 江苏卫视,http://124.220.17.172/as.php?id=22
 江苏卫视,http://218.29.55.44:808/hls/28/index.m3u8
 江苏卫视,http://hls.ye23.vip/hls/jswshd.m3u8
 江苏卫视,http://113.117.74.17:808/hls/44/index.m3u8
 
+东方卫视,http://hls.yun.gehua.net.cn:8088/live/DongFangHD_1200.m3u8
 东方卫视,http://124.220.17.172/as.php?id=23
 东方卫视,http://tvmvip110.club/bs.php?id=22
 东方卫视,http://124.220.17.172/bestv.php?id=22
 东方卫视,http://hls.ye23.vip/hls/dfwshd.m3u8
 东方卫视,http://113.117.74.17:808/hls/47/index.m3u8
 
+湖南卫视,http://hls.yun.gehua.net.cn:8088/live/HuNanHD_1200.m3u8
 湖南卫视,http://124.220.17.172/as.php?id=20
 湖南卫视,http://218.29.55.44:808/hls/27/index.m3u8
 湖南卫视,http://hls.ye23.vip/hls/hnwshd.m3u8
 湖南卫视,http://113.117.74.17:808/hls/42/index.m3u8
 
+广东卫视,http://hls.yun.gehua.net.cn:8088/live/GuangDongHD_1200.m3u8
 广东卫视,http://124.220.17.172/as.php?id=26
 广东卫视,http://218.29.55.44:808/hls/30/index.m3u8
 广东卫视,http://hls.ye23.vip/hls/gdwshd.m3u8
 广东卫视,http://113.117.74.17:808/hls/40/index.m3u8
 
+辽宁卫视,http://hls.yun.gehua.net.cn:8088/live/LiaoNingHD_1200.m3u8
 辽宁卫视,http://124.220.17.172/as.php?id=41
 辽宁卫视,http://218.29.55.44:808/hls/34/index.m3u8
 辽宁卫视,http://hls.ye23.vip/hls/lnwshd.m3u8
