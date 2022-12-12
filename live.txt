@@ -133,6 +133,8 @@ CCTV-4K,http://www.56ku.ml/gudou.php?id=CCTVHHD4K_38000
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://117.169.124.146:8080/live/fhchinese/index.m3u8/live/fhzixun/index.m3u8
+东森新闻,mitv://fccs.word-tv.com:9906/62540c77000699df093f1528c8c4d48a
+中天新闻,mitv://fccs.word-tv.com:9906/625af85e0000d79c001149459e0c9b
 
 
 体育频道,#genre#
