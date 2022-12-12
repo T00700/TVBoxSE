@@ -134,6 +134,12 @@ CCTV-4K,http://www.56ku.ml/gudou.php?id=CCTVHHD4K_38000
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://117.169.124.146:8080/live/fhchinese/index.m3u8/live/fhzixun/index.m3u8
 东森新闻,P2p://ns2.hellotvvod.com:9906/365659c74e1049d1a907c5118405d2aa
+東森新聞0,mitv://54.39.16.152:9906/62540c77000699df093f1528c8c4d48a
+東森新聞1,mitv://51.81.90.178:9906/d98879e5737d4c44b3dd85bc349775e0
+東森新聞2,mitv://147.135.39.171:9906/5eb29b85000e2d4e0f44a539793f250c.ts
+東森新聞3,mitv://fccseuro.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2
+東森新聞4,mitv://fccseuro.pvbox.live:18912/5b1409520005add40bf29b36763a05a5
+東森新聞5,mitv://ns2.hellotvvod.com:9906/d98879e5737d4c44b3dd85bc349775e0
 中天新闻,mitv://fccs.word-tv.com:9906/625af85e0000d79c001149459e0c9b
 
 
