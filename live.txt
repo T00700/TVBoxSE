@@ -1,20 +1,20 @@
 央视频道,#genre#
+CCTV-1,http://qspyx.7766.org:9999/tsfile/live/0001_1.m3u8
 CCTV-1,http://124.220.17.172/as.php?id=1
 CCTV-1,http://218.29.55.44:808/hls/1/index.m3u8
 CCTV-1,http://hls.ye23.vip/hls/cctv1hd.m3u8
-CCTV-1,http://113.117.74.17:808/hls/1/index.m3u8
 CCTV-1,http://xjayrf.eatuo.com:9901/tsfile/live/1020_1.m3u8
 
+CCTV-2,http://qspyx.7766.org:9999/tsfile/live/0002_1.m3u8
 CCTV-2,http://124.220.17.172/as.php?id=2
 CCTV-2,http://218.29.55.44:808/hls/2/index.m3u8
 CCTV-2,http://hls.ye23.vip/hls/cctv2hd.m3u8
-CCTV-2,http://113.117.74.17:808/hls/2/index.m3u8
 CCTV-2,http://xjayrf.eatuo.com:9901/tsfile/live/1021_1.m3u8
 
+CCTV-5,http://qspyx.7766.org:9999/tsfile/live/0005_1.m3u8
 CCTV-5,http://124.220.17.172/as.php?id=5
 CCTV-5,http://218.29.55.44:808/hls/5/index.m3u8
 CCTV-5,http://hls.ye23.vip/hls/cctv5hd.m3u8
-CCTV-5,http://113.117.74.17:808/hls/5/index.m3u8
 CCTV-5,http://1.195.111.251:11190/tsfile/live/0005_1.m3u8
 CCTV-5,http://xjayrf.eatuo.com:9901/tsfile/live/1024_1.m3u8
 
@@ -23,24 +23,25 @@ CCTV-5+,http://113.117.74.17:808/hls/16/index.m3u8
 CCTV-5+,http://m.a1.gs/p/migu.php?id=cctv5p
 CCTV-5+,http://xjayrf.eatuo.com:9901/tsfile/live/1025_1.m3u8
 
+CCTV-6,http://qspyx.7766.org:9999/tsfile/live/0006_1.m3u8
 CCTV-6,http://124.220.17.172/as.php?id=6
 CCTV-6,http://218.29.55.44:808/hls/6/index.m3u8
 CCTV-6,http://hls.ye23.vip/hls/cctv6hd.m3u8
-CCTV-6,http://113.117.74.17:808/hls/6/index.m3u8
 CCTV-6,http://xjayrf.eatuo.com:9901/tsfile/live/1026_1.m3u8
 
+CCTV-10,http://qspyx.7766.org:9999/tsfile/live/0010_1.m3u8
 CCTV-10,http://124.220.17.172/as.php?id=10
 CCTV-10,http://218.29.55.44:808/hls/10/index.m3u8
 CCTV-10,http://hls.ye23.vip/hls/cctv10hd.m3u8
-CCTV-10,http://113.117.74.17:808/hls/10/index.m3u8
 CCTV-10,http://xjayrf.eatuo.com:9901/tsfile/live/1030_1.m3u8
 
+CCTV-12,http://qspyx.7766.org:9999/tsfile/live/0012_1.m3u8
 CCTV-12,http://124.220.17.172/as.php?id=12
 CCTV-12,http://218.29.55.44:808/hls/12/index.m3u8
 CCTV-12,http://hls.ye23.vip/hls/cctv12hd.m3u8
-CCTV-12,http://113.117.74.17:808/hls/12/index.m3u8
 CCTV-12,http://xjayrf.eatuo.com:9901/tsfile/live/1032_1.m3u8
 
+CCTV-13,http://qspyx.7766.org:9999/tsfile/live/0013_1.m3u8
 CCTV-13,http://124.220.17.172/as.php?id=13
 CCTV-13,http://218.29.55.44:808/hls/13/index.m3u8
 CCTV-13,http://hls.ye23.vip/hls/cctv13hd.m3u8
