@@ -71,6 +71,7 @@ CCTV-4K,http://159.75.85.63:8280/cctv4k.php
 江苏卫视,http://113.117.74.17:808/hls/44/index.m3u8
 
 东方卫视,http://124.220.17.172/as.php?id=23
+东方卫视,http://tvmvip110.club/bs.php?id=22
 东方卫视,http://124.220.17.172/bestv.php?id=22
 东方卫视,http://hls.ye23.vip/hls/dfwshd.m3u8
 东方卫视,http://113.117.74.17:808/hls/47/index.m3u8
