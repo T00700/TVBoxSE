@@ -21,6 +21,7 @@ CCTV-5,http://www.56ku.ml/gudou.php?id=CCTV5HD_7000
 CCTV-5,http://124.220.17.172/as.php?id=5
 CCTV-5,http://218.29.55.44:808/hls/5/index.m3u8
 CCTV-5,http://hls.ye23.vip/hls/cctv5hd.m3u8
+CCTV-5,http://113.117.74.17:808/hls/5/index.m3u8
 CCTV-5,http://1.195.111.251:11190/tsfile/live/0005_1.m3u8
 CCTV-5,http://218.79.210.183:2001/hls/5/index.m3u8
 CCTV-5,http://125.40.191.58:9901/tsfile/live/0005_1.m3u8
@@ -42,6 +43,7 @@ CCTV-6,http://www.56ku.ml/gudou.php?id=CCTV6HD_7000
 CCTV-6,http://124.220.17.172/as.php?id=6
 CCTV-6,http://218.29.55.44:808/hls/6/index.m3u8
 CCTV-6,http://hls.ye23.vip/hls/cctv6hd.m3u8
+CCTV-6,http://113.117.74.17:808/hls/6/index.m3u8
 CCTV-6,http://xjayrf.eatuo.com:9901/tsfile/live/1026_1.m3u8
 
 CCTV-10,http://hls.yun.gehua.net.cn:8088/live/CCTV10HD_1200.m3u8
@@ -124,7 +126,6 @@ CCTV-4K,http://www.56ku.ml/gudou.php?id=CCTVHHD4K_38000
 辽宁卫视,http://hls.ye23.vip/hls/lnwshd.m3u8
 辽宁卫视,http://113.117.74.17:808/hls/54/index.m3u8
 辽宁都市,http://42.176.185.28:9901/tsfile/live/1005_1.m3u8
-辽宁都市,http://lu1.cc/a/play/lny.php?id=lnds
 
 
 港台频道,#genre#
