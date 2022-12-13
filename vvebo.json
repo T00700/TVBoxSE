@@ -23,6 +23,7 @@
 {"key":"csp_Gitcafe","name":"阿里┃小纸条源","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://zdir.kebedd69.repl.co/public/token.txt"}],
 
 "parses":[
+{"name":"Web聚合","type":3,"url":"Web"},
 {"name":"如果播放失败或者缓冲时间过长,请手动更换其他解析","type":0,"url":"https://jx.cainisi.cf/?v="},
 {"name":"备用解析01","type":0,"url":"https://www.nxflv.com/?url="},
 {"name":"备用解析02","type":0,"url":"https://okjx.cc/?url="},
