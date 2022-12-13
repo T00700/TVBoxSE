@@ -20,7 +20,7 @@
 {"key":"csp_Dy1010","name":"影视┃双十影视","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Voflix","name":"影视┃沃利克斯","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Fantuan","name":"影视┃饭团影视","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Ali","name":"阿里┃小纸条源","type":3,"api":"csp_Ali","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://zdir.kebedd69.repl.co/public/token.txt"}],
+{"key":"csp_Gitcafe","name":"阿里┃小纸条源","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://zdir.kebedd69.repl.co/public/token.txt"}],
 
 "parses":[
 {"name":"自动解析播放","type":3,"url":"Web"},
