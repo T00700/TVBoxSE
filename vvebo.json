@@ -15,6 +15,8 @@
 {"key":"csp_liveTV","name":"️直播┃电视直播","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/T00700/TVBoxSE/master/XYQPlugin/liveTV.json"},
 {"key":"csp_Zxzj","name":"点播┃欧美日韩","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"csp_appysv2_555电影","name":"555电影〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555ys1.com/api.php/app/"},
+  
 {"key":"csp_SP360","name":"官网┃爱优腾芒","type":3,"api":"csp_SP360","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"影视┃快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy1010","name":"影视┃双十影视","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
