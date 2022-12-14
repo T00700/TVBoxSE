@@ -13,7 +13,7 @@
     "cateVodId": "/li[last()]/a/@href",
     "cateVodIdR": "",
     // 首页推荐视频的图片
-    "cateVodImg":"''",
+    "cateVodImg":"'https://raw.iqiq.io/T00700/TVBoxSE/master/Course/%E5%8B%87%E5%A3%ABLogo.png'",
     // 首页推荐视频的简介
     "cateVodMark":"concat(/li[@class='team ht']/strong/text(),/li[@class='team ht']/strong/a/text(),'-',/li[@class='team gt']/strong/text(),/li[@class='team gt']/strong/a/text())",//concat(/li[3]/strong/text(),'vs',/li[5]/strong/text())
  
