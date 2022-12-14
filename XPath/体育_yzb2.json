@@ -1,7 +1,7 @@
 {
     "author": "",
     "homeUrl": "https://www.yoozhibo.com/",
-    "cateManual": {"赛事直播<<->>如果无数据显示.可以在设置里开启安全DNS再试试": "666"},
+    "cateManual": {"赛事直播(点我)>>如果无数据显示.可以在设置里开启阿里DNS再试试": "666"},
 
     // 首页
     "cateUrl": "https://www.yoozhibo.com/",
