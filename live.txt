@@ -154,6 +154,9 @@ CCTV-4K,http://www.56ku.ml/gudou.php?id=CCTVHHD4K_38000
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://117.169.124.146:8080/live/fhchinese/index.m3u8/live/fhzixun/index.m3u8
+东森新闻,https://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
+东森新闻,https://bstvcdn.ballbar.net/ettvnews/playlist-1.m3u8a?t=1671025025&token=8d08c6c99ecb1a56d4a0bfdc41f1a8e2
+TVBS-HD,https://bstvcdn.ballbar.net/tvbs/playlist-12.m3u8a?t=1671025173&token=1e776548637bb06035b443f6d39ed2bd
 
 
 体育频道,#genre#
