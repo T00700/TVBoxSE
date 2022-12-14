@@ -2,6 +2,7 @@
 CCTV-1,http://hls.yun.gehua.net.cn:8088/live/CCTV1HD_1200.m3u8
 CCTV-1,http://qspyx.7766.org:9999/tsfile/live/0001_1.m3u8
 CCTV-1,http://www.56ku.ml/gudou.php?id=CCTV1HD_7000
+CCTV-1,http://125.210.152.19:9120/live/hzgq-cctv1gq-h264.m3u8
 CCTV-1,http://124.220.17.172/as.php?id=1
 CCTV-1,http://218.29.55.44:808/hls/1/index.m3u8
 CCTV-1,http://hls.ye23.vip/hls/cctv1hd.m3u8
@@ -10,6 +11,7 @@ CCTV-1,http://xjayrf.eatuo.com:9901/tsfile/live/1020_1.m3u8
 CCTV-2,http://hls.yun.gehua.net.cn:8088/live/CCTV2HD_1200.m3u8
 CCTV-2,http://qspyx.7766.org:9999/tsfile/live/0002_1.m3u8
 CCTV-2,http://www.56ku.ml/gudou.php?id=CCTV2HD_7000
+CCTV-2,http://125.210.152.19:9120/live/hzgq-cctv2gq-h264.m3u8
 CCTV-2,http://124.220.17.172/as.php?id=2
 CCTV-2,http://218.29.55.44:808/hls/2/index.m3u8
 CCTV-2,http://hls.ye23.vip/hls/cctv2hd.m3u8
@@ -18,6 +20,7 @@ CCTV-2,http://xjayrf.eatuo.com:9901/tsfile/live/1021_1.m3u8
 CCTV-5,http://hls.yun.gehua.net.cn:8088/live/CCTV5HD_1200.m3u8
 CCTV-5,http://qspyx.7766.org:9999/tsfile/live/0005_1.m3u8
 CCTV-5,http://www.56ku.ml/gudou.php?id=CCTV5HD_7000
+CCTV-5,http://125.210.152.19:9120/live/hzgq-cctv5gq-h264.m3u8
 CCTV-5,http://124.220.17.172/as.php?id=5
 CCTV-5,http://218.29.55.44:808/hls/5/index.m3u8
 CCTV-5,http://hls.ye23.vip/hls/cctv5hd.m3u8
@@ -30,6 +33,7 @@ CCTV-5,http://xjayrf.eatuo.com:9901/tsfile/live/1024_1.m3u8
 
 CCTV-5+,http://hls.yun.gehua.net.cn:8088/live/CCTV5plusHD_1200.m3u8
 CCTV-5+,http://www.56ku.ml/gudou.php?id=CCTV5plusHD_7000
+CCTV-5+,http://125.210.152.19:9120/live/hzgq-cctvzhgq-h264.m3u8
 CCTV-5+,http://124.220.17.172/as.php?id=5p
 CCTV-5+,http://113.117.74.17:808/hls/16/index.m3u8
 CCTV-5+,http://m.a1.gs/p/migu.php?id=cctv5p
@@ -40,6 +44,7 @@ CCTV-5+,http://xjayrf.eatuo.com:9901/tsfile/live/1025_1.m3u8
 CCTV-6,http://hls.yun.gehua.net.cn:8088/live/CCTV6HD_1200.m3u8
 CCTV-6,http://qspyx.7766.org:9999/tsfile/live/0006_1.m3u8
 CCTV-6,http://www.56ku.ml/gudou.php?id=CCTV6HD_7000
+CCTV-6,http://125.210.152.19:9120/live/hzgq-cctv6gq-h264.m3u8
 CCTV-6,http://124.220.17.172/as.php?id=6
 CCTV-6,http://218.29.55.44:808/hls/6/index.m3u8
 CCTV-6,http://hls.ye23.vip/hls/cctv6hd.m3u8
@@ -49,6 +54,7 @@ CCTV-6,http://xjayrf.eatuo.com:9901/tsfile/live/1026_1.m3u8
 CCTV-10,http://hls.yun.gehua.net.cn:8088/live/CCTV10HD_1200.m3u8
 CCTV-10,http://qspyx.7766.org:9999/tsfile/live/0010_1.m3u8
 CCTV-10,http://www.56ku.ml/gudou.php?id=CCTV10HD_7000
+CCTV-10,http://125.210.152.19:9120/live/hzgq-cctv10gq-h264.m3u8
 CCTV-10,http://124.220.17.172/as.php?id=10
 CCTV-10,http://218.29.55.44:808/hls/10/index.m3u8
 CCTV-10,http://hls.ye23.vip/hls/cctv10hd.m3u8
@@ -57,6 +63,7 @@ CCTV-10,http://xjayrf.eatuo.com:9901/tsfile/live/1030_1.m3u8
 CCTV-12,http://hls.yun.gehua.net.cn:8088/live/CCTV12HD_1200.m3u8
 CCTV-12,http://qspyx.7766.org:9999/tsfile/live/0012_1.m3u8
 CCTV-12,http://www.56ku.ml/gudou.php?id=CCTV12HD_7000
+CCTV-12,http://125.210.152.19:9120/live/hzgq-cctv12gq-h264.m3u8
 CCTV-12,http://124.220.17.172/as.php?id=12
 CCTV-12,http://218.29.55.44:808/hls/12/index.m3u8
 CCTV-12,http://hls.ye23.vip/hls/cctv12hd.m3u8
@@ -64,6 +71,7 @@ CCTV-12,http://xjayrf.eatuo.com:9901/tsfile/live/1032_1.m3u8
 
 CCTV-13,http://qspyx.7766.org:9999/tsfile/live/0013_1.m3u8
 CCTV-13,http://www.56ku.ml/gudou.php?id=CCTV13HD_7000
+CCTV-13,http://125.210.152.19:9120/live/hzgq-cctvnewsgq-h264.m3u8
 CCTV-13,http://124.220.17.172/as.php?id=13
 CCTV-13,http://218.29.55.44:808/hls/13/index.m3u8
 CCTV-13,http://hls.ye23.vip/hls/cctv13hd.m3u8
@@ -77,6 +85,7 @@ CCTV-4K,http://www.56ku.ml/gudou.php?id=CCTVHHD4K_38000
 卫视频道,#genre#
 北京卫视,http://hls.yun.gehua.net.cn:8088/live/BTV1HD_1200.m3u8
 北京卫视,http://www.56ku.ml/gudou.php?id=beijingHD_7000
+北京卫视,http://125.210.152.19:9120/live/hzgq-bjgqws-h264.m3u8
 北京卫视,http://124.220.17.172/as.php?id=24
 北京卫视,http://218.29.55.44:808/hls/29/index.m3u8
 北京卫视,http://hls.ye23.vip/hls/bjwshd.m3u8
@@ -85,6 +94,7 @@ CCTV-4K,http://www.56ku.ml/gudou.php?id=CCTVHHD4K_38000
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,http://hls.yun.gehua.net.cn:8088/live/ZheJiangHD_1200.m3u8
 浙江卫视,http://www.56ku.ml/gudou.php?id=zhejiangHD_7000
+浙江卫视,http://125.210.152.19:9120/live/hzgq-zjwsgq-h264.m3u8
 浙江卫视,http://124.220.17.172/as.php?id=21
 浙江卫视,http://218.29.55.44:808/hls/26/index.m3u8
 浙江卫视,http://hls.ye23.vip/hls/zjwshd.m3u8
@@ -92,6 +102,7 @@ CCTV-4K,http://www.56ku.ml/gudou.php?id=CCTVHHD4K_38000
 
 江苏卫视,http://hls.yun.gehua.net.cn:8088/live/JiangSuHD_1200.m3u8
 江苏卫视,http://www.56ku.ml/gudou.php?id=jiangsuHD_7000
+江苏卫视,http://125.210.152.19:9120/live/hzgq-jswsgq-h264.m3u8
 江苏卫视,http://124.220.17.172/as.php?id=22
 江苏卫视,http://218.29.55.44:808/hls/28/index.m3u8
 江苏卫视,http://hls.ye23.vip/hls/jswshd.m3u8
@@ -99,6 +110,7 @@ CCTV-4K,http://www.56ku.ml/gudou.php?id=CCTVHHD4K_38000
 
 东方卫视,http://hls.yun.gehua.net.cn:8088/live/DongFangHD_1200.m3u8
 东方卫视,http://www.56ku.ml/gudou.php?id=dongfangHD_7000
+东方卫视,http://125.210.152.19:9120/live/hzgq-dftvgq-h264.m3u8
 东方卫视,http://124.220.17.172/as.php?id=23
 东方卫视,http://tvmvip110.club/bs.php?id=22
 东方卫视,http://124.220.17.172/bestv.php?id=22
@@ -107,6 +119,7 @@ CCTV-4K,http://www.56ku.ml/gudou.php?id=CCTVHHD4K_38000
 
 湖南卫视,http://hls.yun.gehua.net.cn:8088/live/HuNanHD_1200.m3u8
 湖南卫视,http://www.56ku.ml/gudou.php?id=hunanHD_7000
+湖南卫视,http://125.210.152.19:9120/live/hzgq-hnwsgq-h264.m3u8
 湖南卫视,http://124.220.17.172/as.php?id=20
 湖南卫视,http://218.29.55.44:808/hls/27/index.m3u8
 湖南卫视,http://hls.ye23.vip/hls/hnwshd.m3u8
@@ -114,6 +127,7 @@ CCTV-4K,http://www.56ku.ml/gudou.php?id=CCTVHHD4K_38000
 
 广东卫视,http://hls.yun.gehua.net.cn:8088/live/GuangDongHD_1200.m3u8
 广东卫视,http://www.56ku.ml/gudou.php?id=guangdongHD_7000
+广东卫视,http://125.210.152.19:9120/live/hzgq-gdwsgq-h264.m3u8
 广东卫视,http://124.220.17.172/as.php?id=26
 广东卫视,http://218.29.55.44:808/hls/30/index.m3u8
 广东卫视,http://hls.ye23.vip/hls/gdwshd.m3u8
@@ -121,6 +135,7 @@ CCTV-4K,http://www.56ku.ml/gudou.php?id=CCTVHHD4K_38000
 
 辽宁卫视,http://hls.yun.gehua.net.cn:8088/live/LiaoNingHD_1200.m3u8
 辽宁卫视,http://www.56ku.ml/gudou.php?id=liaoningHD_7000
+辽宁卫视,http://125.210.152.19:9120/live/hzgq-lnwsgq-h264.m3u8
 辽宁卫视,http://124.220.17.172/as.php?id=41
 辽宁卫视,http://218.29.55.44:808/hls/34/index.m3u8
 辽宁卫视,http://hls.ye23.vip/hls/lnwshd.m3u8
