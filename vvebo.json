@@ -16,4 +16,4 @@
 {"key":"csp_Voflix","name":"影视┃沃利克斯","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Fantuan","name":"影视┃饭团影视","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nongmin","name":"影视┃农民影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://github.com/T00700/TVBoxSE/raw/master/xBPQ/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json"},
-{"key":"csp_Paper","name":"阿里┃小纸条源","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://zdir.kebedd69.repl.co/public/token.txt"}]}
+{"key":"csp_Paper","name":"阿里┃小纸条源","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://zdir.kebedd69.repl.co/public/token.txt"}]}
