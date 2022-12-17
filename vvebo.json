@@ -7,7 +7,7 @@
 "sites":[
 {"key":"csp_Kunyu77","name":"手机端┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"电视端┃图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.126:7788"},
-{"key":"csp_Yoozhibo","name":"体育┃赛事直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://codeberg.org/00700/TVBoxSE/raw/branch/master/XPath/%E4%BD%93%E8%82%B2_yzb2.json"},
+{"key":"csp_JRSKan","name":"体育┃赛事直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://codeberg.org/00700/TVBoxSE/raw/branch/master/XPath/JRSKan.json"},
 {"key":"csp_Bili","name":"曲艺┃相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://codeberg.org/00700/TVBoxSE/raw/branch/master/Bilibili/Bili_%E7%9B%B8%E5%A3%B0.txt"},
 {"key":"csp_liveTV","name":"️直播┃电视直播","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://codeberg.org/00700/TVBoxSE/raw/branch/master/XYQPlugin/liveTV.json"},
 {"key":"csp_Zxzj","name":"点播┃欧美日韩","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
