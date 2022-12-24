@@ -1,7 +1,7 @@
 {
 //致谢开发：@CatVodTVOfficial、@q215613905、@XBiu、@XYQHiker、@xBPQ、@DR_JS
 //特别鸣谢：@天天(Jar制作分享)
-"spider":"https://codeberg.org/00700/TVBoxSE/raw/branch/master/Spider/vvebo.jar;md5;46E92C9572DCF0DE4540572058729D68",
+"spider":"https://codeberg.org/00700/TVBoxSE/raw/branch/master/Spider/vvebo.jar;md5;495446499F410F80F17E3555CBE3DB15",
 "wallpaper":"https://codeberg.org/00700/TVBoxSE/raw/branch/master/Wallpaper/03.png",
 "lives":[{"name":"直播","type":0,"url":"https://codeberg.org/00700/TVBoxSE/raw/branch/master/live.txt"}],
 "sites":[
