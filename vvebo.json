@@ -1,7 +1,7 @@
 {
 //致谢开发：@CatVodTVOfficial、@q215613905、@FengMi、@XBiu、@XYQHiker、@xBPQ、@DR_JS
 //特别鸣谢：@天天(Jar制作分享)
-"spider":"http://shuyuan.miaogongzi.net/shuyuan/1673808239.txt;md5;7F330C254677FDCA3FEF7366AC14D437",
+"spider":"http://shuyuan.miaogongzi.net/shuyuan/1673834033.txt;md5;F4EE03B9F90DC4D6A9F31D4E6920D25F",
 "wallpaper":"https://share.nite07.com/api/v3/file/source/36686/03.png?sign=fpsn_NX8x79Msmd1XqrLB6L_g0IfZYId4KjznZigm5Y%3D%3A0",
 "lives":[{"name":"直播","type":0,"url":"https://codeberg.org/00700/TVBoxSE/raw/branch/master/live.txt"}],
 "sites":[
@@ -11,5 +11,18 @@
 {"key":"csp_Bili","name":"曲艺┃相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://shuyuan.miaogongzi.net/shuyuan/1673089367.json"},
 {"key":"csp_Kuaikan","name":"影视┃快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Czsapp","name":"影视┃厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+  
+      {
+      "key": "csp_appysv2_9E03",
+      "name": "🌵9E国语",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://124.248.66.107:7788/api.php/v1.vod/types"
+    },
+  
+  
 {"key":"csp_AppTT","name":"影视┃图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.66.107:9955"},
 {"key":"csp_Paper","name":"阿里┃小纸条源","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"}]}
