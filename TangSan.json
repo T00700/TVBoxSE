@@ -1,0 +1,13 @@
+{
+"spider":"http://shuyuan.miaogongzi.net/shuyuan/1673820777.txt;md5;40FBB7D1D86C0BF53EF22C599823F519",
+"wallpaper":"https://share.nite07.com/api/v3/file/source/36686/03.png?sign=fpsn_NX8x79Msmd1XqrLB6L_g0IfZYId4KjznZigm5Y%3D%3A0",
+"lives":[{"name":"直播","type":0,"url":"https://codeberg.org/00700/TVBoxSE/raw/branch/master/live.txt"}],
+"sites":[
+{"key":"Kunyu77","name":"手机端┃酷云七七","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8b48a0834ee08e5e64977bc9fc8bc3e0"},
+{"key":"AppTT","name":"电视端┃图图影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5"},
+{"key":"csp_JRSKan","name":"体育┃赛事直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://shuyuan.miaogongzi.net/shuyuan/1673081332.json","jar":"http://shuyuan.miaogongzi.net/shuyuan/1673817995.txt;md5;CCE086B9186251E917077C683858C58A"},
+{"key":"Bili","name":"曲艺┃相声小品","type":"3","api":"csp_Dora","searchable":"0","quickSearch":"0","filterable":"0","ext":"85b2986381a134ba3ebbaf25ae8138e7#http://shuyuan.miaogongzi.net/shuyuan/1673812941.json"},
+{"key":"Czsapp","name":"影视┃厂长资源","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3"},
+{"key":"Kuaikan","name":"影视┃快看影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"459b1cb892e317546676a2c9dcec2bff"},
+{"key":"LiteApple","name":"影视┃小苹果源","type":"3","api":"csp_Dora","playerType":1,"searchable":"1","quickSearch":"1","filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e"},
+{"key":"Gitcafe","name":"阿里┃小纸条源","type":"3","api":"csp_Paper","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"}]}
