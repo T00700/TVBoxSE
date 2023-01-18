@@ -1,6 +1,6 @@
 {"spider":"http://shuyuan.miaogongzi.net/shuyuan/1673075871.txt;md5;8FA5D0E7CCA3F9373D200B90D5808E50",
 "wallpaper":"https://share.nite07.com/api/v3/file/source/36686/03.png?sign=fpsn_NX8x79Msmd1XqrLB6L_g0IfZYId4KjznZigm5Y%3D%3A0",
-"lives":[{"name":"直播","type":0,"playerType":1,"boot":true,"url":"http://shuyuan.miaogongzi.net/shuyuan/1673957582.txt"}],
+"lives":[{"name":"直播","type":0,"playerType":1,"url":"http://shuyuan.miaogongzi.net/shuyuan/1673957582.txt"},"boot":true],
 "sites":[
 {"key":"csp_Kunyu77","name":"手机端┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nongmin","name":"电视端┃农民影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://shuyuan.miaogongzi.net/shuyuan/1673119353.json"},
