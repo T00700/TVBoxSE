@@ -8,7 +8,6 @@
 {"key":"csp_Bili","name":"曲艺┃相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://shuyuan.miaogongzi.net/shuyuan/1673812941.json"},
 {"key":"csp_Apple","name":"影视┃小苹果源","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Czsapp","name":"影视┃厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_SP360","name":"官网┃爱优腾芒","type":3,"api":"csp_SP360","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nongmin","name":"影视┃农民影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://shuyuan.miaogongzi.net/shuyuan/1673119353.json"},
 {"key":"csp_Paper","name":"阿里┃小纸条源","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"}],
 "parses":[{"name":"诺讯解析","type":0,"url":"https://www.nxflv.com/?url="}],
