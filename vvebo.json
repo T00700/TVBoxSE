@@ -2,8 +2,8 @@
 "wallpaper":"https://share.nite07.com/api/v3/file/source/36686/03.png?sign=fpsn_NX8x79Msmd1XqrLB6L_g0IfZYId4KjznZigm5Y%3D%3A0",
 "lives":[{"name":"直播","type":0,"url":"http://shuyuan.miaogongzi.net/shuyuan/1673957582.txt"}],
 "sites":[
-{"key":"csp_Kunyu77","name":"手机端┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_AppTT","name":"电视端┃图图影视","type":3,"api":"csp_AppTT2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.66.89:7788"},
+{"key":"csp_Kunyu77","name":"默认┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_AppTT","name":"影视┃图图影视","type":3,"api":"csp_AppTT2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.66.89:7788"},
 {"key":"csp_JRSKan","name":"体育┃赛事直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://shuyuan.miaogongzi.net/shuyuan/1673081332.json"},
 {"key":"csp_Bili","name":"曲艺┃相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://shuyuan.miaogongzi.net/shuyuan/1673812941.json"},
 {"key":"csp_Apple","name":"影视┃小苹果源","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
