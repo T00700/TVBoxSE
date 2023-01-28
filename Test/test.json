@@ -1,8 +1,5 @@
 {
 {"spider":"https://framagit.org/00700/tvbox/-/raw/main/Spider/vvebo.jar;md5;3F3245B06C93D3B77CCE88F6226C7BB4",
-"wallpaper":"https://agit.ai/00700/vvebo/raw/branch/main/wallpaper/03.png",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzAwNzAwL3Z2ZWJvL3Jhdy9icmFuY2gvbWFpbi9saXZlLnR4dA=="]}]}],
-
 "sites":[
 //爬虫源.对应JAR内的影视源
 {"key":"csp_酷云七七","name":"推荐┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -10,5 +7,4 @@
 {"key":"csp_AppTT","name":"兔兔┃SP","type":3,"api":"csp_AppTT2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.66.107:7788"},
   
 //XBiu.取影视网站分类地址
-{"key":"csp_Jiuku","name":"影视┃九酷影院","type":3,"api":"csp_XBiu","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jiuku.site/index.php/vod/show/id/{cateId}.html"}]
-}
+{"key":"csp_Jiuku","name":"影视┃九酷影院","type":3,"api":"csp_XBiu","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jiuku.site/index.php/vod/show/id/{cateId}.html"}]}
