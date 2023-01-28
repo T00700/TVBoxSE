@@ -6,7 +6,7 @@
 {"key":"csp_Apple","name":"影视┃小苹果源","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
           {
             "key": "csp_AppTT",
-            "name": "🐰兔兔┃SP",
+            "name": "兔兔┃SP",
             "type": 3,
             "api": "csp_AppTT2",
             "playerType": 2,
@@ -17,7 +17,7 @@
         },
 {"key":"csp_JRSKan","name":"体育┃赛事直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://framagit.org/00700/tvbox/-/raw/main/XPathFilter/JRSKan.json"},
 {"key":"csp_Bili","name":"曲艺┃相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://framagit.org/00700/tvbox/-/raw/main/Bilibili/Bili_%E7%9B%B8%E5%A3%B0_2.json"},
-{"key":"csp_AppTT","name":"影视┃图图影视","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"110c922de7d69804467fb83d3bb664b5"},
+//{"key":"csp_AppTT","name":"影视┃图图影视","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"110c922de7d69804467fb83d3bb664b5"},
 {"key":"csp_Nongmin","name":"影视┃农民影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://framagit.org/00700/tvbox/-/raw/main/xBPQ/Nmys.json"},
 {"key":"TianTian","name":"影视┃天天影视","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"bdc1c75081e5e477189a463baa47e392"},
 {"key":"csp_Paper","name":"阿里┃小纸条源","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"}],
