@@ -1,5 +1,5 @@
 {
-"spider":"https://agit.ai/00700/vvebo/raw/branch/main/spider/vvebo.jar",
+{"spider":"https://framagit.org/00700/tvbox/-/raw/main/Spider/vvebo.jar;md5;3F3245B06C93D3B77CCE88F6226C7BB4",
 "wallpaper":"https://agit.ai/00700/vvebo/raw/branch/main/wallpaper/03.png",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzAwNzAwL3Z2ZWJvL3Jhdy9icmFuY2gvbWFpbi9saXZlLnR4dA=="]}]}],
 "rules":[{"host":"*","rule":["douyinvod.com","/video/tos/cn/"]},{"host":"*","rule":["default.365yg.com","/video/tos/cn/"]},{"host":"*","rule":["huoshan.com","/item/video/"]},{"host":"*","rule":["aliyundrive.net","response-content-disposition=",".m3u8"]},{"host":"*","rule":["aliyundrive.net","response-content-disposition=",".mp4"]},{"host":"*","rule":["aliyundrive.net","response-content-disposition=",".mkv"]},{"host":"*","rule":["/m3u8.php?path=",".m3u8"]},{"host":"*","rule":["/API.php?time=","key=","path=",".m3u8"]},{"host":"*","rule":["oss-cn-m3u8","myqcloud.com.zh188.net","?url=",".m3u8"]},{"host":"*","rule":["iesdouyin.com/aweme","video_id="]},{"host":"zjmiao.com","rule":["play.videomiao.vip/API.php","time=","key=","path="]},{"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},{"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
@@ -8,6 +8,18 @@
 //爬虫源.对应JAR内的影视源
 {"key":"csp_酷云七七","name":"推荐┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
+  {
+"key":"csp_AppTT",
+"name":"兔兔┃SP",
+"type":3,
+"api":"csp_AppTT2",
+"playerType":2,
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":"http://124.248.66.107:7788"
+},
+  
 //XBiu.取影视网站分类地址
 {"key":"csp_Jiuku","name":"影视┃九酷影院","type":3,"api":"csp_XBiu","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jiuku.site/index.php/vod/show/id/{cateId}.html"},
   
