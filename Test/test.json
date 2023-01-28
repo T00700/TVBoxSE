@@ -10,7 +10,7 @@
 {"key":"csp_AppTT","name":"兔兔┃SP","type":3,"api":"csp_AppTT2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.66.107:7788"},
   
 //XBiu.取影视网站分类地址
-{"key":"csp_Jiuku","name":"影视┃九酷影院","type":3,"api":"csp_XBiu","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jiuku.site/index.php/vod/show/id/{cateId}.html"}]
+{"key":"csp_Jiuku","name":"影视┃九酷影院","type":3,"api":"csp_XBiu","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jiuku.site/index.php/vod/show/id/{cateId}.html"}],
 
 
 
