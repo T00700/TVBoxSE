@@ -40,7 +40,8 @@
    {"key":"光速资源","name":"光速资源(切)","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
    {"key":"鱼乐资源","name":"鱼乐资源(切)","type":1,"api":"https://api.ylzy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
    {"key":"韩剧资源","name":"韩剧资源(切)","type":1,"api":"http://www.hanjuzy.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
-   {"key":"百度资源","name":"百度资源(切)","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},{"key":"天空资源","name":"天空资源(切)","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+   {"key":"百度资源","name":"百度资源(切)","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+   {"key":"天空资源","name":"天空资源(切)","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
    {"key":"南国影源","name":"南国影源(切)","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
    {"key":"U酷资源","name":"U酷资源(优)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
    {"key":"789盘","name":"789盘(优)","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/from/789pan/","searchable":1,"quickSearch":1},
@@ -53,17 +54,7 @@
    {"key":"闪电资源","name":"闪电资源(切)","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
    {"key":"快播资源","name":"快播资源(切)","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
    {"key":"八戒资源","name":"八戒资源(切)","type":1,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
-   {"key":"天空资源","name":"天空资源(切)","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-   {"key": "apittzy", "name": "探探资源", "api": "https://apittzy.com/api.php/provide/vod/at/xml", "jiexiUrl": "", "group": "18+", "isActive": true, "status": "可用", "reverseOrder": false},
-   {"key": "siwazyw", "name": "丝袜资源", "api": "https://siwazyw.cc/api.php/provide/vod/at/xml", "jiexiUrl": "", "group": "18+", "isActive": true, "status": "可用", "reverseOrder": false},
-   {"key": "huakuiapi", "name": "花魁", "api": "https://caiji.huakuiapi.com/inc/api.php", "jiexiUrl": "", "group": "18+", "isActive": true, "status": "可用", "reverseOrder": false},
-   {"key": "putaozy", "name": "葡萄资源", "api": "https://caiji.putaozy.net/inc/api.php", "jiexiUrl": "", "group": "18+", "isActive": true, "status": "可用", "reverseOrder": false},
-   {"key": "wmcj8", "name": "AG资源", "api": "http://wmcj8.com/inc/sapi.php", "jiexiUrl": "", "group": "18+", "isActive": true, "status": "可用", "reverseOrder": false},
-   {"key": "shayu", "name": "shayu", "api": "https://shayuapi.com/api.php/Seacms/vod", "jiexiUrl": "", "group": "18+", "isActive": true, "status": "可用", "reverseOrder": false},
-   {"key":"FOX资源","name":"FOX资源(切)","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-
-
-    {"key":"push_agent","name":"PushAgent","type":"3","api":"csp_PushAgent","searchable":"1","quickSearch":"1","filterable":"1"}
+   {"key":"天空资源","name":"天空资源(切)","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0}
   ],
 
   "lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=http://home.jundie.top:81/Cat/tv/live.txt"]}]}],
