@@ -21,5 +21,4 @@ Python爬虫:https://github.com/UndCover/PyramidStore.git
 张弘:https://gh-proxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/tvbox.json
 ```
 # 自用
-- [ ] [vvebo](https://gh-proxy.com/https://raw.githubusercontent.com/T00700/TVBoxSE/master/vvebo.json)
-- [ ] [iPlayer](https://gh-proxy.com/https://raw.githubusercontent.com/T00700/TVBoxSE/master/iPlayer.json)
+- [ ] [vvebo](https://gh-proxy.com/https://raw.githubusercontent.com/T00700/TVBoxSE/master/vvebo.json)    - [ ] [iPlayer](https://gh-proxy.com/https://raw.githubusercontent.com/T00700/TVBoxSE/master/iPlayer.json)
