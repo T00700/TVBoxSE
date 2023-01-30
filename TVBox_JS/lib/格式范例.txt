@@ -1,1 +1,0 @@
-{"key":"drpy_js_douban","name":"影视┃豆瓣推荐","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"./yingmo.js","ext":"./douban.js"},
