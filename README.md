@@ -20,3 +20,5 @@ Python爬虫:https://github.com/UndCover/PyramidStore.git
 终南:https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
 张弘:https://gh-proxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/tvbox.json
 ```
+# 自用
+- [ ] [vvebo](https://gh-proxy.com/https://raw.githubusercontent.com/T00700/TVBoxSE/master/vvebo.json)
