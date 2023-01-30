@@ -1,5 +1,0 @@
-灌篮接口：https://download.kstore.space/download/3010/gl.txt
-漫威接口：https://download.kstore.space/download/3010/mw.txt
-花旦接口：https://download.kstore.space/download/3010/fl.txt
-综合接口：https://download.kstore.space/download/3010/zh.txt
-体育接口：https://download.kstore.space/download/3010/ty.txt
