@@ -10,7 +10,7 @@ Python爬虫:https://github.com/UndCover/PyramidStore.git
 ```
 # 接口
 ```
-唐三:https://hutool.ml/tang
+唐三:http://hutool.ml/tang
 饭佬:http://xn--sss604efuw.ga/x/o.json
 小雅:http://drpy.site/js1
 肥猫:http://xn--z7x900a.love)
