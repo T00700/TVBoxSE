@@ -1,1 +1,0 @@
-{"key":"csp_xbiu_天空","name": "天空","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"http://tkznp.com/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"
