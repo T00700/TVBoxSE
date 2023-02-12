@@ -9,7 +9,7 @@
 {"key":"csp_BuLei","name":"影视┃布雷蓝光","type":3,"api":"csp_BuLei","playerType":1,"searchable":1,"filterable":1,"changeable":1},
 {"key":"csp_Czsapp","name":"影视┃厂长资源","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"filterable":1,"changeable":1},
 {"key":"csp_Nongmin","name":"影视┃农民影视","type":3,"api":"csp_xBPQ","searchable":1,"filterable":1,"changeable":1,"ext":"https://framagit.org/00700/tvbox/-/raw/main/xBPQ/Nmys.json"},
-{"key":"csp_Cokemv","name":"影视┃可乐影视","type":3,"api":"csp_Cokemv","searchable":1,"filterable":1,"changeable":1},
+{"key":"csp_AppTT","name":"影视┃图图影视","type":3,"api":"csp_AppTT2","searchable":1,"filterable":1,"changeable":1,"ext":"http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="},
 {"key":"TianTian","name":"影视┃天天影视","type":3,"api":"csp_Dora","searchable":1,"filterable":1,"changeable":1,"ext":"bdc1c75081e5e477189a463baa47e392"},
 {"key":"csp_Paper","name":"阿里┃小纸条源","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"filterable":1,"changeable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"}],
 "parses":[{"name":"OKJX","type":0,"url":"https://okjx.cc/?url="}],
