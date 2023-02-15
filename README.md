@@ -19,7 +19,7 @@ Python爬虫:https://github.com/UndCover/PyramidStore.git
 猫影:http://miaotvs.cn/meow
 终南:https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
 张弘:https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/tvbox.json
-多仓:https://ghproxy.com/https://raw.githubusercontent.com/T00700/TVBoxSE/master/vvebo_more.json
+多仓:https://ghproxy.com/https://raw.githubusercontent.com/T00700/TVBoxSE/master/Multi-Warehouse.json
 ```
 # 自用
 - TVBox：https://ghproxy.com/https://raw.githubusercontent.com/T00700/TVBoxSE/master/TVBox.json
