@@ -24,6 +24,6 @@ Python爬虫:https://github.com/UndCover/PyramidStore.git
 # 自用
 ~~~
 TVBox:https://ghproxy.com/https://raw.githubusercontent.com/T00700/TVBoxSE/master/TVBox.json
-iPlayer:https://ghproxy.com/https://raw.githubusercontent.com/T00700/TVBoxSE/master/iPlayer.json
 FongMi:https://ghproxy.com/https://raw.githubusercontent.com/T00700/TVBoxSE/master/FongMi.json
+iPlayer:https://ghproxy.com/https://raw.githubusercontent.com/T00700/TVBoxSE/master/iPlayer.json
 ~~~
