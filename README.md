@@ -7,6 +7,7 @@ T9版_TVBox:https://github.com/takagen99/Box.git
 服务端爬虫T4:https://github.com/sec-an/TV_Spider.git
 Python爬虫:https://github.com/UndCover/PyramidStore.git
 道长_DR_JS:https://gitcode.net/qq_32394351/dr_py
+影视助手：https://github.com/sec-an/TVHelper.git
 ```
 # 接口
 ```
