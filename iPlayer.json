@@ -13,6 +13,10 @@
 "name":"唐人街",
 "api":"https://www.tangrenjie.tv/api.php/provide/vod/at/xml"
 },{
+"type":1,
+"name":"非凡资源",
+"api":"http://www.ffzy.tv/api.php/provide/vod/from/ffm3u8"
+},{
 "type":8,
 "name":"独播库",
 "api":"https://gh-proxy.com/https://raw.githubusercontent.com/trial/dp/master/json2/dbk.json"
