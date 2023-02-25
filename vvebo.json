@@ -1,4 +1,4 @@
-{"spider":"https://framagit.org/00700/tvbox/-/raw/main/Spider/vvebo0209.jar;md5;3AF7EAF917576C6392CE1A07981895EF",
+{"spider":"https://framagit.org/00700/tvbox/-/raw/main/Spider/vvebo0209.jar;md5;7EB1DA5A3E47D5A2C4C0D010183E4F76",
 "wallpaper":"https://framagit.org/00700/tvbox/-/raw/main/Wallpaper/03.png",
 "lives":[{"name":"直播","type":0,"url":"https://framagit.org/00700/tvbox/-/raw/main/live.txt"}],
 "sites":[
@@ -8,6 +8,7 @@
 {"key":"csp_Bili","name":"曲艺┃相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://framagit.org/00700/tvbox/-/raw/main/Bilibili/Bili_%E7%9B%B8%E5%A3%B0_2.json"},
 {"key":"csp_Bttoo","name":"影视┃BTBT影视","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Czsapp","name":"影视┃厂长资源","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_AppTT","name":"影视┃图图影视","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nmys","name":"影视┃农民影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://framagit.org/00700/tvbox/-/raw/main/xBPQ/Nmys.json"},
 {"key":"csp_Voflix","name":"影视┃沃利克斯","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Fantuan","name":"影视┃饭团影视","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
