@@ -9,7 +9,7 @@
 {"key":"csp_Kuaikan","name":"影视┃快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"filterable":1,"changeable":1},
 {"key":"csp_Nmys","name":"影视┃农民影视","type":3,"api":"csp_xBPQ","searchable":1,"filterable":1,"changeable":1,"ext":"https://framagit.org/00700/tvbox/-/raw/main/xBPQ/Nmys.json"},
 {"key":"csp_Voflix","name":"影视┃沃利克斯","type":3,"api":"csp_Voflix","searchable":1,"filterable":1,"changeable":1},
-{"key":"csp_Bttoo","name":"影视┃BTBT影视","type":3,"api":"csp_Bttoo","searchable":1,"filterable":1,"changeable":1},
+{"key":"csp_Bttoo","name":"影视┃BTBT影视","type":3,"api":"csp_Bttoo","playerType":1,"searchable":1,"filterable":1,"changeable":1},
 {"key":"csp_Czsapp","name":"影视┃厂长资源","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"filterable":1,"changeable":1},
 {"key":"csp_Paper","name":"阿里┃小纸条源","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"filterable":1,"changeable":1,"ext":"http://ali.饭太硬.ml/token"}],
 "parses":[{"name":"OKJX","type":0,"url":"https://okjx.cc/?url="}],
