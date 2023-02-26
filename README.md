@@ -11,8 +11,8 @@ Python爬虫:https://github.com/UndCover/PyramidStore.git
 ```
 # 接口
 ```
-TVBox:https://ghproxy.com/https://raw.githubusercontent.com/T00700/TVBoxSE/master/TVBox.json
-FongMi:https://ghproxy.com/https://raw.githubusercontent.com/T00700/TVBoxSE/master/FongMi.json
-iPlayer:https://ghproxy.com/https://raw.githubusercontent.com/T00700/TVBoxSE/master/iPlayer.json
-多仓订阅:https://ghproxy.com/https://raw.githubusercontent.com/T00700/TVBoxSE/master/TVBoxMore.json
+TVBox:https://raw.iqiq.io/T00700/TVBoxSE/master/TVBox.json
+FongMi:https://raw.iqiq.io/T00700/TVBoxSE/master/FongMi.json
+iPlayer:https://raw.iqiq.io/T00700/TVBoxSE/master/iPlayer.json
+多仓订阅:https://raw.iqiq.io/T00700/TVBoxSE/master/TVBoxMore.json
 ```
