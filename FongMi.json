@@ -9,7 +9,7 @@
 {"key":"csp_Kuaikan","name":"影视┃快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"filterable":1,"changeable":1},
 {"key":"csp_Nmys","name":"影视┃农民影视","type":3,"api":"csp_XBPQ","searchable":1,"filterable":1,"changeable":1,"ext":"https://framagit.org/00700/tvbox/-/raw/main/xBPQ/Nmys.json"},
 {"key":"csp_Voflix","name":"影视┃沃利克斯","type":3,"api":"csp_Voflix","searchable":1,"filterable":1,"changeable":1},
-{"key":"csp_Bttoo","name":"影视┃BTBT影视","type":3,"api":"csp_Bttoo","playerType":1,"searchable":1,"filterable":1,"changeable":1},
+{"key":"csp_Bttwoo","name":"影视┃BTBT影视","type":3,"api":"csp_Bttwoo","playerType":1,"searchable":1,"filterable":1,"changeable":1},
 {"key":"csp_AppMr","name":"影视┃明明影视","type":3,"api":"csp_AppMr","searchable":1,"filterable":1,"changeable":1},
 {"key":"csp_Paper","name":"阿里┃小纸条源","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"filterable":1,"changeable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"}],
 "parses":[{"name":"OKJX","type":0,"url":"https://okjx.cc/?url="}],
