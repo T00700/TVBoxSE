@@ -10,19 +10,19 @@ Python爬虫:https://github.com/UndCover/PyramidStore.git
 影视助手：https://github.com/sec-an/TVHelper.git
 ```
 # 接口
--TVBox
+- TVBox
 ```
 https://raw.iqiq.io/T00700/TVBoxSE/master/TVBox.json
 ```
-- [FongMi]
+- FongMi
 ```
 https://raw.iqiq.io/T00700/TVBoxSE/master/FongMi.json
 ```
-- [iPlayer]
+- iPlayer
 ```
 https://raw.iqiq.io/T00700/TVBoxSE/master/iPlayer.json
 ```
-- [多仓订阅]
+- 多仓订阅
 ```
 https://raw.iqiq.io/T00700/TVBoxSE/master/TVBoxMore.json
 ```
