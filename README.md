@@ -22,6 +22,6 @@ iPlayer:https://raw.iqiq.io/T00700/TVBoxSE/master/iPlayer.json
 以下站源播放过程中会出现赌博.涉黄类贴片广告.以家庭为单位观看影视剧的话，强烈不建议使用以下站源观看!!!
 贴片广告是指影视剧在播放伊始，观看过程中，打断正常播放而插入的广告(以赌博类和涉黄类为主)。
 
-csp_AppMr_明明,csp_Cokemv_可乐,csp_BuLei_布雷
-csp_Czsapp_厂长,csp_Apple_小苹果
+- [csp_AppMr_明明],- [csp_Cokemv_可乐],- [csp_BuLei_布雷]
+- [csp_Czsapp_厂长],- [csp_Apple_小苹果]
 ```
