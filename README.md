@@ -28,10 +28,9 @@ https://raw.iqiq.io/T00700/TVBoxSE/master/TVBoxMore.json
 ```
 
 # 提示
-- [ ] [以家庭为主体观看影视剧的话，强烈不建议使用以下站源观看！！！
-- [ ] 因为播放过程中会出现赌博、交友、涉黄等等贴片广告.](https://raw.iqiq.io/T00700/TVBoxSE/master/TVBox.json)
+- [ ] [以家庭为主体观看影视剧的话，强烈不建议使用以下站源观看！！！因为播放过程中会出现赌博、交友、涉黄等等贴片广告.](https://raw.iqiq.io/T00700/TVBoxSE/master/TVBox.json)
 
-- [csp_AppMr_明明] 
+- [NO][csp_AppMr_明明] 
 - [csp_Cokemv_可乐]
 - [csp_BuLei_布雷]
 - [csp_Czsapp_厂长]
