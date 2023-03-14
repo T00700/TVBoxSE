@@ -10,8 +10,9 @@ Python爬虫:https://github.com/UndCover/PyramidStore.git
 影视助手：https://github.com/sec-an/TVHelper.git
 ```
 # 接口
+TVBox
 ```
-TVBox:https://raw.iqiq.io/T00700/TVBoxSE/master/TVBox.json
+https://raw.iqiq.io/T00700/TVBoxSE/master/TVBox.json
 ```
 ```
 FongMi:https://raw.iqiq.io/T00700/TVBoxSE/master/FongMi.json
