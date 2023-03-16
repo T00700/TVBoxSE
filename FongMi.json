@@ -1,6 +1,6 @@
 {"spider":"https://framagit.org/00700/tvbox/-/raw/main/Spider/vvebo0304.jar;md5;B651B5B1E7E3DBED814DF82E6E6CAB5C",
 "wallpaper":"https://framagit.org/00700/tvbox/-/raw/main/Wallpaper/03.png",
-"lives":[{"name":"TXT","type":0,"url":"https://framagit.org/00700/tvbox/-/raw/main/live.txt","playerType":1,"boot":false},{"name":"M3U","type":0,"url":"https://raw.iqiq.io/T00700/TW-M3U/main/merged.m3u","boot":false}],
+"lives":[{"name":"TXT","type":0,"url":"https://framagit.org/00700/tvbox/-/raw/main/live.txt","playerType":1,"boot":false},{"name":"M3U","type":0,"url":"https://raw.iqiq.io/T00700/TW-M3U/main/merged.m3u","ua":"okhttp/3.15","boot":false}],
 "sites":[
 {"key":"csp_Kunyu77","name":"推荐┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"filterable":1,"changeable":1},
 {"key":"csp_DiDuan","name":"影视┃欧美日韩","type":3,"api":"csp_Ddrk","searchable":1,"filterable":1,"changeable":1},
