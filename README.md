@@ -25,6 +25,7 @@ https://raw.iqiq.io/T00700/TVBoxSE/master/iPlayer.json
 - 多仓订阅
 ```
 https://raw.iqiq.io/T00700/TVBoxSE/master/TVBoxMore.json
+https://www.bjjhsyxx.com/dingyue1.json
 ```
 - 健时督导
 ```
