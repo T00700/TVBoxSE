@@ -7,7 +7,7 @@
 {"key":"csp_JRSKan","name":"体育┃赛事直播","type":3,"api":"csp_XPathFilter","searchable":0,"filterable":0,"changeable":0,"ext":"https://framagit.org/00700/tvbox/-/raw/main/XPathFilter/JRSKan.json"},
 {"key":"csp_Bili","name":"曲艺┃相声小品","type":3,"api":"csp_Bili","searchable":0,"filterable":0,"changeable":0,"ext":"https://framagit.org/00700/tvbox/-/raw/main/Bilibili/Bili_%E7%9B%B8%E5%A3%B0_2.json"},
 {"key":"csp_Kuaikan","name":"影视┃快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"filterable":1,"changeable":1},
-{"key":"csp_Nmys","name":"影视┃农民影视","type":3,"api":"csp_XBPQ","searchable":1,"filterable":1,"changeable":1,"ext":"https://framagit.org/00700/tvbox/-/raw/main/xBPQ/Nmys.json"},
+{"key":"csp_Nmys","name":"影视┃农民影视","type":3,"api":"csp_xBPQ","searchable":1,"filterable":1,"changeable":1,"ext":"https://framagit.org/00700/tvbox/-/raw/main/xBPQ/Nmys.json"},
 {"key":"csp_Voflix","name":"影视┃沃利克斯","type":3,"api":"csp_Voflix","searchable":1,"filterable":1,"changeable":1},
 {"key":"csp_Bttwoo","name":"影视┃BTBT影视","type":3,"api":"csp_Bttwoo","playerType":1,"searchable":1,"filterable":1,"changeable":1},
 {"key":"csp_Citydy","name":"影视┃城市电影","type":3,"api":"csp_xBPQ","searchable":1,"filterable":1,"changeable":1,"ext":"https://framagit.org/00700/tvbox/-/raw/main/xBPQ/citydy.json"},
