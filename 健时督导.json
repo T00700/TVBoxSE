@@ -3,118 +3,92 @@
     "dyzuozhe":"1119908@qq.com",
     "apiyuan":[
   {
-    "id": 2,
     "name": "KY影视",
     "searchurl": "https://api.kunyu77.com/api.php/provide/searchVideo?pcode=040110002&version=1.8.5&package=com.idianVideo.app.android&sys=android&sysver=10&brand=vivo&model=V2136A&devid=5d6195167c4268ee03ac61044e453f74&sj=1672647882&searchName=",
     "searchua": "okhttp/3.12.0",
     "detailurl": "https://api.kunyu77.com/api.php/provide/videoPlaylist?pcode=040110002&version=1.8.5&package=com.idianVideo.app.android&sys=android&sysver=10&brand=vivo&model=V2136A&devid=5d6195167c4268ee03ac61044e453f74&sj=1672647882&ids=",
-    "detailua": "okhttp/3.12.0",
-    "shenhe": 0
+    "detailua": "okhttp/3.12.0"
   },
   {
-    "id": 7,
     "name": "非凡资源",
     "searchurl": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/?ac=detail&wd=",
     "searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
     "detailurl": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/?ac=detail&ids=",
-    "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
-    "shenhe": 0
+    "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
   },
   {
-    "id": 9,
     "name": "Ikun资源",
     "searchurl": "https://ikunzyapi.com/api.php/provide/vod?ac=detail&wd=",
     "searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
     "detailurl": "https://ikunzyapi.com/api.php/provide/vod?ac=detail&ids=",
-    "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
-    "shenhe": 0
+    "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
   },
   {
-    "id": 10,
     "name": "量子资源",
     "searchurl": "https://cj.lziapi.com/api.php/provide/vod/?ac=detail&wd=",
     "searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
     "detailurl": "https://cj.lziapi.com/api.php/provide/vod/?ac=detail&ids=",
-    "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
-    "shenhe": 0
+    "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
   },
   {
-    "id": 20,
     "name": "小龟视频",
     "searchurl": "http://tkys.vip/xgapp.php/v3/search?text=",
     "searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
     "detailurl": "http://tkys.vip/xgapp.php/v3/video_detail?id=",
-    "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
-    "shenhe": 0
+    "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
   },
   {
-    "id": 25,
     "name": "闪电资源",
     "searchurl": "https://sdzyapi.com/api.php/provide/vod/?ac=detail&wd=",
     "searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
     "detailurl": "https://sdzyapi.com/api.php/provide/vod/?ac=detail&ids=",
-    "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
-    "shenhe": 0
+    "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
   },
   {
-    "id": 26,
     "name": "忆梦官方",
     "searchurl": "http://anltv.cn/api.php/provide/vod/?ac=detail&wd=",
     "searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
     "detailurl": "http://anltv.cn/api.php/provide/vod/?ac=detail&ids=",
-    "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
-    "shenhe": 0
+    "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
   },
   {
-    "id": 32,
     "name": "天堂资源",
     "searchurl": "http://vipmv.cc/api.php/provide/vod/?ac=detail&wd=",
     "searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
     "detailurl": "http://vipmv.cc/api.php/provide/vod/?ac=detail&ids=",
-    "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
-    "shenhe": 0
+    "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
   },
   {
-    "id": 34,
     "name": "干饭采集",
     "searchurl": "http://124.220.183.81:83/api.php/provide/vod/?ac=detail&wd=",
     "searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
     "detailurl": "http://124.220.183.81:83/api.php/provide/vod/?ac=detail&ids=",
-    "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
-    "shenhe": 0
+    "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
   },
   {
-    "id": 36,
     "name": "1080P",
     "searchurl": "https://1080p.tv/api.php/provide/vod/?ac=detail&wd=",
     "searchua": "Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
     "detailurl": "https://1080p.tv/api.php/provide/vod/?ac=detail&ids=",
-    "detailua": "Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
-    "shenhe": 0
+    "detailua": "Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
   },
   {
-    "id": 48,
     "name": "FOX资源",
     "searchurl": "https://api.foxzyapi.com/api.php/provide/vod/?ac=detail&wd=",
     "searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
     "detailurl": "https://api.foxzyapi.com/api.php/provide/vod/?ac=detail&ids=",
-    "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
-    "shenhe": 0
+    "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
   },
   {
-    "id": 49,
     "name": "樱花动漫",
     "searchurl": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=detail&wd=",
     "searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
     "detailurl": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=detail&ids=",
-    "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
-    "shenhe": 0
+    "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
   }
 ],
     "zhanyuan":[
   {
-    "id": 14,
-    "uid": 0,
     "name": "花猫TV",
     "searchUrl": "http://www.huamaotv.com",
     "searchUA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
@@ -131,8 +105,6 @@
     "detailjsurl": "//li/a/@href"
   },
   {
-    "id": 17,
-    "uid": 0,
     "name": "八戒影视",
     "searchUrl": "https://dsxys.pro",
     "searchUA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
@@ -149,8 +121,6 @@
     "detailjsurl": "//a/@href"
   },
   {
-    "id": 23,
-    "uid": 0,
     "name": "丝丝视频",
     "searchUrl": "https://www.siguyy.com",
     "searchUA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
@@ -167,8 +137,6 @@
     "detailjsurl": "//li/a/@href"
   },
   {
-    "id": 25,
-    "uid": 0,
     "name": "八零影院",
     "searchUrl": "https://www.6080dy3.com",
     "searchUA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
@@ -185,8 +153,6 @@
     "detailjsurl": "//a/@href"
   },
   {
-    "id": 37,
-    "uid": 0,
     "name": "小团团",
     "searchUrl": "https://www.fantuanhd.com",
     "searchUA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
@@ -203,8 +169,6 @@
     "detailjsurl": "//li/a/@href"
   },
   {
-    "id": 42,
-    "uid": 0,
     "name": "农民影视",
     "searchUrl": "https://v.xiangdao.me",
     "searchUA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
@@ -221,8 +185,6 @@
     "detailjsurl": "//ul/li/a/@href"
   },
   {
-    "id": 46,
-    "uid": 0,
     "name": "金曼tv",
     "searchUrl": "https://jinmantv.com",
     "searchUA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
@@ -239,8 +201,6 @@
     "detailjsurl": "//a/@href"
   },
   {
-    "id": 47,
-    "uid": 0,
     "name": "VOfilx",
     "searchUrl": "https://www.voflix.com",
     "searchUA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
@@ -257,8 +217,6 @@
     "detailjsurl": "//a/@href"
   },
   {
-    "id": 48,
-    "uid": 0,
     "name": "起飞电影",
     "searchUrl": "https://qfitv.com",
     "searchUA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
@@ -275,8 +233,6 @@
     "detailjsurl": "//a/@href"
   },
   {
-    "id": 49,
-    "uid": 0,
     "name": "UM电影",
     "searchUrl": "https://www.umkan.cc",
     "searchUA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
@@ -293,8 +249,6 @@
     "detailjsurl": "//a/@href"
   },
   {
-    "id": 50,
-    "uid": 0,
     "name": "七篇电影",
     "searchUrl": "https://www.7pw.net",
     "searchUA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
@@ -311,8 +265,6 @@
     "detailjsurl": "//a/@href"
   },
   {
-    "id": 51,
-    "uid": 0,
     "name": "午夜电影",
     "searchUrl": "https://www.rxwuye.com",
     "searchUA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
@@ -329,8 +281,6 @@
     "detailjsurl": "//li/a/@href"
   },
   {
-    "id": 52,
-    "uid": 0,
     "name": "二次影视",
     "searchUrl": "https://ys.ccmoe.cc",
     "searchUA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
@@ -347,8 +297,6 @@
     "detailjsurl": "//a/@href"
   },
   {
-    "id": 55,
-    "uid": 0,
     "name": "海外剧线",
     "searchUrl": "https://www.zxzj.pro",
     "searchUA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
@@ -365,8 +313,6 @@
     "detailjsurl": "//li/a/@href"
   },
   {
-    "id": 56,
-    "uid": 0,
     "name": "FR影视",
     "searchUrl": "https://www.freeok.vip",
     "searchUA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
@@ -383,8 +329,6 @@
     "detailjsurl": "//a/@href"
   },
   {
-    "id": 57,
-    "uid": 0,
     "name": "动漫巴士",
     "searchUrl": "https://dm84.tv",
     "searchUA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
@@ -401,8 +345,6 @@
     "detailjsurl": "//li/a/@href"
   },
   {
-    "id": 59,
-    "uid": 0,
     "name": "零九影视",
     "searchUrl": "https://www.b09.net",
     "searchUA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
@@ -419,8 +361,6 @@
     "detailjsurl": "//a/@href"
   },
   {
-    "id": 61,
-    "uid": 0,
     "name": "139影视",
     "searchUrl": "https://www.139ys.com",
     "searchUA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
@@ -437,8 +377,6 @@
     "detailjsurl": "//li/a/@href"
   },
   {
-    "id": 62,
-    "uid": 0,
     "name": "米❤️电影",
     "searchUrl": "https://www.miai.cc",
     "searchUA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
@@ -455,8 +393,6 @@
     "detailjsurl": "//a/@href"
   },
   {
-    "id": 64,
-    "uid": 0,
     "name": "芭蕾影院",
     "searchUrl": "https://www.bulei.cc",
     "searchUA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
@@ -475,12 +411,10 @@
 ],
     "webyuan":[
   {
-    "id": 1,
     "name": "厂长电影",
     "playtext": "",
     "url": "https://www.czzzu.com/?s=",
     "imgurl": "https://i1.wp.com/img.py1080p.com//2021/08/19dc1c424e7c33.png",
-    "type": 0,
     "detailtext": "movie",
     "uatext": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
     "searchname": "//div[@class=&&&moviedteail_tt&&&]/h1/text()",
@@ -491,12 +425,10 @@
     "detailjsurl": "//a/@href"
   },
   {
-    "id": 4,
     "name": "555影视",
     "playtext": "vodplay",
     "url": "https://www.555dd5.com/vodsearch/-------------.html?wd=",
     "imgurl": "https://shp.qpic.cn/wanjiashequ_pic/0/0f3c7d3af3efda8ef4d1f1c1f26f5081/0",
-    "type": 0,
     "detailtext": "voddetail",
     "uatext": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
     "searchname": "//div[@class=&&&module-info-heading&&&]/h1/text()",
@@ -507,12 +439,10 @@
     "detailjsurl": "//a/@href"
   },
   {
-    "id": 7,
     "name": "达达龟",
     "playtext": "vodplay",
     "url": "https://www.dadagui.me/vodsearch/-------------.html?wd=",
     "imgurl": "https://www.dadagui.me/template/ddg/statics/img/logo_f.png",
-    "type": 0,
     "detailtext": "voddetail",
     "uatext": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
     "searchname": "//h1[@class=&&&title&&&]/text()",
@@ -523,12 +453,10 @@
     "detailjsurl": "//li/a/@href"
   },
   {
-    "id": 8,
     "name": "耐看tv",
     "playtext": "",
     "url": "https://www.nkvod.com/pian/-------------.html?wd=",
     "imgurl": "https://www.nkvod.com/mxtheme/images/logo.png",
-    "type": 0,
     "detailtext": "detail",
     "uatext": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
     "searchname": "//div[@class=&&&module-info-heading&&&]/h1/text()",
@@ -539,12 +467,10 @@
     "detailjsurl": "//a/@href"
   },
   {
-    "id": 9,
     "name": "大米星球",
     "playtext": "vodplay",
     "url": "https://dmdy2.vip/vodsearch/-------------.html?wd=",
     "imgurl": "https://ugc.hitv.com/1/22101302355640A2E346E1415C87955C155B224B5Qzkx/S4XuMa0.png",
-    "type": 0,
     "detailtext": "voddetail",
     "uatext": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
     "searchname": "//div[@class=&&&module-info-heading&&&]/h1/text()",
@@ -555,12 +481,10 @@
     "detailjsurl": "//a/@href"
   },
   {
-    "id": 10,
     "name": "蓝光影院",
     "playtext": "",
     "url": "https://www.lgyy.tv/vodsearch/-------------.html?wd=",
     "imgurl": "https://shp.qpic.cn/wanjiashequ_pic/0/0f3c7d3af3efda8ef4d1f1c1f26f5081/0",
-    "type": 0,
     "detailtext": "voddetail",
     "uatext": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
     "searchname": "//div[@class=&&&module-info-heading&&&]/h1/text()",
@@ -571,12 +495,10 @@
     "detailjsurl": "//a/@href"
   },
   {
-    "id": 12,
     "name": "三三影视",
     "playtext": "",
     "url": "https://www.ylwt33.com/vodsearch/-------------.html?wd=",
     "imgurl": "https://i1.wp.com/img.py1080p.com//2021/08/19dc1c424e7c33.png",
-    "type": 0,
     "detailtext": "voddetail",
     "uatext": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
     "searchname": "//h1[@class=&&&title&&&]/text()",
@@ -585,22 +507,6 @@
     "detailxl": "//ul[@class='nav nav-tabs active']/li/a/text()",
     "detailjs": "//li/a/text()",
     "detailjsurl": "//li/a/@href"
-  },
-  {
-    "id": 13,
-    "name": "人人影视",
-    "playtext": "play",
-    "url": "https://www.rrets.cc/so/?wd=",
-    "imgurl": "https://shp.qpic.cn/wanjiashequ_pic/0/0f3c7d3af3efda8ef4d1f1c1f26f5081/0",
-    "type": 0,
-    "detailtext": "project",
-    "uatext": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-    "searchname": "//div[@class=&&&module-info-heading&&&]/h1/text()",
-    "searchpic": "//img[@class=&&&ls-is-cached lazy lazyload&&&]/@src",
-    "detaillist": "//div[@class=&&&module-play-list&&&]/div/",
-    "detailxl": "//*[@id=&&&y-playList&&&]/div/span/text()",
-    "detailjs": "//a/span/text()",
-    "detailjsurl": "//a/@href"
   }
 ]
 }
