@@ -12,27 +12,27 @@ Python爬虫:https://github.com/UndCover/PyramidStore.git
 # 接口
 - TVBox
 ```
-https://raw.iqiq.io/T00700/TVBoxSE/master/TVBox.json
+https://ghproxy.com/raw.githubusercontent.com/T00700/TVBoxSE/master/TVBox.json
 ```
 - FongMi
 ```
-https://raw.iqiq.io/T00700/TVBoxSE/master/FongMi.json
+https://ghproxy.com/raw.githubusercontent.com/TVBoxSE/master/FongMi.json
 ```
 - iPlayer
 ```
-https://raw.iqiq.io/T00700/TVBoxSE/master/iPlayer.json
+https://ghproxy.com/raw.githubusercontent.com/T00700/TVBoxSE/master/iPlayer.json
 ```
 - 多仓订阅
 ```
-https://raw.iqiq.io/T00700/TVBoxSE/master/TVBoxMore.json
+https://ghproxy.com/raw.githubusercontent.com/T00700/TVBoxSE/master/TVBoxMore.json
 ```
 - 健时督导
 ```
-https://raw.iqiq.io/T00700/TVBoxSE/master/ios.json
+https://ghproxy.com/raw.githubusercontent.com/T00700/TVBoxSE/master/ios.json
 https://www.bjjhsyxx.com/dingyue1.json
 ```
 # 提示
-- [ ] [以家庭为主体观看影视剧的话，强烈不推荐、不建议使用以下站源观看！！！因为播放过程中会出现赌博、交友、涉黄等等贴片广告.贴片广告是指影视剧在播放过程中，打断正常播放而插入的广告](https://raw.iqiq.io/T00700/TVBoxSE/master/TVBox.json)
+- [ ] [以家庭为主体观看影视剧的话，强烈不推荐、不建议使用以下站源观看！！！因为播放过程中会出现赌博、交友、涉黄等等贴片广告.贴片广告是指影视剧在播放过程中，打断正常播放而插入的广告](https://ghproxy.com/raw.githubusercontent.com/T00700/TVBoxSE/master/TVBox.json)
 - [ ] 想象下，一家人正在观看奥特曼大战美洋洋，屏幕中却突然出现了一个比基尼性感美女，搔首弄姿的说："约吗，哥哥，妹妹很润哦！" 那时你媳妇咋看你，你儿子咋想你。
 
 - csp_AppMr_明明----csp_Cokemv_可乐----csp_BuLei_布雷-----csp_Czsapp_厂长----csp_Apple_小苹果
