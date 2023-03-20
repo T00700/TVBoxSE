@@ -16,7 +16,7 @@ https://ghproxy.com/raw.githubusercontent.com/T00700/TVBoxSE/master/TVBox.json
 ```
 - FongMi
 ```
-https://ghproxy.com/raw.githubusercontent.com/TVBoxSE/master/FongMi.json
+https://ghproxy.com/raw.githubusercontent.com/T00700/TVBoxSE/master/FongMi.json
 ```
 - iPlayer
 ```
