@@ -9,6 +9,8 @@
 {"key":"csp_Nmys","name":"影视┃农民影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://framagit.org/00700/tvbox/-/raw/main/xBPQ/Nmys.json"},
 {"key":"csp_Voflix","name":"影视┃沃利克斯","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"影视┃BTBT影视","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Lib","name":"影视┃利奥影视","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc"},
+{"key":"csp_Fantuan","name":"影视┃饭团影视","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 {"key":"csp_Citydy","name":"影视┃城市电影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://framagit.org/00700/tvbox/-/raw/main/xBPQ/citydy.json"},
 {"key":"csp_Ikan","name":"影视┃爱看影视","type":3,"api":"csp_xBPQ","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://framagit.org/00700/tvbox/-/raw/main/xBPQ/ikan.json"},
 {"key":"csp_AppTT","name":"影视┃图图影视","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://103.239.101.244:5656$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ=="},
