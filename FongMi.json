@@ -10,7 +10,7 @@
 {"key":"csp_Voflix","name":"影视┃沃利克斯","type":3,"api":"csp_Voflix","searchable":1,"filterable":1,"changeable":1},
 {"key":"csp_Bttwoo","name":"影视┃BTBT影视","type":3,"api":"csp_Bttoo","playerType":1,"searchable":1,"filterable":1,"changeable":1},
 {"key":"csp_Auete","name":"影视┃奥特影视","type":3,"api":"csp_Auete","searchable":1,"filterable":1,"changeable":1},
-{"key":"DR_JS_Blssv","name":"影视┃无名小站","type":3,"api":"https://framagit.org/00700/tvbox/-/raw/main/DR_JS/Libs/drpy2.min.js","ext":"https://framagit.org/00700/tvbox/-/raw/main/DR_JS/%E6%97%A0%E5%90%8D%E5%B0%8F%E7%AB%99.js"},
+{"key":"csp_Blssv","name":"影视┃无名小站","type":3,"api":"csp_xBPQ","searchable":1,"filterable":1,"changeable":1,"ext":"https://framagit.org/00700/tvbox/-/raw/main/xBPQ/Blssv.json"},
 {"key":"csp_Citydy","name":"影视┃城市电影","type":3,"api":"csp_xBPQ","searchable":1,"filterable":1,"changeable":1,"ext":"https://framagit.org/00700/tvbox/-/raw/main/xBPQ/citydy.json"},
 {"key":"csp_Ikan","name":"影视┃爱看影视","type":3,"api":"csp_xBPQ","playerType":2,"searchable":1,"filterable":1,"changeable":1,"ext":"https://framagit.org/00700/tvbox/-/raw/main/xBPQ/ikan.json"},
 {"key":"csp_AppTT","name":"影视┃图图影视","type":3,"api":"csp_AppTT2","searchable":1,"filterable":1,"changeable":1,"ext":"http://103.239.101.244:5656$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ=="},
