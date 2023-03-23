@@ -11,8 +11,7 @@ Python爬虫:https://github.com/UndCover/PyramidStore.git
 ```
 # 建议
 **就个人而言，强烈建议各位使用影视APP作为主力应用，优点太多不一一赘述。暂提供下载地址。**
-- [ ] [横屏电视JAVA版_1.7.1](https://framagit.org/00700/tvbox/-/raw/main/TVBox_APK/leanback-java_1.7.1.apk)
-- [ ] [竖屏手机JAVA版_1.0.8](https://framagit.org/00700/tvbox/-/raw/main/TVBox_APK/leanback-mobile-java_1.0.8.apk)
+- [ ] [横屏电视JAVA版_1.7.1](https://framagit.org/00700/tvbox/-/raw/main/TVBox_APK/leanback-java_1.7.1.apk)    - [ ] [竖屏手机JAVA版_1.0.8](https://framagit.org/00700/tvbox/-/raw/main/TVBox_APK/leanback-mobile-java_1.0.8.apk)
 # 接口
 - TVBox
 ```
