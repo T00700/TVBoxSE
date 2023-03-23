@@ -39,4 +39,4 @@ https://www.bjjhsyxx.com/dingyue1.json
 
     **想象下，一家人正在观看奥特曼大战美洋洋，屏幕中却突然出现了一个比基尼性感美女，搔首弄姿的说："约吗，哥哥，妹妹很润哦！" 那时你媳妇咋看你，你儿子咋想你。**
 
-- csp_AppMr_明明----csp_Cokemv_可乐----csp_BuLei_布雷-----csp_Czsapp_厂长----csp_Apple_小苹果----csp_YQKAPP_一起看----csp_Panghu_胖虎
+- csp_AppMr_明明----csp_Cokemv_可乐----csp_BuLei_布雷-----csp_Czsapp_厂长----csp_Apple_小苹果----csp_YQKAPP_一起看----csp_Panghu_胖虎----XBPQ_凌云影视(yys8.com)----XBPQ_小狗影院(pupvod.com)
