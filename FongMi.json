@@ -1,6 +1,6 @@
 {"spider":"https://framagit.org/00700/tvbox/-/raw/main/Spider/vvebo0304.jar;md5;18DC4EB5AF8B6D2C93FEAF03A20014A9",
 "wallpaper":"https://framagit.org/00700/tvbox/-/raw/main/Wallpaper/03.png",
-"lives":[{"name":"直播","type":0,"url":"https://framagit.org/00700/tvbox/-/raw/main/live.txt","playerType":1,"boot":false},{"name":"台湾新闻频道_需要翻墙","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/T00700/TW-M3U/main/youtube.m3u","boot":false}],
+"lives":[{"name":"直播","type":0,"url":"https://framagit.org/00700/tvbox/-/raw/main/live.txt","playerType":1,"boot":false},{"name":"台湾新闻频道_需要翻墙","type":0,"url":"https://raw.iqiq.io/T00700/TW-M3U/main/youtube.m3u","boot":false}],
 "sites":[{"key":"csp_Kunyu77","name":"推荐┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"filterable":1,"changeable":1},
 {"key":"csp_DiDuan","name":"影视┃欧美日韩","type":3,"api":"csp_Ddrk","searchable":1,"filterable":1,"changeable":1},
 {"key":"csp_JRSKan","name":"体育┃赛事直播","type":3,"api":"csp_XPathFilter","searchable":0,"filterable":0,"changeable":0,"ext":"https://framagit.org/00700/tvbox/-/raw/main/XPathFilter/JRSKan.json"},
