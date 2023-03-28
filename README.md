@@ -29,10 +29,11 @@ https://raw.iqiq.io/T00700/TVBoxSE/master/iPlayer.json
 ```
 https://raw.iqiq.io/T00700/TVBoxSE/master/TVBoxMore.json
 ```
-- 健时督导
+- 壳儿影视
 ```
 https://raw.iqiq.io/T00700/TVBoxSE/master/ios.json
 https://www.bjjhsyxx.com/dingyue1.json
+https://www.aliyuncss.top/dingyue2.json
 ```
 # 提示
 - [ ] [以家庭为主体观看影视剧的话，强烈不推荐、不建议使用以下站源观看！！！因为播放过程中会出现赌博、交友、涉黄等等贴片广告.贴片广告是指影视剧在播放过程中，打断正常播放而插入的广告](https://raw.iqiq.io/T00700/TVBoxSE/master/TVBox.json)
