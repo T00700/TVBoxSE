@@ -10,7 +10,6 @@
 {"key":"csp_Nmys","name":"影视┃农民影视","type":3,"api":"csp_XBPQ","playerType":2,"searchable":1,"filterable":1,"changeable":1,"ext":"https://framagit.org/00700/tvbox/-/raw/main/xBPQ/Nmys.json"},
 {"key":"csp_Kuaikan","name":"影视┃快看影视","type":3,"api":"csp_Kuaikan","playerType":2,"searchable":1,"filterable":1,"changeable":1},
 {"key":"csp_Cokemv","name":"影视┃可乐影视","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"filterable":1,"changeable":1},
-{"key":"csp_YQKAPP","name":"影视┃一起看源","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"filterable":1,"changeable":1,"ext":"https://api-aws.11ty.top"},
 {"key":"csp_Xinsj","name":"影视┃新视觉源","type":3,"api":"csp_Xinsj","playerType":2,"searchable":1,"filterable":1,"changeable":1,"ext":"https://www.6080dy3.com"},
 {"key":"csp_zxzjH3","name":"影视┃在线之家","type":3,"api":"csp_ZxzjH3","playerType":2,"searchable":1,"filterable":1,"changeable":1,"ext":"https://www.zxzjhd.com"},
 {"key":"csp_Lib","name":"影视┃利奥影视","type":3,"api":"csp_Libvio","playerType":2,"searchable":1,"filterable":1,"changeable":1,"ext":"https://tv.libvio.cc/"},
