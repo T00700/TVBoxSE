@@ -15,7 +15,7 @@
 {"key":"csp_Lib","name":"影视┃利奥影视","type":3,"api":"csp_Libvio","playerType":2,"searchable":1,"filterable":1,"changeable":1,"ext":"https://tv.libvio.cc/"},
 {"key":"csp_fantuan","name":"影视┃饭团影视","type":3,"api":"csp_Fantuan","playerType":2,"searchable":1,"filterable":1,"changeable":1,"ext":"https://www.fantuanhd.com"},
 {"key":"csp_Voflix","name":"影视┃沃利克斯","type":3,"api":"csp_XBPQ","playerType":2,"searchable":1,"filterable":1,"changeable":1,"ext":"https://framagit.org/00700/tvbox/-/raw/main/xBPQ/voflix.json"},
-{"key":"csp_Rebozj","name":"影视┃热播之家","type":3,"api":"csp_XBPQ","playerType":1,"searchable":1,"filterable":1,"changeable":1,"ext":"https://rebozj.pro/show/{cateId}--------{catePg}---.html"},
+{"key":"csp_Rebozj","name":"影视┃热播之家","type":3,"api":"csp_XBPQ","playerType":2,"searchable":1,"filterable":1,"changeable":1,"ext":"https://rebozj.pro/show/{cateId}--------{catePg}---.html"},
 {"key":"csp_Dadou","name":"影视┃大豆美剧","type":3,"api":"csp_XBPQ","playerType":2,"searchable":1,"filterable":1,"changeable":1,"ext":"https://dadou.pro/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_电影盒子","name":"影视┃电影盒子","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"filterable":1,"changeable":1,"ext":"https://framagit.org/00700/tvbox/-/raw/main/XYQHiker/dianyinghezi.json"},
 {"key":"csp_量子资源","name":"影视┃量子资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","playerType":2,"searchable":1,"filterable":1,"changeable":1,"categories":["国产剧","韩国剧","欧美剧","香港剧","台湾剧","日本剧","海外剧","泰国剧","记录片","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
