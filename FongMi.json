@@ -17,6 +17,7 @@
 {"key":"csp_AppTT","name":"影视┃图图影视","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"filterable":1,"changeable":1,"ext":"dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 {"key":"csp_Voflix","name":"影视┃沃利克斯","type":3,"api":"csp_XBPQ","playerType":2,"searchable":1,"filterable":1,"changeable":1,"ext":"https://framagit.org/00700/tvbox/-/raw/main/xBPQ/voflix.json"},
 {"key":"csp_Rebozj","name":"影视┃热播之家","type":3,"api":"csp_XBPQ","playerType":1,"searchable":1,"filterable":1,"changeable":1,"ext":"https://rebozj.pro/show/{cateId}--------{catePg}---.html"},
+{"key":"csp_Dadou","name":"影视┃大豆美剧","type":3,"api":"csp_XBPQ","playerType":2,"searchable":1,"filterable":1,"changeable":1,"ext":"https://dadou.pro/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_电影盒子","name":"影视┃电影盒子","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"filterable":1,"changeable":1,"ext":"https://framagit.org/00700/tvbox/-/raw/main/XYQHiker/dianyinghezi.json"},
 {"key":"csp_量子资源","name":"影视┃量子资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","playerType":2,"searchable":1,"filterable":1,"changeable":1,"categories":["国产剧","韩国剧","欧美剧","香港剧","台湾剧","日本剧","海外剧","泰国剧","记录片","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 {"key":"csp_明帝影视","name":"️影视┃明帝影视","type":1,"api":"https://ys.md214.cn/api.php/provide/vod/","playerType":2,"searchable":1,"filterable":1,"changeable":1,"categories":["连续剧","电影","综艺","动漫","直播"]},
