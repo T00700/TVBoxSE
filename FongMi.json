@@ -13,7 +13,6 @@
 {"key":"csp_Xinsj","name":"影视┃新视觉源","type":3,"api":"csp_Xinsj","playerType":2,"searchable":1,"filterable":1,"changeable":1,"ext":"https://www.6080dy3.com"},
 {"key":"csp_zxzjH3","name":"影视┃在线之家","type":3,"api":"csp_ZxzjH3","playerType":2,"searchable":1,"filterable":1,"changeable":1,"ext":"https://www.zxzjhd.com"},
 {"key":"csp_Lib","name":"影视┃利奥影视","type":3,"api":"csp_Libvio","playerType":2,"searchable":1,"filterable":1,"changeable":1,"ext":"https://tv.libvio.cc/"},
-{"key":"csp_fantuan","name":"影视┃饭团影视","type":3,"api":"csp_Fantuan","playerType":2,"searchable":1,"filterable":1,"changeable":1,"ext":"https://www.fantuanhd.com"},
 {"key":"csp_Voflix","name":"影视┃沃利克斯","type":3,"api":"csp_XBPQ","playerType":2,"searchable":1,"filterable":1,"changeable":1,"ext":"https://framagit.org/00700/tvbox/-/raw/main/xBPQ/voflix.json"},
 {"key":"csp_Rebozj","name":"影视┃热播之家","type":3,"api":"csp_XBPQ","playerType":2,"searchable":1,"filterable":1,"changeable":1,"ext":"https://rebozj.pro/show/{cateId}--------{catePg}---.html"},
 {"key":"csp_Dadou","name":"影视┃大豆美剧","type":3,"api":"csp_XBPQ","playerType":2,"searchable":1,"filterable":1,"changeable":1,"ext":"https://dadou.pro/vodshow/{cateId}--------{catePg}---.html"},
