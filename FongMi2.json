@@ -1,4 +1,4 @@
-{"spider":"https://agit.ai/00700/vvebo/raw/branch/main/Spider/YSC0425fix.jar;md5;6A2662212081642E4F4537AE40FB26DC",
+{"spider":"https://agit.ai/00700/vvebo/raw/branch/main/Spider/T00700.jar;md5;03B0CA65E6950F92EDF1DC0F01D9ED37",
 "wallpaper":"https://agit.ai/00700/vvebo/raw/branch/main/Wallpaper/03.png",
 "lives":[{"name":"直播","type":0,"url":"https://agit.ai/00700/vvebo/raw/branch/main/live.txt","playerType":1,"boot":false},{"name":"台湾新闻频道_需要翻墙","type":0,"url":"https://raw.iqiq.io/T00700/TW-M3U/main/youtube.m3u","playerType":1,"boot":false}],
 "sites":[{"key":"csp_Kunyu77","name":"推荐┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"filterable":1,"changeable":1},
