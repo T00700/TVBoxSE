@@ -24,7 +24,7 @@
 		"changeable": 1
 	}, {
 		"key": "csp_DiDuan",
-		"name": "影视┃欧美日韩",
+		"name": "秒播┃欧美日韩",
 		"type": 3,
 		"api": "csp_Ddrk",
 		"playerType": 2,
@@ -69,7 +69,7 @@
 		"ext": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/huya.js"
 	}, {
 		"key": "csp_Kuaikan",
-		"name": "影视┃快看影视",
+		"name": "秒播┃快看影视",
 		"type": 3,
 		"api": "csp_Kuaikan",
 		"playerType": 2,
@@ -88,7 +88,7 @@
 		"ext": "http://45.207.9.101:7773"
 	}, {
 		"key": "csp_Czsapp",
-		"name": "影视┃厂长资源",
+		"name": "秒播┃厂长资源",
 		"type": 3,
 		"api": "csp_Czsapp",
 		"playerType": 2,
