@@ -1,5 +1,5 @@
 {
-    "spider": "https://agit.ai/00700/vvebo/raw/branch/main/Spider/T00700.jar;md5;E3B40E132856C985EE13B7E5C3EFF948",
+    "spider": "https://agit.ai/00700/vvebo/raw/branch/main/Spider/20230430.jar;md5;920F38D3AEF9FDE3D9B86EABA6F7A12B",
     "wallpaper": "https://agit.ai/00700/vvebo/raw/branch/main/Wallpaper/03.png",
     "lives": [{
         "name": "直播",
@@ -87,26 +87,16 @@
         "changeable": 1,
         "ext": "http://45.207.9.101:7778"
     }, {
-        "key": "csp_农民影视",
+        "key": "csp_Nmys",
         "name": "影视┃农民影视",
         "type": 3,
-        "api": "csp_XYQHiker",
+        "api": "csp_Nmys",
         "playerType": 2,
         "searchable": 1,
         "filterable": 1,
         "changeable": 1,
-        "ext": "https://agit.ai/00700/vvebo/raw/branch/main/XYQHiker/Nmys.json"
-    }, {
-        "key": "csp_电影盒子",
-        "name": "影视┃电影盒子",
-        "type": 3,
-        "api": "csp_XYQHiker",
-        "playerType": 2,
-        "searchable": 1,
-        "filterable": 1,
-        "changeable": 1,
-        "ext": "https://agit.ai/00700/vvebo/raw/branch/main/XYQHiker/dianyinghezi.json"
-    }, {
+        "ext": "http://饭太硬.ga/x/json/nmys.json"
+    },{
         "key": "csp_Rebozj",
         "name": "影视┃热播之家",
         "type": 3,
