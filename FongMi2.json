@@ -119,7 +119,7 @@
 		"name": "极速┃沃利克斯",
 		"type": 3,
 		"api": "csp_XBiu",
-		"playerType": 2,
+		"playerType": 1,
 		"searchable": 1,
 		"filterable": 1,
 		"changeable": 1,
@@ -154,6 +154,16 @@
 		"filterable": 1,
 		"changeable": 1,
 		"ext": "https://www.libvio.fun/type/{cateId}-{catePg}.html"
+	}, {
+		"key": "drpy_Bzhanys",
+		"name": "极速┃播站影视",
+		"type": 3,
+		"api": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js",
+		"playerType": 1,
+		"searchable": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/bzhanys.js"
 	}, {
 		"key": "csp_Dadou",
 		"name": "极速┃大豆影视",
