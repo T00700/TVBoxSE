@@ -116,6 +116,16 @@
 		"changeable": 1,
 		"ext": "https://91free.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html"
 	}, {
+		"key": "csp_Aidi",
+		"name": "影视┃爱迪影院",
+		"type": 3,
+		"api": "csp_XBiu",
+		"playerType": 2,
+		"searchable": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "https://aidi.tv/show/{cateId}--------{catePg}---.html"
+	},{
 		"key": "csp_Mianfeiyy",
 		"name": "影视┃免费电影",
 		"type": 3,
