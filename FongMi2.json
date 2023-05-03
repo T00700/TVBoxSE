@@ -104,7 +104,7 @@
 		"searchable": 1,
 		"filterable": 1,
 		"changeable": 1,
-		"ext": "https://v.xiangdao.me/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class--year-{year}-letter--area-{area}-lang-.html"
+		"ext": "https://v.xiangdao.me/index.php?m=vod-list-id-{cateId}-pg-{catePg}.html"
 	}, {
 		"key": "csp_91free",
 		"name": "影视┃九一电影",
