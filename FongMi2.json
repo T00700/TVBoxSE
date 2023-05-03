@@ -87,6 +87,15 @@
         "changeable": 1,
         "ext": "http://45.207.9.101:7778"
     }, {
+        "key": "csp_Czsapp",
+        "name": "影视┃厂长资源",
+        "type": 3,
+        "api": "csp_Czsapp",
+        "playerType": 2,
+        "searchable": 1,
+        "filterable": 1,
+        "changeable": 1,
+        },{
         "key": "csp_Nmys",
         "name": "影视┃农民影视",
         "type": 3,
