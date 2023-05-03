@@ -96,15 +96,15 @@
 		"filterable": 1,
 		"changeable": 1
 	}, {
-		"key": "csp_Nmys",
-		"name": "影视┃农民影视1",
+		"key": "csp_Xiangdao",
+		"name": "影视┃农民影视",
 		"type": 3,
-		"api": "csp_Nmys",
+		"api": "csp_XBiu",
 		"playerType": 2,
 		"searchable": 1,
 		"filterable": 1,
 		"changeable": 1,
-		"ext": "https://agit.ai/00700/vvebo/raw/branch/main/Json_csp/nmys.json"
+		"ext": "https://v.xiangdao.me/index.php?m=vod-list-id-{cateId}-pg-{catePg}.html"
 	}, {
 		"key": "csp_91free",
 		"name": "影视┃九一电影",
