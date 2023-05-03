@@ -96,78 +96,27 @@
 		"filterable": 1,
 		"changeable": 1
 	}, {
-		"key": "csp_我爱影视",
-		"name": "影视┃我爱影视",
+		"key": "csp_Apple",
+		"name": "秒播┃小苹果源",
 		"type": 3,
-		"api": "csp_AppYsV2",
-		"playerType": 2,
+		"api": "csp_LiteApple",
+		"playerType": 1,
 		"searchable": 1,
 		"filterable": 1,
-		"changeable": 1,
-		"ext": "http://aliys.cn:90/api.php/v1.vod"
-	}, {
-		"key": "csp_91free",
-		"name": "影视┃九一电影",
-		"type": 3,
-		"api": "csp_XBiu",
-		"playerType": 2,
-		"searchable": 1,
-		"filterable": 1,
-		"changeable": 1,
-		"ext": "https://91free.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html"
-	}, {
-		"key": "csp_Aidi",
-		"name": "影视┃爱迪影院",
-		"type": 3,
-		"api": "csp_XBiu",
-		"playerType": 2,
-		"searchable": 1,
-		"filterable": 1,
-		"changeable": 1,
-		"ext": "https://aidi.tv/show/{cateId}--------{catePg}---.html"
-	},{
-		"key": "csp_Mianfeiyy",
-		"name": "影视┃免费电影",
-		"type": 3,
-		"api": "csp_XBiu",
-		"playerType": 2,
-		"searchable": 1,
-		"filterable": 1,
-		"changeable": 1,
-		"ext": "https://mianfeiyy.com/index.php/vod/show/id/{cateId}/page/{catePg}html;aspbudtkm"
+		"changeable": 1
 	}, {
 		"key": "csp_Voflix",
-		"name": "影视┃沃利克斯",
+		"name": "极速┃沃利克斯",
 		"type": 3,
 		"api": "csp_XBiu",
-		"playerType": 2,
+		"playerType": 1,
 		"searchable": 1,
 		"filterable": 1,
 		"changeable": 1,
 		"ext": "https://www.voflix.me/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
 	}, {
-		"key": "csp_Libvio",
-		"name": "影视┃利奥影视",
-		"type": 3,
-		"api": "csp_XBiu",
-		"playerType": 2,
-		"searchable": 1,
-		"filterable": 1,
-		"changeable": 1,
-		"ext": "https://www.libvio.fun/type/{cateId}-{catePg}.html"
-	}, {
-		"key": "csp_Kkkk",
-		"name": "影视┃核桃影院",
-		"type": 3,
-		"api": "csp_XBiu",
-		"playerType": 2,
-		"searchable": 1,
-		"filterable": 1,
-		"changeable": 1,
-		"ext": "http://kkkk.plus/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
-	}, {
 		"key": "csp_Dadagui",
-		"name": "影视┃达达影视",
+		"name": "极速┃达达影视",
 		"type": 3,
 		"api": "csp_XBiu",
 		"playerType": 2,
@@ -176,18 +125,18 @@
 		"changeable": 1,
 		"ext": "https://www.dadagui.me/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"
 	}, {
-		"key": "csp_Wybg666",
-		"name": "影视┃影视之家",
+		"key": "csp_Libvio",
+		"name": "快速┃利奥影视",
 		"type": 3,
 		"api": "csp_XBiu",
-		"playerType": 2,
+		"playerType": 1,
 		"searchable": 1,
 		"filterable": 1,
 		"changeable": 1,
-		"ext": "https://www.wybg666.com/vodshow/{cateId}--------{catePg}---.html"
+		"ext": "https://www.libvio.fun/type/{cateId}-{catePg}.html"
 	}, {
 		"key": "csp_Dadou",
-		"name": "影视┃大豆影视",
+		"name": "极速┃大豆影视",
 		"type": 3,
 		"api": "csp_XBiu",
 		"playerType": 2,
@@ -196,38 +145,28 @@
 		"changeable": 1,
 		"ext": "https://dadou.pro/vodshow/{cateId}--------{catePg}---.html"
 	}, {
-		"key": "csp_Mojievip",
-		"name": "影视┃魔戒影视",
+		"key": "csp_91free",
+		"name": "快速┃九一电影",
 		"type": 3,
 		"api": "csp_XBiu",
 		"playerType": 2,
 		"searchable": 1,
 		"filterable": 1,
 		"changeable": 1,
-		"ext": "https://mojievip.com/show/{cateId}-/page/{catePg}.html"
+		"ext": "https://91free.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html"
 	}, {
-		"key": "csp_101TV",
-		"name": "影视┃101影视",
+		"key": "csp_Kkkk",
+		"name": "快速┃核桃影院",
 		"type": 3,
 		"api": "csp_XBiu",
-		"playerType": 2,
+		"playerType": 1,
 		"searchable": 1,
 		"filterable": 1,
 		"changeable": 1,
-		"ext": "https://www.l0l.tv/vodshow/{cateId}--------{catePg}---.html"
-	}, {
-		"key": "csp_FreeOK",
-		"name": "影视┃FreeOK",
-		"type": 3,
-		"api": "csp_XBiu",
-		"playerType": 2,
-		"searchable": 1,
-		"filterable": 1,
-		"changeable": 1,
-		"ext": "https://www.freeok.vip/vodshow/{cateId}--------{catePg}---.html"
+		"ext": "http://kkkk.plus/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
 	}, {
 		"key": "csp_量子资源",
-		"name": "影视┃量子资源",
+		"name": "快速┃量子资源",
 		"type": 1,
 		"api": "https://cj.lziapi.com/api.php/provide/vod/",
 		"playerType": 2,
@@ -237,7 +176,7 @@
 		"categories": ["国产剧", "韩国剧", "欧美剧", "香港剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "记录片", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺"]
 	}, {
 		"key": "csp_明帝影视",
-		"name": "️影视┃明帝影视",
+		"name": "️快速┃明帝影视",
 		"type": 1,
 		"api": "https://ys.md214.cn/api.php/provide/vod/",
 		"playerType": 2,
