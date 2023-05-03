@@ -156,6 +156,16 @@
 		"changeable": 1,
 		"ext": "https://www.dadagui.me/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"
 	}, {
+		"key": "csp_Wybg666",
+		"name": "影视┃影视之家",
+		"type": 3,
+		"api": "csp_XBiu",
+		"playerType": 2,
+		"searchable": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "https://www.wybg666.com/vodshow/{cateId}--------{catePg}---.html"
+	}, {
 		"key": "csp_Dadou",
 		"name": "影视┃大豆影视",
 		"type": 3,
