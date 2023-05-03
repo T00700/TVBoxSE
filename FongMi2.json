@@ -99,12 +99,12 @@
 		"key": "csp_Nmys",
 		"name": "影视┃农民影视",
 		"type": 3,
-		"api": "csp_Nmys",
+		"api": "csp_XBiu",
 		"playerType": 2,
 		"searchable": 1,
 		"filterable": 1,
 		"changeable": 1,
-		"ext": "http://饭太硬.ga/x/json/nmys.json"
+		"ext": "https://v.xiangdao.me/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class--year-{year}-letter--area-{area}-lang-.html"
 	}, {
 		"key": "csp_91free",
 		"name": "影视┃九一电影",
