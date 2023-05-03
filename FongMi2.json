@@ -155,16 +155,6 @@
 		"changeable": 1,
 		"ext": "https://91free.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html"
 	}, {
-		"key": "csp_Kkkk",
-		"name": "快速┃核桃影院",
-		"type": 3,
-		"api": "csp_XBiu",
-		"playerType": 1,
-		"searchable": 1,
-		"filterable": 1,
-		"changeable": 1,
-		"ext": "http://kkkk.plus/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
-	}, {
 		"key": "csp_量子资源",
 		"name": "快速┃量子资源",
 		"type": 1,
