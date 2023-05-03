@@ -175,6 +175,15 @@
 		"changeable": 1,
 		"ext": "https://dadou.pro/vodshow/{cateId}--------{catePg}---.html"
 	}, {
+            "key": "csp_Bd",
+            "name": "💥哔嘀┃直连",
+            "type": 3,
+            "api": "csp_Bdys01",
+		"playerType": 2,
+		"searchable": 1,
+		"filterable": 1,
+		"changeable": 1
+        },{
 		"key": "csp_91free",
 		"name": "快速┃九一电影",
 		"type": 3,
