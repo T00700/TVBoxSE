@@ -177,6 +177,16 @@
 		"filterable": 1,
 		"ext": "https://www.voflix.me/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
 	}, {
+		"key": "csp_Kan8",
+		"name": "备用┃不卡影视",
+		"type": 3,
+		"api": "csp_XBiu",
+		"playerType": 2,
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://kan8.tv/films/{cateId}_{catePg}.html{by}"
+	}, {
 		"key": "csp_Paper",
 		"name": "阿里┃小纸条源",
 		"type": 3,
