@@ -1,5 +1,5 @@
 {
-	"spider": "https://agit.ai/00700/vvebo/raw/branch/main/Spider/20230430.jar;md5;920F38D3AEF9FDE3D9B86EABA6F7A12B",
+	"spider": "https://agit.ai/00700/vvebo/raw/branch/main/Spider/20230503.jar;md5;920F38D3AEF9FDE3D9B86EABA6F7A12B",
 	"wallpaper": "https://agit.ai/00700/vvebo/raw/branch/main/Wallpaper/03.png",
 	"lives": [{
 		"name": "直播",
@@ -50,7 +50,7 @@
 		"changeable": 0,
 		"ext": "https://agit.ai/00700/vvebo/raw/branch/main/Bilibili/%e7%9b%b8%e5%a3%b0%e5%b0%8f%e5%93%81.json"
 	}, {
-		"key": "drpy_js_斗鱼直播",
+		"key": "drpy_斗鱼直播",
 		"name": "斗鱼┃斗鱼直播",
 		"type": 3,
 		"api": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js",
@@ -59,7 +59,7 @@
 		"changeable": 0,
 		"ext": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/douyu.js"
 	}, {
-		"key": "drpy_js_虎牙直播",
+		"key": "drpy_虎牙直播",
 		"name": "虎牙┃虎牙直播",
 		"type": 3,
 		"api": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js",
@@ -145,16 +145,6 @@
 		"changeable": 1,
 		"ext": "https://agit.ai/00700/vvebo/raw/branch/main/XPathMac/lezhutv.json"
 	}, {
-		"key": "csp_Libvio",
-		"name": "快速┃利奥影视",
-		"type": 3,
-		"api": "csp_XBiu",
-		"playerType": 2,
-		"searchable": 1,
-		"filterable": 1,
-		"changeable": 1,
-		"ext": "https://www.libvio.fun/type/{cateId}-{catePg}.html"
-	}, {
 		"key": "drpy_Bzhanys",
 		"name": "极速┃播站影视",
 		"type": 3,
@@ -165,8 +155,18 @@
 		"changeable": 1,
 		"ext": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/bzhanys.js"
 	}, {
+		"key": "csp_Libvio",
+		"name": "快速┃利奥影视",
+		"type": 3,
+		"api": "csp_XBiu",
+		"playerType": 2,
+		"searchable": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "https://www.libvio.fun/type/{cateId}-{catePg}.html"
+	}, {
 		"key": "csp_Dadou",
-		"name": "极速┃大豆影视",
+		"name": "快速┃大豆影视",
 		"type": 3,
 		"api": "csp_XBiu",
 		"playerType": 2,
