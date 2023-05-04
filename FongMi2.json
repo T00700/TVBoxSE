@@ -184,7 +184,7 @@
 		"filterable": 1,
 		"changeable": 1,
 		"ext": "https://91free.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html"
-	}, {"key":"csp_appysv2_M2_haiwai影视","name":"淘片影视","type":0,"api":"https://taopianapi.com/home/cjapi/as/mc/vod/xml","searchable":1,"quickSearch":1,"filterable":1},{
+	}, {
 		"key": "csp_量子资源",
 		"name": "快速┃量子资源",
 		"type": 1,
