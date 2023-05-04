@@ -185,7 +185,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "http://kan8.tv/films/{cateId}_{catePg}.html{by}"
+		"ext": "http://kan8.tv/films/{cateId}_{catePg}.html"
 	}, {
 		"key": "csp_Paper",
 		"name": "阿里┃小纸条源",
