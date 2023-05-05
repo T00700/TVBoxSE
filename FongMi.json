@@ -191,6 +191,16 @@
 		"filterable": 1,
 		"ext": "https://www.voflix.me/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
 	}, {
+		"key": "csp_Dmsvip",
+		"name": "备用┃端木视频",
+		"type": 3,
+		"api": "csp_XBiu",
+		"playerType": 2,
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://dmsvip.top/index.php/vod/show{area}{by}{class}/id/{cateId}/page/{catePg}{year}.html"
+	}, {
 		"key": "csp_Paper",
 		"name": "阿里┃小纸条源",
 		"type": 3,
