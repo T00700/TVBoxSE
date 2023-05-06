@@ -130,6 +130,16 @@
 		"filterable": 1,
 		"ext": "http://dmsvip.top/index.php/vod/show{area}{by}{class}/id/{cateId}/page/{catePg}{year}.html"
 	}, {
+		"key": "csp_6080dy3",
+		"name": "极速┃六零八零",
+		"type": 3,
+		"api": "csp_XBiu",
+		"playerType": 2,
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://www.6080dy3.com/vodshow/1--------2---.html"
+	}, {
 		"key": "dr_Qfitv",
 		"name": "极速┃起飞影院",
 		"type": 3,
