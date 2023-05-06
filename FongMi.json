@@ -138,7 +138,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://www.6080dy3.com/vodshow/1--------2---.html"
+		"ext": "https://www.6080dy3.com/vodshow/{cateId}--------{catePg}---.html"
 	}, {
 		"key": "dr_Qfitv",
 		"name": "极速┃起飞影院",
