@@ -140,27 +140,6 @@
 		"filterable": 1,
 		"ext": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e8%b5%b7%e9%a3%9e%e5%bd%b1%e9%99%a2.js"
 	}, {
-		"key": "csp_Ffzyapi",
-		"name": "快速┃非凡资源",
-		"type": 1,
-		"api": "http://cj.ffzyapi.com/api.php/provide/vod/",
-		"playurl": "https://jxjson.cf/?url=",
-		"playerType": 2,
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"categories": ["国产剧", "韩国剧", "欧美剧", "香港剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺"]
-	}, {
-		"key": "csp_Lziapi",
-		"name": "快速┃量子资源",
-		"type": 1,
-		"api": "https://cj.lziapi.com/api.php/provide/vod/",
-		"playerType": 2,
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"categories": ["国产剧", "韩国剧", "欧美剧", "香港剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "记录片", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺"]
-	}, {
 		"key": "csp_Voflix",
 		"name": "快速┃沃利克斯",
 		"type": 3,
@@ -172,7 +151,7 @@
 		"ext": "https://www.voflix.me/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
 	}, {
 		"key": "dr_007ys",
-		"name": "备用┃零七影视",
+		"name": "快速┃零七影视",
 		"type": 3,
 		"api": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js",
 		"playerType": 1,
@@ -181,25 +160,26 @@
 		"filterable": 1,
 		"ext": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/007%e5%bd%b1%e8%a7%86.js"
 	}, {
-		"key": "drpy_Bzhanys",
-		"name": "备用┃播站影视",
-		"type": 3,
-		"api": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js",
-		"playerType": 1,
+		"key": "csp_Ffzyapi",
+		"name": "采集┃非凡资源",
+		"type": 1,
+		"api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+		"playurl": "https://jxjson.cf/?url=",
+		"playerType": 2,
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/bzhanys.js"
+		"categories": ["国产剧", "韩国剧", "欧美剧", "香港剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺"]
 	}, {
-		"key": "csp_Lezhutv",
-		"name": "备用┃乐猪影视",
-		"type": 3,
-		"api": "csp_XPathMac",
-		"playerType": 1,
+		"key": "csp_Lziapi",
+		"name": "采集┃量子资源",
+		"type": 1,
+		"api": "https://cj.lziapi.com/api.php/provide/vod/",
+		"playerType": 2,
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://agit.ai/00700/vvebo/raw/branch/main/XPathMac/lezhutv.json"
+		"categories": ["国产剧", "韩国剧", "欧美剧", "香港剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "记录片", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺"]
 	}, {
 		"key": "csp_Paper",
 		"name": "阿里┃小纸条源",
