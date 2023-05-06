@@ -91,7 +91,7 @@
 		"ext": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%86%9c%e6%b0%91%e5%bd%b1%e8%a7%86.js"
 	}, {
 		"key": "dr_Ddys",
-		"name": "秒播┃低端影视",
+		"name": "秒播┃欧美日韩",
 		"type": 3,
 		"api": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js",
 		"playerType": 2,
@@ -119,6 +119,16 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e9%b8%ad%e5%a5%88%e9%a3%9e.js"
+	}, {
+		"key": "csp_Dmsvip",
+		"name": "极速┃端木视频",
+		"type": 3,
+		"api": "csp_XBiu",
+		"playerType": 1,
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://dmsvip.top/index.php/vod/show{area}{by}{class}/id/{cateId}/page/{catePg}{year}.html"
 	}, {
 		"key": "dr_Qfitv",
 		"name": "极速┃起飞影院",
@@ -160,16 +170,6 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://www.voflix.me/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
-	}, {
-		"key": "csp_Dmsvip",
-		"name": "快速┃端木视频",
-		"type": 3,
-		"api": "csp_XBiu",
-		"playerType": 1,
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "http://dmsvip.top/index.php/vod/show{area}{by}{class}/id/{cateId}/page/{catePg}{year}.html"
 	}, {
 		"key": "dr_007ys",
 		"name": "备用┃零七影视",
