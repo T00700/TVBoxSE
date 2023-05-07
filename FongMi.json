@@ -1,5 +1,5 @@
 {
-	"spider": "https://agit.ai/00700/vvebo/raw/branch/main/Spider/20230504.jar;md5;8A894D02F14DFFFDB5F99D8646B3C125",
+	"spider": "https://agit.ai/00700/vvebo/raw/branch/main/Spider/20230507.jar;md5;3DDF617780DC3DFB49E109BC426DAEEE",
 	"wallpaper": "https://agit.ai/00700/vvebo/raw/branch/main/Wallpaper/10.jpg",
 	"lives": [{
 		"name": "直播",
@@ -76,6 +76,15 @@
 		"name": "秒播┃快看影视",
 		"type": 3,
 		"api": "csp_Kuaikan",
+		"playerType": 2,
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1
+	}, {
+		"key": "csp_AppTT2",
+		"name": "秒播┃图图影视",
+		"type": 3,
+		"api": "csp_AppTT2",
 		"playerType": 2,
 		"searchable": 1,
 		"quickSearch": 1,
