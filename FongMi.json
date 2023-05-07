@@ -88,7 +88,8 @@
 		"playerType": 2,
 		"searchable": 1,
 		"quickSearch": 1,
-		"filterable": 1
+		"filterable": 1,
+		"ext":"http://45.207.9.101:7771"
 	}, {
 		"key": "csp_Apple",
 		"name": "秒播┃小苹果源",
