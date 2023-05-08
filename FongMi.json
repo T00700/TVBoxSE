@@ -190,16 +190,6 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"categories": ["国产剧", "韩国剧", "欧美剧", "香港剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "记录片", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺"]
-	}, {
-		"key": "csp_Paper",
-		"name": "阿里┃小纸条源",
-		"type": 3,
-		"api": "csp_Paper",
-		"playerType": 1,
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://agit.ai/alanchaotang/if/raw/branch/main/jar/token.php"
 	}],
 	"parses": [{
 		"name": "OKJX",
