@@ -118,7 +118,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "http://dmsvip.top/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}year/{year}.html;;ak"
+		"ext": "http://dmsvip.top/index.php/vod/show/id/{cateId}/page/{catePg}.html;;ak"
 	}, {
 		"key": "dr_Czzy03",
 		"name": "极速┃厂长影视",
