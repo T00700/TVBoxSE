@@ -114,7 +114,7 @@
 		"name": "极速┃酷影蓝光",
 		"type": 3,
 		"api": "csp_AppYsV2",
-		"playerType": 2,
+		"playerType": 1,
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
