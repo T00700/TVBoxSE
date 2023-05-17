@@ -210,6 +210,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
+			"changeable": 0,
 			"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
 		}
 	],
