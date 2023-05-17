@@ -203,7 +203,7 @@
 		},
 		{
 			"key": "push_agent",
-			"name": "本地┃链接推送",
+			"name": "手机┃链接推送",
 			"type": 3,
 			"api": "csp_Push",
 			"playerType": 1,
