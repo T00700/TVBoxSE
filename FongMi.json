@@ -81,16 +81,6 @@
 			"quickSearch": 1,
 			"filterable": 1
 		}, {
-			"key": "csp_AppTT2",
-			"name": "秒播┃图图影视",
-			"type": 3,
-			"api": "csp_AppTT2",
-			"playerType": 2,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://45.207.9.101:7771"
-		}, {
 			"key": "csp_Apple",
 			"name": "秒播┃小苹果源",
 			"type": 3,
@@ -119,6 +109,16 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "http://kuying.kuyouk.top:9528/api.php/app/"
+		}, {
+			"key": "csp_Dmdh",
+			"name": "极速┃多米蓝光",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"playerType": 1,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://vod.dmdh.top:5680/api.php/app/"
 		}, {
 			"key": "dr_Czzy03",
 			"name": "极速┃厂长影视",
