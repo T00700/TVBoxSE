@@ -221,7 +221,7 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"changeable": 0,
-			"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+			"ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/ext/alitoken.json"
 		}
 	],
 	"parses": [{
