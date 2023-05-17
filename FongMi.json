@@ -101,7 +101,7 @@
 			"ext": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%86%9c%e6%b0%91%e5%bd%b1%e8%a7%86.js"
 		}, {
 			"key": "csp_Kuying",
-			"name": "极速┃酷影蓝光",
+			"name": "秒播┃酷影蓝光",
 			"type": 3,
 			"api": "csp_AppYsV2",
 			"playerType": 1,
@@ -111,7 +111,7 @@
 			"ext": "http://kuying.kuyouk.top:9528/api.php/app/"
 		}, {
 			"key": "csp_Dmdh",
-			"name": "极速┃多米蓝光",
+			"name": "秒播┃多米蓝光",
 			"type": 3,
 			"api": "csp_AppYsV2",
 			"playerType": 1,
