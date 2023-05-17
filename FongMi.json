@@ -120,6 +120,16 @@
 			"filterable": 1,
 			"ext": "http://vod.dmdh.top:5680/api.php/app/"
 		}, {
+			"key": "csp_Maoyingshi",
+			"name": "秒播┃如意影视",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"playerType": 1,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://cms.maoyingshi.cc/api.php/app/"
+		}, {
 			"key": "dr_Czzy03",
 			"name": "极速┃厂长影视",
 			"type": 3,
