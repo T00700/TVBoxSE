@@ -1,0 +1,62 @@
+[
+  {
+    "key": "9aef0df8-c830-5877-8f13-43ca18661c55",
+    "name": "量子资源",
+    "api": "https://cj.lziapi.com/api.php/provide/vod",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 1
+  },
+  {
+    "key": "28393120-9d11-5110-b209-c925b2d8f87e",
+    "name": "非凡资源",
+    "api": "http://cj.ffzyapi.com/api.php/provide/vod",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 2
+  },
+  {
+    "key": "aa5c853f-fe67-58de-918c-d8d026bb69d8",
+    "name": "高清资源",
+    "api": "https://api.1080zyku.com/inc/apijson.php",
+    "download": "",
+    "jiexiUrl": "https://vip.zykbf.com/?url=",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 3
+  },
+  {
+    "key": "ac4fc630-f29e-5b1f-803e-940a39cfff50",
+    "name": "鸡婆资源",
+    "api": "https://www.jipo.tv/api.php/provide/vod",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 4
+  },
+  {
+    "key": "7be81ec5-edc0-5214-ab95-6a2f10fb31fc",
+    "name": "明帝资源",
+    "api": "https://ys.md214.cn/api.php/provide/vod",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 5
+  }
+]
