@@ -215,12 +215,12 @@
 			"name": "采集┃高清资源",
 			"type": 1,
 			"api": "https://api.1080zyku.com/inc/apijson.php",
-			"playurl": "https://vip.zykbf.com/?url=",
+			"playUrl": "https://vip.zykbf.com/?url=",
 			"playerType": 1,
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"categories": ["电影", "连续剧", "综艺", "动漫"]
+			"categories": ["国产剧", "韩国剧", "欧美剧", "大陆综艺"]
 		}, {
 			"key": "push_agent",
 			"name": "手机┃链接推送",
