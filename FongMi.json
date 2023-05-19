@@ -231,9 +231,6 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"changeable": 0,
-			//"ext": "https://www.qiaoji8.com/jar1/token.txt"
-			//"ext": "https://tv.5ye.cc/json/token.txt"
-			//"ext": "https://raw.iqiq.io/T00700/TEST301/master/ganggang/ext/alitoken.json"
 			"ext": "330ddefbea364b22ac6508c32c0ed0ca"
 		}
 	],
