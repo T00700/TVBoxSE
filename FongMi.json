@@ -210,8 +210,18 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"categories": ["国产剧", "韩国剧", "欧美剧", "香港剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "记录片", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺"]
-		},
-		{
+		},{
+			"key": "csp_Yzzy.tv",
+			"name": "采集┃高清资源",
+			"type": 1,
+			"api": "https://api.1080zyku.com/inc/apijson.php",
+			"playurl": "https://vip.zykbf.com/?url=",
+			"playerType": 1,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"categories": ["电影", "连续剧", "综艺", "动漫"]
+		}, {
 			"key": "push_agent",
 			"name": "手机┃链接推送",
 			"type": 3,
@@ -221,6 +231,9 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"changeable": 0,
+			//"ext": "https://www.qiaoji8.com/jar1/token.txt"
+			//"ext": "https://tv.5ye.cc/json/token.txt"
+			//"ext": "https://raw.iqiq.io/T00700/TEST301/master/ganggang/ext/alitoken.json"
 			"ext": "330ddefbea364b22ac6508c32c0ed0ca"
 		}
 	],
