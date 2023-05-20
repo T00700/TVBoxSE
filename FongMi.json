@@ -1,4 +1,4 @@
-{"spider":"https://agit.ai/00700/vvebo/raw/branch/main/Spider/0520.jar;md5;C5F81DBA784D4CB20C0296EC915C2329",
+{"spider":"https://agit.ai/00700/vvebo/raw/branch/main/Spider/0520.jar;md5;091622B35D5410B3F2548376A6EDBC16",
 "wallpaper":"https://agit.ai/00700/vvebo/raw/branch/main/Wallpaper/01.jpg",
 
 "lives":[
@@ -28,7 +28,7 @@
 {"key":"csp_Dmsvip","name":"快速┃端木影视","type":3,"api":"csp_XBiu","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dmsvip1.top/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
 {"key":"dr_007ys","name":"快速┃零七影视","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/007%e5%bd%b1%e8%a7%86.js"},
 
-{"key":"csp_Paper","name":"秒播┃阿里云盘","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"330ddefbea364b22ac6508c32c0ed0ca"},
+{"key":"csp_Paper","name":"秒播┃阿里云1盘","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"330ddefbea364b22ac6508c32c0ed0ca"},
 {"key":"csp_Local","name":"播放┃本地视频","type":3,"api":"csp_Local","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"type_flag":0},
 {"key":"push_agent","name":"手机┃链接推送","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"330ddefbea364b22ac6508c32c0ed0ca"}],
 
