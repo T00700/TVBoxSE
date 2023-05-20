@@ -221,7 +221,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"categories": ["电影", "大陆剧", "综艺", "动画"]
+		"categories": ["电影", "大陆剧", "综艺"]
 	}, {
 		"key": "push_agent",
 		"name": "手机┃链接推送",
