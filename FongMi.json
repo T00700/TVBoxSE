@@ -28,24 +28,26 @@
 {"key":"csp_Dmsvip","name":"快速┃端木影视","type":3,"api":"csp_XBiu","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dmsvip1.top/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
 {"key":"dr_007ys","name":"快速┃零七影视","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/007%e5%bd%b1%e8%a7%86.js"},
 
-{"key":"csp_Ffzyapi","name":"采集┃非凡资源","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","韩国剧","欧美剧","香港剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
-{"key":"csp_Lziapi","name":"采集┃量子资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","韩国剧","欧美剧","香港剧","台湾剧","日本剧","海外剧","泰国剧","记录片","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
-{"key":"csp_Yzzy.tv","name":"采集┃高清资源","type":1,"api":"https://api.1080zyku.com/inc/apijson.php","playUrl":"https://vip.zykbf.com/?url=","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","韩国剧","欧美剧","大陆综艺"]},
-{"key":"csp_3412","name":"️采集┃磁力熊源","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.3412.net.cn/?url=","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"categories":["电影","大陆剧","综艺"]},
+//采集站的优点是资源全，更新快，无需JAR。
+//缺点是播放过程中，会出现跑马灯博彩广告，以及15秒钟切片广告("rules"规则集仅可以去除15秒钟切片广告)，请考虑清楚后再决定是否启用。
+//{"key":"csp_Ffzyapi","name":"采集┃非凡资源","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","韩国剧","欧美剧","香港剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
+//{"key":"csp_Lziapi","name":"采集┃量子资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","韩国剧","欧美剧","香港剧","台湾剧","日本剧","海外剧","泰国剧","记录片","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
+//{"key":"csp_Yzzy.tv","name":"采集┃高清资源","type":1,"api":"https://api.1080zyku.com/inc/apijson.php","playUrl":"https://vip.zykbf.com/?url=","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","韩国剧","欧美剧","大陆综艺"]},
+//{"key":"csp_3412","name":"️采集┃磁力熊源","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.3412.net.cn/?url=","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"categories":["电影","大陆剧","综艺"]},
 
 {"key":"csp_Paper","name":"秒播┃阿里云盘","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"330ddefbea364b22ac6508c32c0ed0ca"},
 {"key":"csp_Local","name":"播放┃本地视频","type":3,"api":"csp_Local","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"type_flag":0},
 {"key":"push_agent","name":"手机┃链接推送","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"330ddefbea364b22ac6508c32c0ed0ca"}],
 
- "parses":[
+"parses":[
 {"name":"OKJX","type":0,"url":"https://okjx.cc/?url="},
 {"name":"JXJS","type":0,"url":"https://jxjson.cf/?url="},
 {"name":"QIQI","type":0,"url":"https://jx.777jiexi.com/player/?url="}],
 
- "rules":[
+"rules":[
 {"name":"量子广告","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 {"name":"非凡广告","hosts":["vip.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 {"name":"火山嗅探","host":["huoshan.com"],"regex":["item_id="]},
 {"name":"抖音嗅探","host":["douyin.com"],"regex":["is_play_url="]}],
 
- "ads":["mi.gdt.qq.com","wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com","mimg.0c1q0l.cn","hd.youyhn.com","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"]}
+"ads":["mi.gdt.qq.com","wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com","mimg.0c1q0l.cn","hd.youyhn.com","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"]}
