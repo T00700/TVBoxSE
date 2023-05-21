@@ -12,7 +12,7 @@
 {"name":"火山嗅探","host":["huoshan.com"],"regex":["item_id="]},
 {"name":"抖音嗅探","host":["douyin.com"],"regex":["is_play_url="]}],
 
-//影视专用
+//DNS，影视专用。新版已内置
 "doh": [
     {
       "name": "騰訊",
