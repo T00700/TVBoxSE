@@ -22,7 +22,7 @@
 
 {"key":"dr_Czzy03","name":"极速┃厂长影视","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%8e%82%e9%95%bf%e8%b5%84%e6%ba%90.js"},
 {"key":"dr_Yanaifei","name":"极速┃奈飞影视","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e9%b8%ad%e5%a5%88%e9%a3%9e.js"},
-{"key":"dr_Qfitv","name":"极速┃起飞影院","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e8%b5%b7%e9%a3%9e%e5%bd%b1%e9%99%a2.js"},
+{"key":"dr_Qfitv","name":"极速┃起飞影院","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e8%b5%b7%e9%a3%9e%e5%bd%b1%e9%99%a2.js"},
 
 {"key":"csp_Voflix","name":"快速┃沃利克斯","type":3,"api":"csp_XBiu","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.voflix.me/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"},
 {"key":"csp_Dmsvip","name":"快速┃端木影视","type":3,"api":"csp_XBiu","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dmsvip1.top/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
