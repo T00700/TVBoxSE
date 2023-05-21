@@ -17,8 +17,6 @@ https://raw.iqiq.io/T00700/TVBoxSE/master/TVBoxMore.json
 - 壳儿影视
 ```
 https://raw.iqiq.io/T00700/TVBoxSE/master/ios.json
-https://www.bjjhsyxx.com/dingyue1.json
-https://www.aliyuncss.top/dingyue2.json
 ```
 # 仓库
 ```
