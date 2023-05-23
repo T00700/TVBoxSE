@@ -4,19 +4,19 @@
 # 接口
 - FongMi
 ```
-https://raw.iqiq.io/T00700/TVBoxSE/master/FongMi.json
+https://raw.gitmirror.com/T00700/TVBoxSE/master/FongMi.json
 ```
 - iPlayer
 ```
-https://raw.iqiq.io/T00700/TVBoxSE/master/iPlayer.json
+https://raw.gitmirror.com/T00700/TVBoxSE/master/iPlayer.json
 ```
 - 多仓订阅
 ```
-https://raw.iqiq.io/T00700/TVBoxSE/master/TVBoxMore.json
+https://raw.gitmirror.com/T00700/TVBoxSE/master/TVBoxMore.json
 ```
 - 壳儿影视
 ```
-https://raw.iqiq.io/T00700/TVBoxSE/master/ios.json
+https://raw.gitmirror.com/T00700/TVBoxSE/master/ios.json
 ```
 # 仓库
 ```
