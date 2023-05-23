@@ -6,6 +6,9 @@
 ```
 https://raw.gitmirror.com/T00700/TVBoxSE/master/FongMi.json
 ```
+···
+https://ghproxy.net/https://raw.githubusercontent.com/T00700/TVBoxSE/master/FongMi.json
+···
 - iPlayer
 ```
 https://raw.gitmirror.com/T00700/TVBoxSE/master/iPlayer.json
