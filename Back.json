@@ -11,7 +11,8 @@
 {"name":"非凡广告","hosts":["vip.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 {"name":"火山嗅探","host":["huoshan.com"],"regex":["item_id="]},
 {"name":"抖音嗅探","host":["douyin.com"],"regex":["is_play_url="]}],
-
+{"host":"www.iesdouyin.com", "rule":["playwm/?video_id="]},
+{"host":"v.douyin.com", "rule":["playwm/?video_id="]},
 //DNS，影视专用。新版已内置
 "doh": [
     {
