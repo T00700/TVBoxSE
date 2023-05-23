@@ -10,6 +10,10 @@ https://raw.gitmirror.com/T00700/TVBoxSE/master/FongMi.json
 ```
 https://raw.gitmirror.com/T00700/TVBoxSE/master/iPlayer.json
 ```
+- ZYPlayer
+```
+https://raw.gitmirror.com/T00700/TVBoxSE/master/ZYPlayer.json
+```
 - 多仓订阅
 ```
 https://raw.gitmirror.com/T00700/TVBoxSE/master/TVBoxMore.json
