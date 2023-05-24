@@ -1,15 +1,27 @@
 [
   {
-    "key": "9aef0df8-c830-5877-8f13-43ca18661c55",
-    "name": "量子资源",
-    "api": "https://cj.lziapi.com/api.php/provide/vod",
+    "key": "b1b933e5-3117-550c-9251-363a53d38151",
+    "name": "量子去广告",
+    "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
     "download": "",
-    "jiexiUrl": "",
+    "jiexiUrl": "json:https://www.itvbox.cc/fflz.php?url=",
     "group": "默认",
     "status": true,
     "isActive": true,
     "type": 1,
     "id": 1
+  },
+  {
+    "key": "74563ee9-bdcd-5570-94b6-3e4ee4561132",
+    "name": "非凡去广告",
+    "api": "https://www.ah121.com/api.php/provide/vod/from/ffm3u8/?at/xml/",
+    "download": "",
+    "jiexiUrl": "json:https://www.itvbox.cc/fflz.php?url=",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 2
   },
   {
     "key": "28393120-9d11-5110-b209-c925b2d8f87e",
@@ -21,7 +33,19 @@
     "status": true,
     "isActive": true,
     "type": 1,
-    "id": 2
+    "id": 3
+  },
+  {
+    "key": "9aef0df8-c830-5877-8f13-43ca18661c55",
+    "name": "量子资源",
+    "api": "https://cj.lziapi.com/api.php/provide/vod",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 4
   },
   {
     "key": "aa5c853f-fe67-58de-918c-d8d026bb69d8",
@@ -33,7 +57,7 @@
     "status": true,
     "isActive": true,
     "type": 1,
-    "id": 3
+    "id": 5
   },
   {
     "key": "ac4fc630-f29e-5b1f-803e-940a39cfff50",
@@ -45,7 +69,19 @@
     "status": true,
     "isActive": true,
     "type": 1,
-    "id": 4
+    "id": 6
+  },
+  {
+    "key": "d0a1cf10-07ec-56e8-ae8a-13687b88d374",
+    "name": "磁力熊源",
+    "api": "https://v.3412.net.cn/macapi.php/provide/vod",
+    "download": "https://player.3412.net.cn/?url=",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 7
   },
   {
     "key": "7be81ec5-edc0-5214-ab95-6a2f10fb31fc",
@@ -57,6 +93,6 @@
     "status": true,
     "isActive": true,
     "type": 1,
-    "id": 5
+    "id": 8
   }
 ]
