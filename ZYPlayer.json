@@ -24,9 +24,9 @@
     "id": 2
   },
   {
-    "key": "28393120-9d11-5110-b209-c925b2d8f87e",
-    "name": "非凡资源",
-    "api": "http://cj.ffzyapi.com/api.php/provide/vod",
+    "key": "9aef0df8-c830-5877-8f13-43ca18661c55",
+    "name": "量子资源",
+    "api": "https://cj.lziapi.com/api.php/provide/vod",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -36,9 +36,9 @@
     "id": 3
   },
   {
-    "key": "9aef0df8-c830-5877-8f13-43ca18661c55",
-    "name": "量子资源",
-    "api": "https://cj.lziapi.com/api.php/provide/vod",
+    "key": "28393120-9d11-5110-b209-c925b2d8f87e",
+    "name": "非凡资源",
+    "api": "http://cj.ffzyapi.com/api.php/provide/vod",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
