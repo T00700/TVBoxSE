@@ -82,6 +82,18 @@
     "isActive": true,
     "type": 1,
     "id": 7
+  },  
+  {
+    "key": "40962b2b-e9f2-57ae-87d2-6766b190572d",
+    "name": "每天看看",
+    "api": "http://47.113.126.237:1234/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 8
   },
   {
     "key": "7be81ec5-edc0-5214-ab95-6a2f10fb31fc",
@@ -93,6 +105,6 @@
     "status": true,
     "isActive": true,
     "type": 1,
-    "id": 8
+    "id": 9
   }
 ]
