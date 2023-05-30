@@ -1,9 +1,11 @@
-//采集站的优点是资源全，更新快，无需JAR。比如量子，非凡。
+//采集站的优点是资源全，更新快，无需JAR。
 //缺点是播放过程中，会出现跑马灯博彩广告，以及15秒钟切片广告("rules"规则集仅可以去除15秒钟切片广告)，请考虑清楚后再决定是否启用。
 {"key":"csp_Ffzyapi","name":"采集┃非凡资源","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","韩国剧","欧美剧","香港剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 {"key":"csp_Lziapi","name":"采集┃量子资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","韩国剧","欧美剧","香港剧","台湾剧","日本剧","海外剧","泰国剧","记录片","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 {"key":"csp_Yzzy.tv","name":"采集┃高清资源","type":1,"api":"https://api.1080zyku.com/inc/apijson.php","playUrl":"https://vip.zykbf.com/?url=","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","韩国剧","欧美剧","大陆综艺"]},
 {"key":"csp_3412","name":"️采集┃磁力熊源","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.3412.net.cn/?url=","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"categories":["电影","大陆剧","综艺"]},
+
+//备用
 {"key":"dr_Czzy","name":"秒播┃厂长影视","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%8e%82%e9%95%bf%e8%b5%84%e6%ba%90.js"},
 {"key":"dr_Ddys","name":"秒播┃欧美日韩","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e4%bd%8e%e7%ab%af%e5%bd%b1%e8%a7%86.js"},
 {"key":"csp_Kunyu77","name":"推荐┃酷云七七","type":3,"api":"csp_Kunyu77","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
@@ -65,48 +67,6 @@
 			"filterable": 1,
 			"playUrl": "json:https://www.itvbox.cc/fflz.php?url="
     },
-    {
-            "key": "红红",
-            "name": "🌈红红┃App",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://bbq.1006.tk/icciu_api.php/v1.vod"
-    },
-    {
-            "key": "黄黄",
-            "name": "😎黄黄┃App",
-            "api": "csp_AppYsV2",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
-    },
-    
-            "key": "csp_酷酷",
-            "name": "🏵酷酷┃App",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://kuyun.realku.cn/api.php/app/"
-    },
-{
-       "key":"酷酷",
-       "name":"酷酷app",
-       "type":3,
-       "api":"csp_AppYsV2",                  
-       "searchable":1,
-       "quickSearch":1,
-       "filterable":1,
-       "ext":"http://cms.wbsys.top/api.php/app/"
-   },
-
-
 
 //除"影视"之外的版本，"regex"标识符修改为"filter"，"name"标识符以及相对应的内容删除，否则报错。
 "rules":[
@@ -117,6 +77,7 @@
 //另外的写法
 {"host":"www.iesdouyin.com", "rule":["playwm/?video_id="]},
 {"host":"v.douyin.com", "rule":["playwm/?video_id="]},
+
 //DNS，影视专用。新版已内置
 "doh": [
     {
