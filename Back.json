@@ -4,7 +4,10 @@
 {"key":"csp_Lziapi","name":"采集┃量子资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","韩国剧","欧美剧","香港剧","台湾剧","日本剧","海外剧","泰国剧","记录片","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 {"key":"csp_Yzzy.tv","name":"采集┃高清资源","type":1,"api":"https://api.1080zyku.com/inc/apijson.php","playUrl":"https://vip.zykbf.com/?url=","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","韩国剧","欧美剧","大陆综艺"]},
 {"key":"csp_3412","name":"️采集┃磁力熊源","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.3412.net.cn/?url=","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"categories":["电影","大陆剧","综艺"]},
-    {
+{"key":"dr_Czzy","name":"秒播┃厂长影视","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%8e%82%e9%95%bf%e8%b5%84%e6%ba%90.js"},
+{"key":"dr_Ddys","name":"秒播┃欧美日韩","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e4%bd%8e%e7%ab%af%e5%bd%b1%e8%a7%86.js"},
+
+{
       "key": "非凡",
       "name": "️🐝┃非凡┃已去广告",
       "type": 1,
