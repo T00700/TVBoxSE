@@ -1,4 +1,4 @@
-{"spider":"https://agit.ai/00700/vvebo/raw/branch/main/Spider/T00700.jar;md5;CE75D8A78AD8D6F41B8810C0FF493E4A",
+{"spider":"https://agit.ai/00700/vvebo/raw/branch/main/Spider/T00700.jar;md5;6DEC40EDB5F434331DB2CC5A9DC90901",
 "wallpaper":"https://agit.ai/00700/vvebo/raw/branch/main/Wallpaper/01.jpg",
 
 "lives":[
@@ -7,7 +7,6 @@
 
 "sites":[
 {"key":"csp_Ole","name":"秒播┃欧乐影视","type":4,"api":"https://php.dovxs.repl.co/vod/ole.php","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Kunyu77","name":"推荐┃酷云七七","type":3,"api":"csp_Kunyu77","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ddrk","name":"秒播┃欧美日韩","type":3,"api":"csp_Ddrk","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
   
 {"key":"csp_JRSKan","name":"体育┃赛事直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XPathFilter/JRSKan.json"},
@@ -19,25 +18,10 @@
 {"key":"csp_Ruyi","name":"秒播┃如意影视","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 {"key":"csp_3412","name":"秒播┃水果影视","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"playUrl":"https://player.3412.net.cn/?url="},
 
-{"key":"csp_AppTT2","name":"秒播┃图图影视","type":3,"api":"csp_AppTT2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://45.207.9.101:7771"},
 {"key":"csp_Czsapp","name":"秒播┃厂长影视","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"秒播┃快看影视","type":3,"api":"csp_Kuaikan","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Apple","name":"秒播┃小苹果源","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dr_Nmys","name":"秒播┃农民影视","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%86%9c%e6%b0%91%e5%bd%b1%e8%a7%86.js"},
-
-{"key":"csp_Mdy66","name":"备选┃六六影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/66%e5%bd%b1%e8%a7%86.json"},
-{"key":"csp_91free","name":"备选┃九一影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/91%e5%bd%b1%e8%a7%86.json"},
-{"key":"csp_Freeok","name":"备选┃菲克蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/%e8%8f%b2%e5%85%8b%e9%ab%98%e6%b8%85.json"},
-{"key":"csp_Miai","name":"备选┃米爱蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/%e7%b1%b3%e7%88%b1%e5%bd%b1%e8%a7%86.json"},
-{"key":"csp_Bttwo","name":"备选┃宝图影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/%e5%ae%9d%e5%9b%be%e5%bd%b1%e8%a7%86.json"},
-{"key":"csp_Wzyshi","name":"备选┃王者影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/%e7%8e%8b%e8%80%85%e5%bd%b1%e8%a7%86.json"},
-
-{"key":"dr_Qfitv","name":"备选┃起飞影院","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e8%b5%b7%e9%a3%9e%e5%bd%b1%e9%99%a2.js"},
-{"key":"csp_Voflix","name":"备选┃沃利克斯","type":3,"api":"csp_XBiu","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.voflix.me/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"},
-{"key":"csp_Dmsvip","name":"备选┃端木影视","type":3,"api":"csp_XBiu","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dmsvip1.top/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
-
-{"key":"csp_Aidi_不能被搜索","name":"秒播┃爱迪影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
-{"key":"csp_Dmdh_不能被搜索","name":"秒播┃多米蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680/api.php/app/"},
 
 {"key":"csp_Paper","name":"秒播┃阿里云盘","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"330ddefbea364b22ac6508c32c0ed0ca"},
 {"key":"csp_Local","name":"播放┃本地视频","type":3,"api":"csp_Local","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"type_flag":0},
