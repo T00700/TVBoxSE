@@ -28,6 +28,10 @@
 {"key":"csp_Voflix","name":"备选┃沃利克斯","type":3,"api":"csp_XBiu","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.voflix.me/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"},
 {"key":"csp_Dmsvip","name":"备选┃端木影视","type":3,"api":"csp_XBiu","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dmsvip1.top/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
 
+{"key":"csp_不能被搜索","name":"秒播┃爱迪影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
+{"key":"csp_不能被搜索","name":"秒播┃多米蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680/api.php/app/"},
+
+{"key":"csp_抖音小姐姐","name":"抖音┃小姐姐源","type":4,"api":"http://120.53.102.254/xjj","playerType":1,"searchable":0,"quickSearch":0,"filterable":1}，
 {"key":"csp_Paper","name":"秒播┃阿里云盘","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"330ddefbea364b22ac6508c32c0ed0ca","jar":"https://agit.ai/00700/vvebo/raw/branch/main/Spider/ali.jar;md5;C45679B45F47BD20A79D3893BF12CCE7"},
 {"key":"csp_Local","name":"播放┃本地视频","type":3,"api":"csp_Local","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"type_flag":0},
 {"key":"push_agent","name":"手机┃链接推送","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"330ddefbea364b22ac6508c32c0ed0ca"}],
