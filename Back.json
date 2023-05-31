@@ -25,7 +25,9 @@
 {"key":"csp_Aidi_不能被搜索","name":"秒播┃爱迪影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 {"key":"csp_Dmdh_不能被搜索","name":"秒播┃多米蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680/api.php/app/"},
 
-
+{"name":"OKJX","type":0,"url":"https://okjx.cc/?url="},
+{"name":"77JX","type":0,"url":"https://jx.777jiexi.com/player/?url=","header":{"User-Agent":"okhttp/4.1.0"}},
+{"name":"BOJX","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","header":{"User-Agent":"okhttp/4.1.0"}},
 
 {
       "key": "非凡",
