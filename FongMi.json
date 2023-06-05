@@ -14,16 +14,16 @@
 {"key":"dr_Douyu","name":"斗鱼┃斗鱼直播","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/douyu.js"},
 {"key":"dr_Huya","name":"虎牙┃虎牙直播","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/huya.js"},
 
-{"key":"csp_Ole","name":"秒播┃欧乐影视","type":4,"api":"https://php.dovxs.repl.co/vod/ole.php","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuying","name":"秒播┃酷影影视","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.wbsys.top:9835/api.php/app/"},
 {"key":"csp_Dmdh","name":"秒播┃多米蓝光","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680//api.php/app/"},
 {"key":"csp_Ruyi","name":"秒播┃如意影视","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 {"key":"csp_Xygua","name":"秒播┃小鱼影视","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.xygua.com/api.php/app/"},
 {"key":"csp_Ccabc","name":"秒播┃蓝城小窝","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jx.ccabc.cc/fanfan/api.php/app/"},
 
-{"key":"csp_3412","name":"秒播┃水果影视","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod/","playUrl":"https://player.3412.net.cn/?url=","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Czsapp","name":"秒播┃厂长影视","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"秒播┃快看影视","type":3,"api":"csp_Kuaikan","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Ole","name":"秒播┃欧乐影视","type":4,"api":"https://php.dovxs.repl.co/vod/ole.php","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_3412","name":"秒播┃水果影视","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod/","playUrl":"https://player.3412.net.cn/?url=","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dr_Nmys","name":"秒播┃农民影视","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%86%9c%e6%b0%91%e5%bd%b1%e8%a7%86.js"},
 
 {"key":"csp_WoGG","name":"秒播┃玩偶哥哥","type":3,"api":"csp_WoGG","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"330ddefbea364b22ac6508c32c0ed0ca","jar":"https://agit.ai/00700/vvebo/raw/branch/main/Spider/ali.jar"},
