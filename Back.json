@@ -23,7 +23,7 @@
 {"key":"csp_Dmsvip","name":"备选┃端木影视","type":3,"api":"csp_XBiu","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dmsvip1.top/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
 
 {"key":"csp_Xygua","name":"秒播┃小鱼影视","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.xygua.com/api.php/app/"},
-{"key":"csp_Ccabc","name":"秒播┃蓝城小窝","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jx.ccabc.cc/fanfan/api.php/app/"},
+{"key":"csp_Ccabc_非凡的源，有跑马灯广告","name":"秒播┃蓝城小窝","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jx.ccabc.cc/fanfan/api.php/app/"},
 {"key":"csp_Aidi_不能被搜索","name":"秒播┃爱迪影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 {"key":"csp_Dmdh_不能被搜索","name":"秒播┃多米蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680/api.php/app/"},
 
