@@ -18,6 +18,7 @@
 {"key":"csp_Kuying","name":"秒播┃酷影影视","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.wbsys.top:9835/api.php/app/"},
 {"key":"csp_Dmdh","name":"秒播┃多米蓝光","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680//api.php/app/"},
 {"key":"csp_Ruyi","name":"秒播┃如意影视","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
+{"key":"csp_Yeta","name":"秒播┃小小米源","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--yeta099v.online:66/api.php/app/"},
 
 {"key":"csp_Czsapp","name":"秒播┃厂长影视","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"秒播┃快看影视","type":3,"api":"csp_Kuaikan","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
