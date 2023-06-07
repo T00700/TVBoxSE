@@ -24,10 +24,10 @@
 {"key":"csp_3412","name":"秒播┃水果影视","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod/","playUrl":"https://player.3412.net.cn/?url=","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dr_Nmys","name":"秒播┃农民影视","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%86%9c%e6%b0%91%e5%bd%b1%e8%a7%86.js"},
 
-{"key":"csp_WoGG","name":"秒播┃玩偶哥哥","type":3,"api":"csp_WoGG","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"330ddefbea364b22ac6508c32c0ed0ca","jar":"https://agit.ai/00700/vvebo/raw/branch/main/Spider/ali.jar"},
-{"key":"csp_Paper","name":"秒播┃小纸条源","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"330ddefbea364b22ac6508c32c0ed0ca","jar":"https://agit.ai/00700/vvebo/raw/branch/main/Spider/ali.jar"},
+{"key":"csp_WoGG","name":"秒播┃玩偶哥哥","type":3,"api":"csp_WoGG","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"0ed85e13de084b349bb4ccaf7e4659d8","jar":"https://agit.ai/00700/vvebo/raw/branch/main/Spider/ali.jar"},
+{"key":"csp_Paper","name":"秒播┃小纸条源","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"0ed85e13de084b349bb4ccaf7e4659d8","jar":"https://agit.ai/00700/vvebo/raw/branch/main/Spider/ali.jar"},
 {"key":"csp_Local","name":"播放┃本地视频","type":3,"api":"csp_Local","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"type_flag":0},
-{"key":"push_agent","name":"手机┃链接推送","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"330ddefbea364b22ac6508c32c0ed0ca"}],
+{"key":"push_agent","name":"手机┃链接推送","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"30ed85e13de084b349bb4ccaf7e4659d8"}],
 
 "parses":[
 {"name":"QIQI","type":0,"url":"https://jx.777jiexi.com/player/?url="},
