@@ -30,6 +30,7 @@ https://raw.gitmirror.com/T00700/TVBoxSE/master/TVBoxMore.json
 - 壳儿影视
 ```
 https://raw.gitmirror.com/T00700/TVBoxSE/master/ios.json
+http://www.aliyuncss.top/dynew.json
 ```
 # 仓库
 ```
