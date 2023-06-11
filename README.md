@@ -31,6 +31,7 @@ https://raw.gitmirror.com/T00700/TVBoxSE/master/TVBoxMore.json
 ```
 https://raw.gitmirror.com/T00700/TVBoxSE/master/ios.json
 http://www.aliyuncss.top/dynew.json
+http://www.aliyuncss.top/dingyue/小城订阅.json
 ```
 # 仓库
 ```
