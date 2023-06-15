@@ -7,7 +7,7 @@
 
 "sites":[
 {"key":"csp_Kunyu77","name":"推荐┃酷云七七","type":3,"api":"csp_Kunyu77","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Ddrk","name":"秒播┃欧美日韩","type":3,"api":"csp_Ddrk","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Ddrk","name":"影视┃欧美日韩","type":3,"api":"csp_Ddrk","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
   
 {"key":"csp_JRSKan","name":"体育┃赛事直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XPathFilter/JRSKan.json"},
 {"key":"csp_Bili","name":"哔哩┃相声小品","type":3,"api":"csp_Bili","playerType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/Bilibili/%e7%9b%b8%e5%a3%b0%e5%b0%8f%e5%93%81.json"},
