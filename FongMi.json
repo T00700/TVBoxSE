@@ -19,7 +19,7 @@
 {"key":"csp_Ruyi","name":"秒播┃如意影视","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 {"key":"csp_Yeta","name":"秒播┃小小米源","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--yeta099v.online:66/api.php/app/"},
 
-{"key":"csp_Kuaikan","name":"秒播┃快看资源","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/?ac=list","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"categories":["电影","连续剧","综艺","动漫","体育","纪录片","动画电影","国产剧"]},
+{"key":"csp_Kuaikan","name":"秒播┃快看资源","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/?ac=list","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Czsapp","name":"影视┃厂长影视","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"秒播┃快看影视","type":3,"api":"csp_Kuaikan","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dr_Nmys","name":"影视┃农民影视","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%86%9c%e6%b0%91%e5%bd%b1%e8%a7%86.js"},
