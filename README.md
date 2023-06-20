@@ -22,6 +22,7 @@ https://raw.gitmirror.com/T00700/TVBoxSE/master/iPlayer.json
 - ZYPlayer
 ```
 https://raw.gitmirror.com/T00700/TVBoxSE/master/ZYPlayer.json
+https://lantongxue.cc/zyc.json
 ```
 - 多仓订阅
 ```
@@ -30,6 +31,7 @@ https://raw.gitmirror.com/T00700/TVBoxSE/master/TVBoxMore.json
 - 壳儿影视
 ```
 https://raw.gitmirror.com/T00700/TVBoxSE/master/ios.json
+https://lantongxue.cc/ios.json
 http://www.aliyuncss.top/dynew.json
 http://www.aliyuncss.top/dingyue/小城订阅.json
 ```
