@@ -16,7 +16,7 @@
 
 {"key":"csp_Kuying","name":"影视┃酷影影视","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 {"key":"csp_Dmdh","name":"影视┃多米蓝光","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.dmdh.top/api.php/app/"},
-{"key":"csp_Ruyi","name":"影视┃如意影视","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ruyi.maoyingshi.cc:66/api.php/app/},
+{"key":"csp_Ruyi","name":"影视┃如意影视","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ruyi.maoyingshi.cc:66/api.php/app/"},
 {"key":"csp_Yeta","name":"影视┃小小米源","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--yeta099v.online:66/api.php/app/"},
 
 {"key":"csp_Czsapp","name":"影视┃厂长影视","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
