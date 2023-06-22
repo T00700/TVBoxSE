@@ -18,8 +18,8 @@
 {"key":"csp_Kuaikan","name":"影视┃快看影视","type":3,"api":"csp_Kuaikan","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dr_Nmys","name":"影视┃农民影视","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%86%9c%e6%b0%91%e5%bd%b1%e8%a7%86.js"},
 
-{"key":"csp_Feifan","name":"采集┃非凡(AD)","type":"1","api":"https://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["国产剧","韩国剧"]},
-{"key":"csp_Lziapi","name":"采集┃量子(AD)","type":"1","api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["国产剧","韩国剧"]},
+{"key":"csp_Feifan","name":"采集┃非凡(AD)","type":"1","api":"https://cj.ffzyapi.com/api.php/provide/vod/","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["国产剧","韩国剧"]},
+{"key":"csp_Lziapi","name":"采集┃量子(AD)","type":"1","api":"https://cj.lziapi.com/api.php/provide/vod/","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["国产剧","韩国剧"]},
 
 {"key":"csp_Paper","name":"阿里┃小纸条源","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"edfb4f235ee24f688f4f57e7a340fa0f"},
 {"key":"csp_Local","name":"播放┃本地视频","type":3,"api":"csp_Local","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"type_flag":0},
