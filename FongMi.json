@@ -15,7 +15,7 @@
 {"key":"dr_Huya","name":"虎牙┃虎牙直播","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/huya.js"},
 
 {"key":"csp_Kuying","name":"影视┃酷影影视","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
-{"key":"csp_Dmdh","name":"影视┃多米蓝光","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.dmdh.top/api.php/app/"},
+{"key":"csp_Lfytyl","name":"影视┃影探蓝光","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://longfei.lfytyl.com/api.php/app/"},
 {"key":"csp_Ruyi","name":"影视┃如意影视","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ruyi.maoyingshi.cc:66/api.php/app/"},
 {"key":"csp_Yeta","name":"影视┃小小米源","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--yeta099v.online:66/api.php/app/"},
 
