@@ -18,6 +18,20 @@
 {"key":"csp_Kuaikan","name":"影视┃快看影视","type":3,"api":"csp_Kuaikan","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dr_Nmys","name":"影视┃农民影视","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%86%9c%e6%b0%91%e5%bd%b1%e8%a7%86.js"},
 
+{"key":"csp_XBPQ_nmys",
+"name":"🚲┃农民┃",
+"type":3,
+"api":"csp_XBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":"https://jihulab.com/ymz1231/json/-/raw/main/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json"},
+
+{"key":"csp_Kuying","name":"影视┃酷影影视","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"categories":["4K电影","4K电视剧","电影","电视剧","动漫","综艺"],"ext":"http://ys.realdou.cn/api.php/app/"},
+{"key":"csp_Aidi","name":"影视┃爱迪影视","api":"csp_AppYsV2","type":3,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
+
+{"key":"csp_Ahailove","name":"影视┃轻简影视","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"categories":["电影","电视剧","综艺","动漫"]},
+{"key":"csp_8kvod","name":"影视┃初雨影视","type":1,"api":"http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod/from/chuyu/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"categories":["电影","电视剧","动漫","国产剧","综艺","日韩剧","欧美剧"]},
 {"key":"csp_Feifan","name":"采集┃非凡(AD)","type":"1","api":"https://cj.ffzyapi.com/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["国产剧","韩国剧"]},
 {"key":"csp_Lziapi","name":"采集┃量子(AD)","type":"1","api":"https://cj.lziapi.com/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["国产剧","韩国剧"]},
 
