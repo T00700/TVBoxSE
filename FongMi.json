@@ -16,9 +16,7 @@
 
 {"key":"csp_Czsapp","name":"影视┃厂长影视","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"影视┃快看影视","type":3,"api":"csp_Kuaikan","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"dr_Nmys","name":"秒播┃农民影视","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%86%9c%e6%b0%91%e5%bd%b1%e8%a7%86.js"},
-
-{"key":"csp_农民","name":"🅱️农民影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/%e5%86%9c%e6%b0%91%e5%bd%b1%e8%a7%86.json"},
+{"key":"csp_Nmys","name":"秒播┃农民影视T","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/%e5%86%9c%e6%b0%91%e5%bd%b1%e8%a7%86.json"},
 
 {"key":"csp_Kuying","name":"影视┃酷影影视","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"categories":["4K电影","4K电视剧","电影","电视剧","动漫","综艺"],"ext":"http://ys.realdou.cn/api.php/app/"},
 {"key":"csp_Aidi","name":"影视┃爱迪影视","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
