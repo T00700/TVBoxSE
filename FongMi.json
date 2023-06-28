@@ -42,7 +42,7 @@
 "parses":[
 {"name":"QIQI","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 {"name":"MIAO","type":0,"url":"http://www.miaoys.cc/vip/?url="},
-{"name":"JXJS","type":0,"url":"https://jxjson.cf/?url="}
+{"name":"JXJS","type":0,"url":"https://jxjson.cf/?url="},
 {"name":"BOJX","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","header":{"User-Agent":"okhttp/4.1.0"}}],
 
 "rules":[
