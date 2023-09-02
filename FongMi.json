@@ -7,8 +7,8 @@
 
 "sites":[
 {"key":"drpy_Nmys","name":"农民影视","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":7,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%86%9c%e6%b0%91%e5%bd%b1%e8%a7%86.js"},
-{"key":"cat_js_kunyu77","name":"酷云七七","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/kunyu77_open.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"cat_js_wogg","name":"玩偶哥哥","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/wogg_open.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"84cb550b65d74486970d816800463229"},
+//{"key":"cat_js_kunyu77","name":"酷云七七","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/kunyu77_open.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"cat_js_wogg","name":"玩偶哥哥","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/wogg_open.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"84cb550b65d74486970d816800463229"},
 
 {"key":"csp_JRSKan","name":"赛事直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XPathFilter/JRSKan.json"},
 {"key":"csp_Bili","name":"相声小品","type":3,"api":"csp_Bili","playerType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/Bilibili/%e7%9b%b8%e5%a3%b0%e5%b0%8f%e5%93%81.json"},
