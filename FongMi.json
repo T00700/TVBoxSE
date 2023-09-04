@@ -14,18 +14,16 @@
 {"key":"drpy_Douyu","name":"斗鱼直播","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/douyu.js"},
 {"key":"drpy_Huya","name":"虎牙直播","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/huya.js"},
 
-{"key":"csp_XYQHiker_在线之家","name":"欧美日韩","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQHiker/%e5%9c%a8%e7%ba%bf%e4%b9%8b%e5%ae%b6.json"},
 {"key":"csp_XYQHiker_乐猪影视","name":"乐猪影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQHiker/%e4%b9%90%e7%8c%aaTV.json"},
 {"key":"csp_XYQHiker_鸭奈飞影视","name":"奈飞影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQHiker/%e9%b8%ad%e5%a5%88%e9%a3%9e%e5%bd%b1%e8%a7%86.json"},
 {"key":"csp_XYQHiker_人人影视PRO","name":"人人影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQHiker/%e4%ba%ba%e4%ba%ba%e5%bd%b1%e8%a7%86PRO.json"},
 
-{"key":"csp_XYQBiu_骚火电影网","name":"卅火电影","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQBiu/%e9%aa%9a%e7%81%ab%e7%94%b5%e5%bd%b1%e7%bd%91.json"},
 {"key":"csp_Kuaikan","name":"快看影视","type":3,"api":"csp_Kuaikan","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":8},
 {"key":"drpy_Czzy03","name":"厂长影视","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":8,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/changzhang.js"},
 {"key":"drpy_Rinhome","name":"荐片蓝光","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":8,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e8%8d%90%e7%89%870726.js"},
 
 {"key":"csp_Lziapi","name":"量子影视","type":"1","api":"https://cj.lziapi.com/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"timeout":8,"categories":["电影","国产剧","韩国剧"]},
-{"key":"csp_Ikun资源","name":"爱酷资源","type":0,"api":"https://ikunzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Ikun资源","name":"爱酷资源","type":0,"api":"https://ikunzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
 {"key":"csp_Paper","name":"小纸条源","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"84cb550b65d74486970d816800463229"},
 
 {"key":"csp_Local","name":"本地视频","type":3,"api":"csp_Local","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"type_flag":0},
