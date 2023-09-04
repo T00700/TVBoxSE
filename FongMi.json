@@ -15,9 +15,8 @@
 {"key":"drpy_Douyu","name":"斗鱼直播","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/douyu.js"},
 {"key":"drpy_Huya","name":"虎牙直播","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/huya.js"},
 
-{"key":"vodcat_wogg","name":"玩偶哥哥","type":3,"api":"csp_Wogg","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"timeout":8,"ext":{"token":"84cb550b65d74486970d816800463229","filter":"https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json"}},
+{"key":"csp_Wogg","name":"玩偶哥哥","type":3,"api":"csp_Wogg","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"timeout":8,"ext":{"token":"84cb550b65d74486970d816800463229","filter":"https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json"}},
 {"key":"vodcat_subaibai","name":"素白白源","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/subaibai_open.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":8},
-
 {"key":"csp_Kuaikan","name":"快看影视","type":3,"api":"csp_Kuaikan","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":8},
 {"key":"drpy_Czzy03","name":"厂长影视","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":8,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/changzhang.js"},
 
