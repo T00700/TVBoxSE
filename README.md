@@ -13,6 +13,9 @@ https://raw.kgithub.com/T00700/TVBoxSE/master/FongMi.json
 https://raw.iqiq.io/T00700/TVBoxSE/master/FongMi.json
 ```
 ```
+https://raw.fgit.cf/T00700/TVBoxSE/master/FongMi.json
+```
+```
 https://ghproxy.net/https://raw.githubusercontent.com/T00700/TVBoxSE/master/FongMi.json
 ```
 - iPlayer
