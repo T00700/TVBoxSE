@@ -27,7 +27,7 @@
 
 {"key":"csp_Xhtx","name":"神秘影视","type":1,"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"csp_Lziapi","name":"量子(AD)","type":"1","api":"https://cj.lziapi.com/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["电影","国产剧","韩国剧"]},
-{"key":"csp_Ikun资源","name":"爱酷(AD)","type":0,"api":"https://ikunzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["国产剧","大陆综艺","国产动漫","韩国剧","欧美剧","记录片","动画片"]},
+{"key":"csp_Ikun","name":"爱酷(AD)","type":0,"api":"https://ikunzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["国产剧","大陆综艺","国产动漫","韩国剧","欧美剧","记录片","动画片"]},
 {"key":"csp_Paper","name":"阿里(快)","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"84cb550b65d74486970d816800463229"},
 
 {"key":"csp_Local","name":"本地视频","type":3,"api":"csp_Local","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"type_flag":0},
