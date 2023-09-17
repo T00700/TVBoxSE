@@ -8,7 +8,7 @@
 "sites":[
 {"key":"drpy_Nmys","name":"农民影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%86%9c%e6%b0%91%e5%bd%b1%e8%a7%86.js"},
 {"key":"csp_XYQHikerAL_玩偶哥哥","name":"玩偶(快)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQHikerAL/%e7%8e%a9%e5%81%b6%e5%93%a5%e5%93%a5.json"},
-{"key":"玩偶哥哥T4","name":"玩偶哥哥T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清&token=84cb550b65d74486970d816800463229","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":0.75}},
+{"key":"玩偶哥哥T4","name":"玩偶原画","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清&token=84cb550b65d74486970d816800463229","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":0.75}},
 {"key":"csp_JRSKan","name":"赛事直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XPathFilter/JRSKan.json"},
 {"key":"csp_Yj1211","name":"平台直播","type":3,"api":"csp_Yj1211","playerType":1,"searchable":0,"quickSearch":0,"filterable":1},
 
