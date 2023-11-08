@@ -13,8 +13,8 @@
 {"key":"csp_A8ys","name":"A8影视","type":3,"api":"csp_AppYs","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"},
 {"key":"csp_Paper","name":"阿里(快)","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"9dc3ed1d1fc04e17a69d196a5aaeb16e"},
 
-{"key":"csp_XYQHiker_乐猪影视","name":"乐猪影视","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQHiker/%e4%b9%90%e7%8c%aaTV.json"},
-{"key":"csp_XYQHiker_鸭奈飞影视","name":"奈飞影视","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQHiker/%e9%b8%ad%e5%a5%88%e9%a3%9e%e5%bd%b1%e8%a7%86.json"},
+{"key":"csp_XYQHiker_乐猪影视","name":"乐猪影视","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":15,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQHiker/%e4%b9%90%e7%8c%aaTV.json"},
+{"key":"csp_XYQHiker_鸭奈飞影视","name":"奈飞影视","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":15,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQHiker/%e9%b8%ad%e5%a5%88%e9%a3%9e%e5%bd%b1%e8%a7%86.json"},
 
 {"key":"drpy_Zxzj","name":"在线之家","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%9c%a8%e7%ba%bf%e4%b9%8b%e5%ae%b6.js"},
 {"key":"drpy_Ngys","name":"南瓜影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%8d%97%e7%93%9c.js"},
