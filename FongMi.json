@@ -25,7 +25,7 @@
 {"key":"drpy_Ngys","name":"南瓜影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%8d%97%e7%93%9c.js"},
 {"key":"drpy_Bttoo","name":"宝塔影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e4%b8%a4%e4%b8%aabt.js"},
 
-{"key":"csp_BT","name":"两个BT","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/bttwo.json"},
+{"key":"csp_BT","name":"比特影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/bttwo.json"},
 {"key":"csp_lzi","name":"量子(AD)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/liangzi.json"},
 {"key":"csp_ffzy","name":"非凡(AD)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/ffzy.json"},
 
