@@ -1,4 +1,4 @@
-{"spider":"https://agit.ai/00700/vvebo/raw/branch/main/Spider/T00700.jar;md5;E2C5A1473686245FACF8736F44F57FE5",
+{"spider":"https://agit.ai/00700/vvebo/raw/branch/main/Spider/YSC20231030.jar;md5;E55E261223A1AEE59946628AF56E542A",
 "wallpaper":"https://agit.ai/00700/vvebo/raw/branch/main/Wallpaper/01.jpg",
 
 "lives":[
@@ -16,6 +16,31 @@
 {"key":"csp_XYQHiker_乐猪影视","name":"乐猪影视","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":15,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQHiker/%e4%b9%90%e7%8c%aaTV.json"},
 {"key":"csp_XYQHiker_鸭奈飞影视","name":"奈飞影视","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":15,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQHiker/%e9%b8%ad%e5%a5%88%e9%a3%9e%e5%bd%b1%e8%a7%86.json"},
 
+
+{"key":"csp_Bili","name":"相声小品","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/Bilibili/%e7%9b%b8%e5%a3%b0%e5%b0%8f%e5%93%81.json"},
+
+
+{"key":"csp_Czsapp","name":"厂长资源","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Ddys","name":"低端影视","type":3,"api":"csp_Ddys","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Ikanbot","name":"爱看影视","type":3,"api":"csp_Ikanbot","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_JianPian","name":"荐片资源","type":3,"api":"csp_JianPian","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kuaikan","name":"快看影视","type":3,"api":"csp_Kuaikan","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Bdys","name":"哔嘀影视","type":3,"api":"csp_Bdys","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kunyu77","name":"酷云七七","type":3,"api":"csp_Kunyu77","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_MeijuMi","name":"美剧资源","type":3,"api":"csp_MeijuMi","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_MeijuTT","name":"美剧天堂","type":3,"api":"csp_MeijuTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Paper","name":"小纸条源","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"9dc3ed1d1fc04e17a69d196a5aaeb16e"},
+
+{"key":"csp_Yj1211","name":"直播整合","type":3,"api":"csp_Yj1211","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_SeedHub","name":"种子磁力","type":3,"api":"csp_SeedHub","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Xunlei8","name":"迅雷磁力","type":3,"api":"csp_Xunlei8","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Mp4Mov","name":"MP4磁力","type":3,"api":"csp_Mp4Mov","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_New6v","name":"XB6V磁力","type":3,"api":"csp_New6v","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_BLSGod","name":"八零磁力","type":3,"api":"csp_BLSGod","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_KubaCL","name":"酷吧磁力","type":3,"api":"csp_KubaCL","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+
+
+  
 {"key":"drpy_Zxzj","name":"在线之家","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%9c%a8%e7%ba%bf%e4%b9%8b%e5%ae%b6.js"},
 {"key":"drpy_Ngys","name":"南瓜影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%8d%97%e7%93%9c.js"},
 {"key":"drpy_Bttoo","name":"宝塔影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e4%b8%a4%e4%b8%aabt.js"},
