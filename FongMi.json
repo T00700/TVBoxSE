@@ -35,12 +35,7 @@
 {"key":"csp_ffzy","name":"非凡(AD)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/ffzy.json"},
 
 {"key":"csp_Local","name":"本地视频","type":3,"api":"csp_Local","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"type_flag":0},
-{"key":"push_agent","name":"链接推送","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"9dc3ed1d1fc04e17a69d196a5aaeb16e"}],
-
-"apiList":[
-{"name":"非凡资源","api":"http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8"},
-{"name":"索尼资源","api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8"},
-{"name":"量子资源","api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8"}],
+{"key":"push_agent","name":"链接11","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/ali","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":"9dc3ed1d1fc04e17a69d196a5aaeb16e","apiList":[{"name":"非凡资源","api":"http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8"},{"name":"索尼资源","api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8"},{"name":"量子资源","api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8"}]}}],
 
 "parses":[
 {"name":"QIQI","type":0,"url":"https://jx.777jiexi.com/player/?url="},
