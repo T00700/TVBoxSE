@@ -56,7 +56,7 @@
 {"host":"www.sharenice.net","rule":["http.*?/play.{0,3}\\?[^url]{2,8}=.*"]},
 {"host":"www.sharenice.net","rule":["qianpailive.com","vid="]},
 {"host":"www.sharenice.net","rule":["huoshan.com","/item/video/"],"filter":[]},
-{"host":"www.sharenice.net","rule":["sovv.qianpailive.com","vid="]."filter":[]},
+{"host":"www.sharenice.net","rule":["sovv.qianpailive.com","vid="],"filter":[]},
 {"host":"www.sharenice.net","rule":["douyin.com","/play/"]},
 {"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},
 {"host":"m.ysxs8.vip","rule":["ysting.ysxs8.vip:81","xmcdn.com"],"filter":[]},
