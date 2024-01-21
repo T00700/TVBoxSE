@@ -12,7 +12,6 @@
 {"key":"csp_Yj1211","name":"直播整合","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":0,"filterable":1,"changeable":0},
 {"key":"csp_Zzdj","name":"短剧视频","type":1,"api":"http://zzdj.cc/api.php/provide/vod/","searchable":0,"quickSearch":0,"filterable":1,"changeable":0},
   
-{"key":"T4_wogg","name":"阿里玩偶","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清&token=a89b8b4344f8454b8ce4cbd7b677f09c","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":0.75}},
 {"key":"csp_Paper","name":"阿里纸条","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"a89b8b4344f8454b8ce4cbd7b677f09c"},
 
 {"key":"csp_Bdys","name":"哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1},
@@ -29,9 +28,7 @@
 {"key":"csp_BT","name":"比特影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/bttwo.json"},
 {"key":"csp_lzi","name":"量子资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/liangzi.json"},
 {"key":"csp_ffzy","name":"非凡资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/ffzy.json"},
-
 {"key":"csp_SuoNi","name":"索尼资源","type":1,"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","记录片","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","足球","影视解说","国产动漫"]},
-//{"key":"csp_haiwaikan","name":"海外看看","type":0,"api":"https://haiwaikan.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["国产剧","韩剧","欧美剧","动画电影","国产综艺","韩国综艺"]},
   
 {"key":"csp_Local","name":"本地视频","type":3,"api":"csp_Local","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"type_flag":0},
 {"key":"push_agent","name":"链接推送","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"a89b8b4344f8454b8ce4cbd7b677f09c"}],
