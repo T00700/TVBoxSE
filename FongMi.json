@@ -20,7 +20,7 @@
 
 {"key":"csp_XYQHiker_奈飞影视","name":"奈飞影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQHiker/%e9%b8%ad%e5%a5%88%e9%a3%9e%e5%bd%b1%e8%a7%86.json"},
 
-{"key":"drpy_Zxzj","name":"在线之家","type":3,"api":"http://svip.weixine.net:88/uploads/itvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%9c%a8%e7%ba%bf%e4%b9%8b%e5%ae%b6.js"},
+//{"key":"drpy_Zxzj","name":"在线之家","type":3,"api":"http://svip.weixine.net:88/uploads/itvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%9c%a8%e7%ba%bf%e4%b9%8b%e5%ae%b6.js"},
 {"key":"drpy_Ngys","name":"南瓜影视","type":3,"api":"http://svip.weixine.net:88/uploads/itvbox/js/lib/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%8d%97%e7%93%9c.js"},
 {"key":"drpy_Bttoo","name":"宝塔影视","type":3,"api":"http://svip.weixine.net:88/uploads/itvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e4%b8%a4%e4%b8%aabt.js"},
 
@@ -29,7 +29,7 @@
 {"key":"csp_ffzy","name":"非凡资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/ffzy.json"},
 
 {"key":"csp_SuoNi","name":"索尼资源","type":1,"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","记录片","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","足球","影视解说","国产动漫"]},
-{"key":"csp_haiwaikan","name":"海外看看","type":0,"api":"https://haiwaikan.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["国产剧","韩剧","欧美剧","动画电影","国产综艺","韩国综艺"]},
+//{"key":"csp_haiwaikan","name":"海外看看","type":0,"api":"https://haiwaikan.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["国产剧","韩剧","欧美剧","动画电影","国产综艺","韩国综艺"]},
   
 {"key":"csp_Local","name":"本地视频","type":3,"api":"csp_Local","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"type_flag":0},
 {"key":"push_agent","name":"链接推送","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"a89b8b4344f8454b8ce4cbd7b677f09c"}],
