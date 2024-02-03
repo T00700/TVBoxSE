@@ -17,11 +17,10 @@
 
 {"key":"csp_Bdys","name":"哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Zanzan","name":"赞赞影视","type":3,"api":"csp_AppYsV2","ext":"http://111.230.51.151:9696/api.php/app/","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-  
+
 {"key":"csp_XYQHiker_奈飞影视","name":"奈飞影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQHiker/%e9%b8%ad%e5%a5%88%e9%a3%9e%e5%bd%b1%e8%a7%86.json"},
 
-{"key":"csp_Dapeng","name":"大鹏影视","type":3,"playerType":2,"api":"https://jihulab.com/ymz1231/lib/-/raw/main/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://jihulab.com/ymz1231/js/-/raw/main/%E5%A4%A7%E9%B9%8F.js"},
+{"key":"csp_Dapeng","name":"大鹏影视","type":3,"playerType":2,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%a4%a7%e9%b9%8f.js"},
 {"key":"drpy_Ngys","name":"南瓜影视","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%8d%97%e7%93%9c.js"},
 {"key":"drpy_Bttoo","name":"宝塔影视","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e4%b8%a4%e4%b8%aabt.js"},
 
