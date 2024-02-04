@@ -3,7 +3,8 @@
 
 "lives":[
 {"name":"直播","type":0,"playerType":1,"boot":false,"url":"https://agit.ai/00700/vvebo/raw/branch/main/live.txt"},
-{"name":"春盈直播","type":0,"boot":false,"url":"https://wds.ecsxs.com/230864.json"}],
+{"name":"春盈直播","type":0,"boot":false,"url":"https://wds.ecsxs.com/230864.json"},
+{"name":"明明直播","type":0,"boot":false,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u"}],
 
 "sites":[
 {"key":"drpy_Cmys","name":"畅梦秒播","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/changmeng.js"},
