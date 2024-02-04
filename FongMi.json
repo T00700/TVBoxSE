@@ -3,6 +3,7 @@
 
 "lives":[
 {"name":"直播","type":0,"playerType":1,"boot":false,"url":"https://agit.ai/00700/vvebo/raw/branch/main/live.txt"},
+{"name":"PW直播","type":0,"boot":false,"url":"https://epg.pw/test_channels.m3u"},
 {"name":"春盈直播","type":0,"boot":false,"url":"https://wds.ecsxs.com/230864.json"},
 {"name":"明明直播","type":0,"boot":false,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u"}],
 
