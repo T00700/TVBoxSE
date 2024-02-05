@@ -3,7 +3,14 @@
 
 "lives":[
 {"name":"直播","type":0,"playerType":1,"boot":false,"url":"https://agit.ai/00700/vvebo/raw/branch/main/live.txt"},
+{"name":"央视直播","type":0,"ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/120.0.0.0Safari/537.36Edg/120.0.0.0","url":"https://gh.con.sh/https://raw.githubusercontent.com/Yang20150427/Yc/main/%E5%A4%AE%E8%A7%86%E9%A2%91%E5%97%85%E6%8E%A2.m3u","boot":false,"timeout":20},
+{"name":"和龙直播","type":0,"playerType":1,"url":"https://gh.con.sh/https://raw.githubusercontent.com/helcddd/tvbox/main/tv.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://epg.112114.xyz/logo/{name}.png"},
+{"name":"微笑直播","type":"0","pass":true,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"俊佬直播","type":"0","pass":true,"url":"http://home.jundie.top:81/ray/tvlive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"扫零直播","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"春盈直播","type":0,"boot":false,"url":"https://wds.ecsxs.com/230864.json"},
+{"name":"李伟直播","type":0,"boot":false,"url":"https://gh.con.sh/https://raw.githubusercontent.com/liwei342698/ip/main/ip1"},
+{"name":"李威直播","type":0,"boot":false,"url":"https://gh.con.sh/https://raw.githubusercontent.com/liwei342698/ip/main/ip3"},
 {"name":"明明直播","type":0,"boot":false,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u"}],
 
 "sites":[
@@ -14,7 +21,7 @@
 {"key":"csp_Zzdj","name":"短剧视频","type":1,"api":"http://zzdj.cc/api.php/provide/vod/","searchable":0,"quickSearch":0,"filterable":1,"changeable":0},
 
 {"key":"csp_Wogg","name":"阿里玩偶","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQHikerAL/%e7%8e%a9%e5%81%b6%e5%93%a5%e5%93%a5.json"},
-{"key":"csp_Paper","name":"阿里纸条","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"a89b8b4344f8454b8ce4cbd7b677f09c"},
+{"key":"csp_Paper","name":"阿里纸条","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://gh.con.sh/https://raw.githubusercontent.com/Yang20150427/Yc/main/TV/token.txt"},
 
 {"key":"csp_Bdys","name":"哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -29,7 +36,7 @@
 {"key":"csp_SuoNi","name":"索尼资源","type":1,"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","记录片","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","足球","影视解说","国产动漫"]},
   
 {"key":"csp_Local","name":"本地视频","type":3,"api":"csp_Local","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"type_flag":0},
-{"key":"push_agent","name":"链接推送","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"a89b8b4344f8454b8ce4cbd7b677f09c"}],
+{"key":"push_agent","name":"链接推送","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"https://gh.con.sh/https://raw.githubusercontent.com/Yang20150427/Yc/main/TV/token.txt"}],
 
 "parses":[
 {"name":"QIQI","type":0,"url":"https://jx.777jiexi.com/player/?url="},
