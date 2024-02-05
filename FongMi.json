@@ -3,7 +3,6 @@
 
 "lives":[
 {"name":"自建直播","type":0,"playerType":1,"boot":false,"url":"https://agit.ai/00700/vvebo/raw/branch/main/live.txt","timeout":20},
-{"name":"央视频嗅探","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/120.0.0.0Safari/537.36Edg/120.0.0.0","type":0,"timeout":40,"url":"./https://mirror.ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/xiutan.m3u","boot":false},
 {"name":"央视直播","type":0,"playerType":1,"ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/120.0.0.0Safari/537.36Edg/120.0.0.0","url":"https://gh.con.sh/https://raw.githubusercontent.com/Yang20150427/Yc/main/%E5%A4%AE%E8%A7%86%E9%A2%91%E5%97%85%E6%8E%A2.m3u","boot":false,"timeout":20},
 {"name":"和龙直播","type":0,"playerType":1,"url":"https://gh.con.sh/https://raw.githubusercontent.com/helcddd/tvbox/main/tv.txt"},
 {"name":"微笑直播","type":0,"playerType":1,"pass":true,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"},
