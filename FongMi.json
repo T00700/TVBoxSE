@@ -7,6 +7,7 @@
 {"name":"路客直播","type":0,"playerType":1,"url":"https://gh.con.sh/https://raw.githubusercontent.com/LukeGod/autoRes/main/result.m3u"},
 {"name":"和龙直播","type":0,"playerType":1,"url":"https://gh.con.sh/https://raw.githubusercontent.com/helcddd/tvbox/main/tv.txt"},
 {"name":"微笑直播","type":0,"playerType":1,"pass":true,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"},
+{"name":"运输直播","type":0,"playerType":1,"boot":false,"url":"https://weixine.net/tv/ysclive.txt"},
 {"name":"春盈直播","type":0,"playerType":1,"boot":false,"url":"https://wds.ecsxs.com/230864.json"},
 {"name":"李伟直播","type":0,"playerType":1,"boot":false,"url":"https://gh.con.sh/https://raw.githubusercontent.com/liwei342698/ip/main/ip1"},
 {"name":"里维直播","type":0,"boot":false,"url":"https://gh.con.sh/https://raw.githubusercontent.com/liwei342698/ip/main/ip3"},
