@@ -13,7 +13,7 @@
 {"name":"里维直播","type":0,"boot":false,"url":"https://gh.con.sh/https://raw.githubusercontent.com/liwei342698/ip/main/ip3"},
 {"name":"探索直播","type":0,"playerType":1,"boot":false,"url":"https://gh.con.sh/https://raw.githubusercontent.com/tansuotv/IPTVindex/main/tv/tv.txt"},
 {"name":"库里直播","type":0,"playerType":1,"boot":false,"url":"https://gh.con.sh/https://raw.githubusercontent.com/GUA1k/playlist/main/za.txt"},
-{"name":"明明直播","type":0,"playerType":1,"boot":false,"url":"https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u"}],
+{"name":"明明直播","type":0,"playerType":1,"boot":false,"ua":"okhttp/3.15","url":"https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u"}],
 
 "sites":[
 {"key":"drpy_Cmys","name":"畅梦秒播","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/changmeng.js"},
