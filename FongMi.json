@@ -20,7 +20,7 @@
 {"name":"分线直播","type":0,"playerType":1,"boot":false,"url":"https://gh.con.sh/https://raw.githubusercontent.com/fenxp/iptv/main/live/tvlive.txt"},
 {"name":"芬香直播","type":0,"playerType":1,"boot":false,"url":"https://gh.con.sh/https://raw.githubusercontent.com/fenxp/iptv/main/live/live.txt"},
 {"name":"李伟直播","type":0,"playerType":1,"boot":false,"url":"https://gh.con.sh/https://raw.githubusercontent.com/liwei342698/ip/main/ip1"},
-{"name":"里维直播","type":0,"boot":false,"url":"https://gh.con.sh/https://raw.githubusercontent.com/liwei342698/ip/main/ip3"},
+{"name":"里维直播","type":0,"playerType":2,"boot":false,"url":"https://gh.con.sh/https://raw.githubusercontent.com/liwei342698/ip/main/ip3"},
 {"name":"探索直播","type":0,"playerType":1,"boot":false,"url":"https://gh.con.sh/https://raw.githubusercontent.com/tansuotv/IPTVindex/main/tv/tv.txt"},
 {"name":"库里直播","type":0,"playerType":1,"boot":false,"url":"https://gh.con.sh/https://raw.githubusercontent.com/GUA1k/playlist/main/za.txt"},
 {"name":"明明直播","type":0,"playerType":1,"boot":false,"ua":"okhttp/3.15","url":"https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u"}],
