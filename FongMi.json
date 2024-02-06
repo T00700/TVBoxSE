@@ -12,7 +12,7 @@
 {"name":"二哈直播","type":0,"playerType":1,"url":"https://gh.con.sh/https://raw.githubusercontent.com/2hacc/TVBox/main/live/live.txt"},
 {"name":"无界直播","type":0,"playerType":1,"pass":true,"url":"https://gh.con.sh/https://raw.githubusercontent.com/asiaboke/IPTV/main/7live.txt"},
 {"name":"天微直播","type":0,"playerType":1,"boot":false,"url":"https://gh.con.sh/https://raw.githubusercontent.com/asiaboke/IPTV/main/twkjlive.txt"},
-{"name":"回春直播","type":0,"boot":false,"url":"https://gh.con.sh/https://raw.githubusercontent.com/asiaboke/IPTV/main/huichunliao.txt"},
+{"name":"回春直播","type":0,"playerType":1,"boot":false,"url":"https://gh.con.sh/https://raw.githubusercontent.com/asiaboke/IPTV/main/huichunliao.txt"},
 {"name":"月光直播","type":0,"playerType":1,"boot":false,"url":"https://gh.con.sh/https://raw.githubusercontent.com/asiaboke/IPTV/main/ygbhzb.txt"},
 {"name":"刘备直播","type":0,"playerType":1,"boot":false,"url":"https://gh.con.sh/https://raw.githubusercontent.com/liu673cn/box/main/js/tv/tvlive.txt"},
 {"name":"晴天直播","type":0,"playerType":1,"boot":false,"url":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/qt.txt"},
