@@ -3,11 +3,16 @@
 
 "lives":[
 {"name":"自建直播","type":0,"playerType":1,"boot":false,"timeout":10,"url":"https://agit.ai/00700/vvebo/raw/branch/main/live.txt"},
+{"name":"辽视春晚","type":0,"playerType":1,"boot":false,"timeout":10,"url":"https://gh.con.sh/https://raw.githubusercontent.com/T00700/Desi_TV/main/desi.txt"},
+{"name":"辽宁卫视","type":0,"playerType":1,"boot":false,"timeout":10,"url":"https://gh.con.sh/https://raw.githubusercontent.com/T00700/Desi_TV/main/desi.m3u"},
 {"name":"手机直播","type":0,"playerType":1,"boot":false,"timeout":10,"url":"https://gh.con.sh/https://raw.githubusercontent.com/Yang20150427/Yc/main/%E5%A4%AE%E8%A7%86%E9%A2%91%E5%97%85%E6%8E%A2.m3u","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/120.0.0.0Safari/537.36Edg/120.0.0.0"},
+{"name":"CCTV直播","type":0,"playerType":1,"boot":false,"timeout":10,"url":"https://m3u.vodtv.cn/txt/o_s_cn_cctv.txt"},
 {"name":"后偶直播","type":0,"playerType":1,"boot":false,"timeout":10,"url":"https://gh.con.sh/https://raw.githubusercontent.com/hououinkami/AppleTV/main/China_v4.m3u"},
 {"name":"央视直播","type":0,"playerType":1,"boot":false,"timeout":10,"url":"https://gh.con.sh/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn_cctv.m3u"},
 {"name":"晴天直播","type":0,"playerType":1,"boot":false,"timeout":10,"url":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/qt.txt"},
 {"name":"运输直播","type":0,"playerType":1,"boot":false,"timeout":10,"url":"https://weixine.net/tv/ysclive.txt"},
+{"name":"阳光直播","type":0,"playerType":1,"boot":false,"timeout":10,"url":"https://gh.con.sh/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u"},
+{"name":"雄箭直播","type":0,"playerType":1,"boot":false,"timeout":10,"url":"https://gh.con.sh/https://raw.githubusercontent.com/xiongjian83/TvBox/main/zb.txt"},
 {"name":"摸鱼直播","type":0,"playerType":1,"boot":false,"timeout":10,"url":"https://gh.con.sh/https://raw.githubusercontent.com/myvmiao/tv/main/e.txt"},
 {"name":"皮太直播","type":0,"playerType":1,"boot":false,"timeout":10,"url":"https://gh.con.sh/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u"},
 {"name":"台湾直播","type":0,"playerType":1,"boot":false,"timeout":10,"url":"https://gh.con.sh/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u"},
