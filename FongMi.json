@@ -3,8 +3,8 @@
 
 "lives":[
 {"name":"自建直播","type":0,"playerType":1,"boot":false,"timeout":10,"url":"https://agit.ai/00700/vvebo/raw/branch/main/live.txt"},
-{"name":"辽视春晚","type":0,"playerType":1,"boot":false,"timeout":10,"url":"https://gh.con.sh/https://raw.githubusercontent.com/T00700/Desi_TV/main/desi.txt"},
-{"name":"辽宁卫视","type":0,"playerType":1,"boot":false,"timeout":10,"url":"https://gh.con.sh/https://raw.githubusercontent.com/T00700/Desi_TV/main/desi.m3u"},
+{"name":"央视春晚","type":0,"playerType":1,"boot":false,"timeout":10,"url":"https://gh.con.sh/https://raw.githubusercontent.com/T00700/Desi_TV/main/desi.txt"},
+{"name":"春节晚会","type":0,"playerType":1,"boot":false,"timeout":10,"url":"https://gh.con.sh/https://raw.githubusercontent.com/T00700/Desi_TV/main/desi.m3u"},
 {"name":"手机直播","type":0,"playerType":1,"boot":false,"timeout":10,"url":"https://gh.con.sh/https://raw.githubusercontent.com/Yang20150427/Yc/main/%E5%A4%AE%E8%A7%86%E9%A2%91%E5%97%85%E6%8E%A2.m3u","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/120.0.0.0Safari/537.36Edg/120.0.0.0"},
 {"name":"鸿偶直播","type":0,"playerType":1,"boot":false,"timeout":10,"url":"https://gh.con.sh/https://raw.githubusercontent.com/hououinkami/AppleTV/main/China_v4.m3u"},
 {"name":"cctv直播","type":0,"playerType":1,"boot":false,"timeout":10,"url":"https://m3u.vodtv.cn/txt/o_s_cn_cctv.txt"},
