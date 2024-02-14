@@ -460,7 +460,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "changeable": 0,
-            "ext": "https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/1/%e7%9f%ad%e5%89%a7%e7%bd%91.json"
+            "ext": "https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/%e7%9f%ad%e5%89%a7%e7%bd%91.json"
         },
         {
             "key": "csp_XBPQ_比特",
