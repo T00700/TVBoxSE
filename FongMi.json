@@ -281,7 +281,7 @@
             "key": "drpy_js_农民",
             "name": "农民影视",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
