@@ -490,16 +490,6 @@
             "ext": "https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/%e9%aa%9a%e7%81%ab%e5%bd%b1%e8%a7%862.json"
         },
         {
-            "key": "csp_XBPQ_黑狐",
-            "name": "黑狐影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/%e9%bb%91%e7%8b%90%e5%bd%b1%e8%a7%86.json"
-        },
-        {
             "key": "csp_xbiu_qiyou",
             "name": "奇优影视",
             "type": 3,
