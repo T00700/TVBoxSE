@@ -516,6 +516,16 @@
             "ext": "https://www.maolvys.com/vod/show/id/{cateId}/page/{catePg}/.html;;ak"
         },
         {
+            "key": "csp_xbiu_bttwo",
+            "name": "白糖影视",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.bttwo.net/{cateId}/page/{catePg};;ak"
+        },
+        {
             "key": "csp_暴风",
             "name": "暴风[AD]",
             "type": 1,
