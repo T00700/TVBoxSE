@@ -303,6 +303,20 @@
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
         },
         {
+            "key": "drpy_js_bwtto",
+            "name": "白糖影视",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e4%b8%a4%e4%b8%aaBT.js"
+        },
+        {
+            "key": "drpy_js_qfitv",
+            "name": "起飞影视",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e8%b5%b7%e9%a3%9e%e5%bd%b1%e9%99%a2.js"
+        },
+        {
             "key": "drpy_js_哔哩影视",
             "name": "哔哩影视",
             "type": 3,
@@ -514,16 +528,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://www.maolvys.com/vod/show/id/{cateId}/page/{catePg}/.html;;ak"
-        },
-        {
-            "key": "csp_xbiu_bttwo",
-            "name": "1白糖影视",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://www.bttwo.net/zgjun/page/{catePg};;ak"
         },
         {
             "key": "csp_暴风",
