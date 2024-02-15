@@ -1,5 +1,5 @@
 {
-    "spider": "https://agit.ai/00700/vvebo/raw/branch/main/Spider/FongMi.jar;md5;4A9FD2DFE503D8F246641B94A5DC83D4",
+    "spider": "https://agit.ai/00700/vvebo/raw/branch/main/Spider/custom_spider.jar;md5;FDB39048BFED72C40BFF44A039A6582A",
     "wallpaper": "https://agit.ai/00700/vvebo/raw/branch/main/Wallpaper/01.jpg",
     "lives": [
         {
@@ -271,11 +271,11 @@
     ],
     "sites": [
 
- {"key":"cc_shdy21","name": "3332骚火","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"https://agit.ai/00700/vvebo/raw/branch/main/Spider/c.jar","ext": "https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/%e9%aa%9a%e7%81%ab%e5%bd%b1%e8%a7%862.json"},
-{"key":"csp_蛋蛋1","name":"22蛋蛋","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/00700/vvebo/raw/branch/main/Spider/c.jar","ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/%e8%9b%8b%e8%9b%8b%e5%bd%b1%e8%a7%86.json"},
+ {"key":"cc_shdy21","name": "0000骚火","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"ext": "https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/%e9%aa%9a%e7%81%ab%e5%bd%b1%e8%a7%862.json"},
+{"key":"csp_蛋蛋1","name":"00000蛋蛋","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/%e8%9b%8b%e8%9b%8b%e5%bd%b1%e8%a7%86.json"},
             {
             "key": "csp_xbiu_55kan",
-            "name": "五五影视",
+            "name": "000五五",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
