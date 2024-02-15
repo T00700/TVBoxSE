@@ -270,6 +270,11 @@
         }
     ],
     "sites": [
+
+        {"key":"cc_shdy21","name": "┃骚火┃电影","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"https://agit.ai/00700/vvebo/raw/branch/main/Spider/XBPQ-20230603.jar","ext": "https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/%e9%aa%9a%e7%81%ab%e5%bd%b1%e8%a7%862.json"},
+{"key":"csp_蛋蛋1","name":"┃蛋蛋┃影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/00700/vvebo/raw/branch/main/Spider/XBPQ-20230603.jar","ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/%e8%9b%8b%e8%9b%8b%e5%bd%b1%e8%a7%86.json"},
+{"key":"csp_午舞1","name":"┃午舞┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/00700/vvebo/raw/branch/main/Spider/XBPQ-20230603.jar","ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/%e4%ba%94%e4%ba%94%e5%bd%b1%e8%a7%86.json"},
+        
         {
             "key": "drpy_js_bwtto",
             "name": "白糖影视",
