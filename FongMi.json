@@ -1,5 +1,5 @@
 {
-    "spider": "https://agit.ai/00700/vvebo/raw/branch/main/Spider/custom_spider.jar;md5;FDB39048BFED72C40BFF44A039A6582A",
+    "spider": "https://agit.ai/00700/vvebo/raw/branch/main/Spider/FongMi.jar;md5;FDB39048BFED72C40BFF44A039A6582A",
     "wallpaper": "https://agit.ai/00700/vvebo/raw/branch/main/Wallpaper/01.jpg",
     "lives": [
         {
@@ -20,7 +20,7 @@
             "ua": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/120.0.0.0Safari/537.36Edg/120.0.0.0"
         },
         {
-            "name": "鸿偶直播",
+            "name": "鸿运直播",
             "type": 0,
             "playerType": 1,
             "boot": false,
@@ -28,23 +28,7 @@
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/hououinkami/AppleTV/main/China_v4.m3u"
         },
         {
-            "name": "cctv直播",
-            "type": 0,
-            "playerType": 1,
-            "boot": false,
-            "timeout": 10,
-            "url": "https://m3u.vodtv.cn/txt/o_s_cn_cctv.txt"
-        },
-        {
-            "name": "央视直播",
-            "type": 0,
-            "playerType": 1,
-            "boot": false,
-            "timeout": 10,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn_cctv.m3u"
-        },
-        {
-            "name": "晴天直播",
+            "name": "晴天mitv",
             "type": 0,
             "playerType": 1,
             "boot": false,
@@ -61,14 +45,6 @@
             "ua": "okhttp/3.15"
         },
         {
-            "name": "猴王ipv6",
-            "type": 0,
-            "playerType": 1,
-            "boot": false,
-            "timeout": 10,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/hououinkami/AppleTV/main/China_v6.m3u"
-        },
-        {
             "name": "运输直播",
             "type": 0,
             "playerType": 1,
@@ -77,188 +53,12 @@
             "url": "https://weixine.net/tv/ysclive.txt"
         },
         {
-            "name": "阳光直播",
-            "type": 0,
-            "playerType": 1,
-            "boot": false,
-            "timeout": 10,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u"
-        },
-        {
-            "name": "雄箭直播",
-            "type": 0,
-            "playerType": 1,
-            "boot": false,
-            "timeout": 10,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/xiongjian83/TvBox/main/zb.txt"
-        },
-        {
-            "name": "摸鱼直播",
-            "type": 0,
-            "playerType": 1,
-            "boot": false,
-            "timeout": 10,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/myvmiao/tv/main/e.txt"
-        },
-        {
-            "name": "皮太直播",
-            "type": 0,
-            "playerType": 1,
-            "boot": false,
-            "timeout": 10,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u"
-        },
-        {
             "name": "台湾直播",
             "type": 0,
             "playerType": 1,
             "boot": false,
             "timeout": 10,
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u"
-        },
-        {
-            "name": "世界直播",
-            "type": 0,
-            "playerType": 1,
-            "boot": false,
-            "timeout": 10,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/myvmiao/tv/main/ee.txt"
-        },
-        {
-            "name": "合龙直播",
-            "type": 0,
-            "playerType": 1,
-            "boot": false,
-            "timeout": 10,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/helcddd/tvbox/main/tv.txt"
-        },
-        {
-            "name": "终南直播",
-            "type": 0,
-            "playerType": 1,
-            "boot": false,
-            "timeout": 10,
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"
-        },
-        {
-            "name": "春盈直播",
-            "type": 0,
-            "playerType": 1,
-            "boot": false,
-            "timeout": 10,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/asiaboke/IPTV/main/cytx.json"
-        },
-        {
-            "name": "二哈直播",
-            "type": 0,
-            "playerType": 1,
-            "boot": false,
-            "timeout": 10,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/2hacc/TVBox/main/live/live.txt"
-        },
-        {
-            "name": "无界直播",
-            "type": 0,
-            "playerType": 1,
-            "boot": false,
-            "timeout": 10,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/asiaboke/IPTV/main/7live.txt"
-        },
-        {
-            "name": "天微直播",
-            "type": 0,
-            "playerType": 1,
-            "boot": false,
-            "timeout": 10,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/asiaboke/IPTV/main/twkjlive.txt"
-        },
-        {
-            "name": "回春直播",
-            "type": 0,
-            "playerType": 1,
-            "boot": false,
-            "timeout": 10,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/asiaboke/IPTV/main/huichunliao.txt"
-        },
-        {
-            "name": "月光直播",
-            "type": 0,
-            "playerType": 1,
-            "boot": false,
-            "timeout": 10,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/asiaboke/IPTV/main/ygbhzb.txt"
-        },
-        {
-            "name": "刘备直播",
-            "type": 0,
-            "playerType": 1,
-            "boot": false,
-            "timeout": 10,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/liu673cn/box/main/js/tv/tvlive.txt"
-        },
-        {
-            "name": "欧阳直播",
-            "type": 0,
-            "playerType": 1,
-            "boot": false,
-            "timeout": 10,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/adminouyang/231006/main/code/lives/tv1.txt"
-        },
-        {
-            "name": "分线直播",
-            "type": 0,
-            "playerType": 1,
-            "boot": false,
-            "timeout": 10,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/fenxp/iptv/main/live/tvlive.txt"
-        },
-        {
-            "name": "芬香直播",
-            "type": 0,
-            "playerType": 1,
-            "boot": false,
-            "timeout": 10,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/fenxp/iptv/main/live/live.txt"
-        },
-        {
-            "name": "路客直播",
-            "type": 0,
-            "playerType": 1,
-            "boot": false,
-            "timeout": 10,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/LukeGod/autoRes/main/result.m3u"
-        },
-        {
-            "name": "李伟直播",
-            "type": 0,
-            "playerType": 1,
-            "boot": false,
-            "timeout": 10,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/liwei342698/ip/main/ip1"
-        },
-        {
-            "name": "里维直播",
-            "type": 0,
-            "playerType": 2,
-            "boot": false,
-            "timeout": 10,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/liwei342698/ip/main/ip3"
-        },
-        {
-            "name": "探索直播",
-            "type": 0,
-            "playerType": 1,
-            "boot": false,
-            "timeout": 10,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/tansuotv/IPTVindex/main/tv/tv.txt"
-        },
-        {
-            "name": "库里直播",
-            "type": 0,
-            "playerType": 1,
-            "boot": false,
-            "timeout": 10,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/GUA1k/playlist/main/za.txt"
         },
         {
             "name": "YouTube",
@@ -270,25 +70,12 @@
         }
     ],
     "sites": [
-
- {"key":"cc_shdy21","name": "0000骚火","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"ext": "https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/%e9%aa%9a%e7%81%ab%e5%bd%b1%e8%a7%862.json"},
-{"key":"csp_蛋蛋1","name":"00000蛋蛋","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/%e8%9b%8b%e8%9b%8b%e5%bd%b1%e8%a7%86.json"},
-            {
-            "key": "csp_xbiu_55kan",
-            "name": "000五五",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://www.55kan.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html;;ak"
-        },
         {
-            "key": "drpy_js_bwtto",
-            "name": "白糖影视",
+            "key": "drpy_js_荐片",
+            "name": "荐片影视",
             "type": 3,
             "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e4%b8%a4%e4%b8%aaBT.js"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
         },
         {
             "key": "drpy_js_农民",
@@ -314,13 +101,6 @@
             "type": 3,
             "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
-        },
-        {
-            "key": "drpy_js_荐片",
-            "name": "荐片影视",
-            "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
         },
         {
             "key": "drpy_js_qfitv",
@@ -403,71 +183,11 @@
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/开眼视频.js"
         },
         {
-            "key": "csp_泥巴",
-            "name": "泥巴[墙]",
-            "type": 3,
-            "api": "csp_NiNi",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_独播库",
-            "name": "独播[墙]",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Tangsan99999/-/master/json/duboku.json"
-        },
-        {
-            "key": "csp_海外看",
-            "name": "海外[墙]",
-            "type": 1,
-            "api": "https://haiwaikan.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "国产剧",
-                "韩剧",
-                "欧美剧",
-                "网络电影",
-                "国产综艺",
-                "纪录片",
-                "日本动漫",
-                "国产动漫",
-                "欧美动漫",
-                "日剧",
-                "台剧",
-                "泰剧",
-                "港剧",
-                "动画电影",
-                "韩国综艺",
-                "日本综艺",
-                "欧美综艺",
-                "冒险片",
-                "剧情片",
-                "动作片",
-                "同性片",
-                "喜剧片",
-                "奇幻片",
-                "恐怖片",
-                "悬疑片",
-                "惊悚片",
-                "战争片",
-                "歌舞片",
-                "灾难片",
-                "爱情片",
-                "犯罪片",
-                "科幻片",
-                "经典片"
-            ]
-        },
-        {
             "key": "csp_FirstAid",
             "name": "急救教学",
             "type": 3,
             "api": "csp_FirstAid",
-            "searchable": 0,
+            "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
             "style": {
@@ -493,7 +213,7 @@
             "ext": "https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/%e7%9f%ad%e5%89%a7%e7%bd%91.json"
         },
         {
-            "key": "csp_XBPQ_骚火_搜索有验证码",
+            "key": "csp_XBPQ_骚火",
             "name": "仨火电影",
             "type": 3,
             "api": "csp_XBPQ",
@@ -501,6 +221,26 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/%e9%aa%9a%e7%81%ab%e5%bd%b1%e8%a7%86.json"
+        },
+        {
+            "key": "csp_XBPQ_蛋蛋影视",
+            "name": "蛋蛋影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/%e8%9b%8b%e8%9b%8b%e5%bd%b1%e8%a7%86.json"
+        },
+        {
+            "key": "csp_xbiu_55kan",
+            "name": "五五影视",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.55kan.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html;;ak"
         },
         {
             "key": "csp_xbiu_qiyou",
@@ -521,38 +261,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://www.maolvys.com/vod/show/id/{cateId}/page/{catePg}/.html;;ak"
-        },
-        {
-            "key": "csp_暴风",
-            "name": "暴风[AD]",
-            "type": 1,
-            "api": "https://bfzyapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_索尼",
-            "name": "索尼[AD]",
-            "type": 1,
-            "api": "https://suoniapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_量子",
-            "name": "量子[AD]",
-            "type": 1,
-            "api": "https://cj.lziapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_非凡",
-            "name": "非凡[AD]",
-            "type": 1,
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
         },
         {
             "key": "csp_AList",
