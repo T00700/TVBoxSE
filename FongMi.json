@@ -288,6 +288,24 @@
             "ext": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%86%9c%e6%b0%91%e5%bd%b1%e8%a7%86.js"
         },
         {
+"key":"贱贱",
+"name":"🐭贱贱┃p2p",
+"type":3,
+"searchable":1,
+"quickSearch":1,
+"changeable":1,
+"playerType":"1",
+"api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
+},
+{
+"key":"drpy_js_厂长资源",
+"name":"影视|厂长资源[js]",
+"type":3,
+"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/厂长资源.js"
+},
+        {
             "key": "drpy_js_低端",
             "name": "欧美日韩",
             "type": 3,
