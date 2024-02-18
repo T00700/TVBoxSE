@@ -7,7 +7,7 @@
             "type": 0,
             "playerType": 1,
             "boot": false,
-            "timeout": 10,
+            "timeout": 5,
             "url": "https://agit.ai/00700/vvebo/raw/branch/main/live.txt"
         },
         {
@@ -15,7 +15,7 @@
             "type": 0,
             "playerType": 1,
             "boot": false,
-            "timeout": 10,
+            "timeout": 5,
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/Yang20150427/Yc/main/%E5%A4%AE%E8%A7%86%E9%A2%91%E5%97%85%E6%8E%A2.m3u",
             "ua": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/120.0.0.0Safari/537.36Edg/120.0.0.0"
         },
@@ -24,7 +24,7 @@
             "type": 0,
             "playerType": 1,
             "boot": false,
-            "timeout": 10,
+            "timeout": 5,
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/hououinkami/AppleTV/main/China_v4.m3u"
         },
         {
@@ -32,7 +32,7 @@
             "type": 0,
             "playerType": 1,
             "boot": false,
-            "timeout": 10,
+            "timeout": 5,
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/qt.txt"
         },
         {
@@ -40,7 +40,7 @@
             "type": 0,
             "playerType": 1,
             "boot": false,
-            "timeout": 10,
+            "timeout": 5,
             "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
             "ua": "okhttp/3.15"
         },
@@ -49,7 +49,7 @@
             "type": 0,
             "playerType": 1,
             "boot": false,
-            "timeout": 10,
+            "timeout": 5,
             "url": "https://weixine.net/tv/ysclive.txt"
         },
         {
@@ -57,7 +57,7 @@
             "type": 0,
             "playerType": 1,
             "boot": false,
-            "timeout": 10,
+            "timeout": 5,
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u"
         },
         {
@@ -65,7 +65,7 @@
             "type": 0,
             "playerType": 2,
             "boot": false,
-            "timeout": 10,
+            "timeout": 5,
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/T00700/TW-M3U/main/youtube.m3u"
         }
     ],
