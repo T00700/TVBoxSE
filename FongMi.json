@@ -27,15 +27,7 @@
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/ssili126/tv/main/qita.txt"
         },
         {
-            "name": "晴天mitv",
-            "type": 0,
-            "playerType": 1,
-            "boot": false,
-            "timeout": 5,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/qt.txt"
-        },
-        {
-            "name": "明明ipv6",
+            "name": "ipv6直播",
             "type": 0,
             "playerType": 1,
             "boot": false,
@@ -44,20 +36,12 @@
             "ua": "okhttp/3.15"
         },
         {
-            "name": "运输直播",
+            "name": "IPTV4直播",
             "type": 0,
             "playerType": 1,
             "boot": false,
             "timeout": 5,
-            "url": "https://weixine.net/tv/ysclive.txt"
-        },
-        {
-            "name": "台湾直播",
-            "type": 0,
-            "playerType": 1,
-            "boot": false,
-            "timeout": 5,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u"
+            "url": "https://raw.githubusercontent.com/T00700/Desi_TV/main/IPTV4.txt"
         },
         {
             "name": "YouTube",
