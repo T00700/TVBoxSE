@@ -3,28 +3,12 @@
     "wallpaper": "https://agit.ai/00700/vvebo/raw/branch/main/Wallpaper/01.jpg",
     "lives": [
         {
-            "name": "央视频道",
+            "name": "私立直播",
             "type": 0,
             "playerType": 1,
             "boot": false,
             "timeout": 5,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/ssili126/tv/main/cctv.txt"
-        },
-        {
-            "name": "卫视频道",
-            "type": 0,
-            "playerType": 1,
-            "boot": false,
-            "timeout": 5,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/ssili126/tv/main/weishi.txt"
-        },
-        {
-            "name": "地方频道",
-            "type": 0,
-            "playerType": 1,
-            "boot": false,
-            "timeout": 5,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/ssili126/tv/main/qita.txt"
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt"
         },
         {
             "name": "IPTV6直播",
