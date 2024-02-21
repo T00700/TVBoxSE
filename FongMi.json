@@ -11,7 +11,15 @@
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt"
         },
         {
-            "name": "IPTV6直播",
+            "name": "临时直播",
+            "type": 0,
+            "playerType": 1,
+            "boot": false,
+            "timeout": 5,
+            "url": "http://123.6.102.32:11789/667.txt"
+        },
+        {
+            "name": "iptv6直播",
             "type": 0,
             "playerType": 1,
             "boot": false,
@@ -20,7 +28,7 @@
             "ua": "okhttp/3.15"
         },
         {
-            "name": "IPTV4直播",
+            "name": "iptv4直播",
             "type": 0,
             "playerType": 1,
             "boot": false,
