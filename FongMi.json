@@ -71,13 +71,6 @@
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ddys.js"
         },
         {
-            "key": "drpy_js_爱看机器人",
-            "name": "爱看[AD]",
-            "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
-        },
-        {
             "key": "drpy_js_qfitv",
             "name": "起飞影视",
             "type": 3,
