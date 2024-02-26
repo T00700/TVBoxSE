@@ -4,9 +4,6 @@
 # 接口
 - FongMi
 ```
-https://netcut.cn/p/50042ea7321d6f42
-```
-```
 https://raw.gitmirror.com/T00700/TVBoxSE/master/FongMi.json
 ```
 ```
