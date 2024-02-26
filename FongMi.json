@@ -79,6 +79,16 @@
 			"changeable": 0
 		},
 		{
+			"key": "csp_XBPQ_骚火",
+			"name": "仨火电影",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/%e9%aa%9a%e7%81%ab%e5%bd%b1%e8%a7%86.json"
+		},
+		{
 			"key": "drpy_js_哔哩影视",
 			"name": "哔哩影视",
 			"type": 3,
@@ -103,6 +113,7 @@
 			"key": "drpy_js_哔哩直播",
 			"name": "哔哩直播",
 			"type": 3,
+			"searchable": 0,
 			"api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩直播.js"
 		},
@@ -110,6 +121,7 @@
 			"key": "drpy_js_斗鱼直播",
 			"name": "斗鱼直播",
 			"type": 3,
+			"searchable": 0,
 			"api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/斗鱼直播.js"
 		},
@@ -117,6 +129,7 @@
 			"key": "drpy_js_虎牙直播",
 			"name": "虎牙直播",
 			"type": 3,
+			"searchable": 0,
 			"api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/虎牙直播.js"
 		},
@@ -180,16 +193,6 @@
 			"api": "csp_XBPQ",
 			"changeable": 0,
 			"ext": "https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/%e7%9f%ad%e5%89%a7%e7%bd%91.json"
-		},
-		{
-			"key": "csp_XBPQ_骚火",
-			"name": "仨火电影",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/%e9%aa%9a%e7%81%ab%e5%bd%b1%e8%a7%86.json"
 		},
 		{
 			"key": "csp_xbiu_55kan",
