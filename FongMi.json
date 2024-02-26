@@ -202,16 +202,6 @@
 			"ext": "https://www.55kan.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html;;ak"
 		},
 		{
-			"key": "csp_xbiu_maolvys",
-			"name": "毛驴影视",
-			"type": 3,
-			"api": "csp_XBiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://www.maolvys.com/vod/show/id/{cateId}/page/{catePg}/.html;;ak"
-		},
-		{
 			"key": "csp_AList",
 			"name": "AList云盘",
 			"type": 3,
