@@ -77,7 +77,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"ext": true
+			"ext": false
 		},
 		{
 			"key": "drpy_js_哔哩影视",
