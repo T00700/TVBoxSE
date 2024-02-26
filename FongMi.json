@@ -70,14 +70,13 @@
 		},
 		{
 			"key": "T4-唐三安博",
-			"name": "唐三(T4)",
+			"name": "唐三(T5)",
 			"type": 4,
 			"api": "https://tang.serv00.net/power/ub1818",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
-			"ext": false
+			"changeable": 0
 		},
 		{
 			"key": "drpy_js_哔哩影视",
