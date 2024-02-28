@@ -4,6 +4,9 @@
 # 接口
 - FongMi
 ```
+http://00700.web3v.vip/FongMi/FongMi.json
+```
+```
 https://raw.gitmirror.com/T00700/TVBoxSE/master/FongMi.json
 ```
 ```
