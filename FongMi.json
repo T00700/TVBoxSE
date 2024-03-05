@@ -10,7 +10,7 @@
 			"url": "https://gh.con.sh/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt"
 		},
 		{
-			"name": "备用直播",
+			"name": "毫秒直播",
 			"type": 0,
 			"playerType": 1,
 			"boot": false,
