@@ -2,20 +2,20 @@
 	"spider": "https://agit.ai/00700/vvebo/raw/branch/main/Spider/FongMi.jar;md5;FDB39048BFED72C40BFF44A039A6582A",
 	"wallpaper": "https://agit.ai/00700/vvebo/raw/branch/main/Wallpaper/01.jpg",
 	"lives": [{
-			"name": "私立直播",
-			"type": 0,
-			"playerType": 1,
-			"boot": false,
-			"timeout": 5,
-			"url": "https://gh.con.sh/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt"
-		},
-		{
 			"name": "毫秒直播",
 			"type": 0,
 			"playerType": 1,
 			"boot": false,
 			"timeout": 5,
 			"url": "https://agit.ai/00700/vvebo/raw/branch/main/live.txt"
+		},
+		{
+			"name": "私立直播",
+			"type": 0,
+			"playerType": 1,
+			"boot": false,
+			"timeout": 5,
+			"url": "https://gh.con.sh/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt"
 		},
 		{
 			"name": "iptv6直播",
@@ -37,9 +37,9 @@
 		{
 			"name": "世界P2P源",
 			"type": 0,
-			"playerType": 2,
+			"playerType": 1,
 			"boot": false,
-			"timeout": 10,
+			"timeout": 5,
 			"url": "https://gh.con.sh/https://raw.githubusercontent.com/Ortsa8/ortsa/main/ortsa"
 		}
 	],
