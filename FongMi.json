@@ -27,20 +27,20 @@
 			"ua": "okhttp/3.15"
 		},
 		{
-			"name": "iptv4直播",
+			"name": "港台直播",
 			"type": 0,
 			"playerType": 1,
 			"boot": false,
 			"timeout": 5,
-			"url": "https://gh.con.sh/https://raw.githubusercontent.com/T00700/Desi_TV/main/IPTV4.txt"
+			"url": "https://www.stream-link.org/stream-link.m3u"
 		},
 		{
-			"name": "YouTube",
+			"name": "世界P2P源",
 			"type": 0,
 			"playerType": 2,
 			"boot": false,
 			"timeout": 10,
-			"url": "https://gh.con.sh/https://raw.githubusercontent.com/T00700/TW-M3U/main/youtube.m3u"
+			"url": "https://gh.con.sh/https://raw.githubusercontent.com/Ortsa8/ortsa/main/ortsa"
 		}
 	],
 	"sites": [{
