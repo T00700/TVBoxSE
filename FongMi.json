@@ -58,7 +58,21 @@
 			"name": "荐片影视",
 			"type": 3,
 			"api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
+			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/%E8%8D%90%E7%89%87.js"
+		},
+		{
+			"key": "drpy_js_欧乐",
+			"name": "欧乐影视",
+			"type": 3,
+			"api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/%E6%AC%A7%E4%B9%90%E5%BD%B1%E9%99%A2%5B%E9%A3%9E%5D.js"
+		},
+		{
+			"key": "drpy_js_在线",
+			"name": "在线之家",
+			"type": 3,
+			"api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.js"
 		},
 		{
 			"key": "drpy_js_低端",
