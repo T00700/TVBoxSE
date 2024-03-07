@@ -27,5 +27,5 @@ Python爬虫:https://github.com/UndCover/PyramidStore.git
 ```
 JS在线校验：http://json.jsrun.cn/
 夜视直播：https://yeslivetv.com/
-港台直播M3U8源：www.stream-link.org/
+港台直播(VPN)：www.stream-link.org/
 ```
