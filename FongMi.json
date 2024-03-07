@@ -90,13 +90,13 @@
 		},
 		{
 			"key": "csp_XBPQ_JOJO",
-			"name": "JOJO影视",
+			"name": "JOJO影视2",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/JOJO.json"
+			"ext": "https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/JOJO_2.json"
 		},
 		{
 			"key": "drpy_js_哔哩影视",
@@ -213,6 +213,16 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://www.55kan.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html;;ak"
+		},
+		{
+			"key": "csp_xbiu_JO",
+			"name": "JOJO影视3",
+			"type": 3,
+			"api": "csp_XBiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://jiohub.top/video/{cateId}?page={catePg}&size=18;;u0"
 		},
 		{
 			"key": "csp_AList",
