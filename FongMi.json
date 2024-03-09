@@ -43,16 +43,7 @@
 			"url": "https://gh.con.sh/https://raw.githubusercontent.com/YaoChuCai/YaoChuCai.github.io/main/dsj.txt"
 		}
 	],
-	"sites": [{
-			"key": "drpy_js_农民",
-			"name": "农民影视",
-			"type": 3,
-			"api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%86%9c%e6%b0%91%e5%bd%b1%e8%a7%86.js"
-		},
+	"sites": [
 		{
 			"key": "drpy_js_荐片",
 			"name": "荐片影视",
