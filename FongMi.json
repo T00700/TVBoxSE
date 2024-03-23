@@ -60,16 +60,6 @@
 			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ddys.js"
 		},
 		{
-			"key": "T4-唐三安博",
-			"name": "推荐观看",
-			"type": 4,
-			"api": "https://tang.serv00.net/power/ub1818",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 0
-		},
-		{
 			"key": "csp_XBPQ_骚火",
 			"name": "仨火电影",
 			"type": 3,
