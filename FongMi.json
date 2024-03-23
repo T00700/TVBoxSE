@@ -43,7 +43,16 @@
 			"url": "https://gh.con.sh/https://raw.githubusercontent.com/YaoChuCai/YaoChuCai.github.io/main/dsj.txt"
 		}
 	],
-	"sites": [
+	"sites": [{
+			"key": "csp_xbiu_dandanju.vip",
+			"name": "蛋蛋影视",
+			"type": 3,
+			"api": "csp_XBiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://www.dandanju.cc/show/{cateId}--------{catePg}.html"
+		},
 		{
 			"key": "drpy_js_荐片",
 			"name": "荐片影视",
