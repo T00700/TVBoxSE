@@ -186,24 +186,14 @@
 			"ext": "https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/%e7%9f%ad%e5%89%a7%e7%bd%91.json"
 		},
 		{
-			"key": "csp_xbiu_55kan",
-			"name": "五五影视",
+			"key": "csp_xbiu_80kk.app",
+			"name": "新视觉源",
 			"type": 3,
 			"api": "csp_XBiu",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://www.55kan.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html;;ak"
-		},
-		{
-			"key": "csp_xbiu_baipiaoys",
-			"name": "白嫖影视",
-			"type": 3,
-			"api": "csp_XBiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://www.baipiaoys.cc/show/id/{cateId}/page/{catePg}.html;;ak"
+			"ext": "https://www.80yy3.com/vodshow/{cateId}--------{catePg}---.html"
 		},
 		{
 			"key": "csp_AList",
