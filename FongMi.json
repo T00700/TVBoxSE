@@ -43,15 +43,35 @@
 			"url": "https://gh.con.sh/https://raw.githubusercontent.com/YaoChuCai/YaoChuCai.github.io/main/dsj.txt"
 		}
 	],
-	"sites": [{
-			"key": "csp_xbiu_dandanju.vip",
-			"name": "蛋蛋影视",
+	"sites": [
+		{
+			"key": "csp_xbiu_80kk.app",
+			"name": "新视觉源",
 			"type": 3,
 			"api": "csp_XBiu",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://www.dandanju.cc/show/{cateId}--------{catePg}.html"
+			"ext": "https://www.80yy3.com/vodshow/{cateId}--------{catePg}---.html"
+		},
+		{
+			"key": "csp_xbiu_dandanju.vip",
+			"name": "蛋蛋影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": {
+        "嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
+        "请求头": "手机#Referer$https://www.dandanju.cc/",
+        "分类url": "https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html",
+        "分类": "电影$1#剧集$2#动漫$4#综艺$4",
+        "数组": " <li class=\"col-md-6 col-sm-4 col-xs-3&&</li",
+        "搜索模式": "1",
+        "搜索url": "https://www.dandanju.cc/search/{wd}----------1---.html",
+        "搜索数组": "<li class=\"active clearfix&&</li"
+      }
 		},
 		{
 			"key": "drpy_js_荐片",
@@ -183,16 +203,6 @@
 			"api": "csp_XBPQ",
 			"changeable": 0,
 			"ext": "https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/%e7%9f%ad%e5%89%a7%e7%bd%91.json"
-		},
-		{
-			"key": "csp_xbiu_80kk.app",
-			"name": "新视觉源",
-			"type": 3,
-			"api": "csp_XBiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://www.80yy3.com/vodshow/{cateId}--------{catePg}---.html"
 		},
 		{
 			"key": "csp_AList",
