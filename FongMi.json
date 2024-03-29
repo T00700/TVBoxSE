@@ -45,6 +45,16 @@
 	],
 	"sites": [
 		{
+			"key": "csp_xbiu_baipiao",
+			"name": "白嫖影视",
+			"type": 3,
+			"api": "csp_XBiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://www.baipiaoys.com:9092/show/id/{cateId}/page/{catePg}.html;;ak"
+		},
+		{
 			"key": "csp_xbiu_80kk.app",
 			"name": "新视觉源",
 			"type": 3,
