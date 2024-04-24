@@ -52,25 +52,6 @@
 			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/%E8%8D%90%E7%89%87.js"
 		},
 		{
-		"key": "csp_zeqaht",
-		"name": "采集资源",
-		"type": 1,
-		"api": "https://api.zeqaht.com/api.php/provide/vod",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-		},
-		{
-			"key": "csp_xbiu_80kk.app",
-			"name": "新视觉源",
-			"type": 3,
-			"api": "csp_XBiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://www.80yy3.com/vodshow/{cateId}--------{catePg}---.html;;ak"
-		},
-		{
 			"key": "drpy_js_低端",
 			"name": "欧美日韩",
 			"type": 3,
@@ -86,7 +67,17 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://agit.ai/00700/vvebo/raw/branch/main/XBPQ/%e9%aa%9a%e7%81%ab%e5%bd%b1%e8%a7%86.json"
+			"ext": "http://152.32.170.60/00700/vvebo/raw/branch/main/XBPQ/%e9%aa%9a%e7%81%ab%e5%bd%b1%e8%a7%86.json"
+		},
+		{
+			"key": "csp_xbiu_80kk.app",
+			"name": "新视觉源",
+			"type": 3,
+			"api": "csp_XBiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://www.80yy3.com/vodshow/{cateId}--------{catePg}---.html;;ak"
 		},
 		{
 			"key": "drpy_js_哔哩影视",
@@ -163,36 +154,6 @@
 			"type": 3,
 			"api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/开眼视频.js"
-		},
-		{
-			"key": "csp_FirstAid",
-			"name": "急救教学",
-			"type": 3,
-			"api": "csp_FirstAid",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"style": {
-				"type": "rect",
-				"ratio": 3.8
-			}
-		},
-		{
-			"key": "csp_Yingshiche",
-			"name": "阿里影视",
-			"type": 3,
-			"api": "csp_Yingshiche",
-			"searchable": 1,
-			"changeable": 0,
-			"ext": "5ed7e8b55cc84468abc8f56395666dc6"
-		},
-		{
-			"key": "csp_XBPQ_短视频",
-			"name": "短剧视频",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"changeable": 0,
-			"ext": "https://152.32.170.60/00700/vvebo/raw/branch/main/XBPQ/%e7%9f%ad%e5%89%a7%e7%bd%91.json"
 		},
 		{
 			"key": "csp_AList",
