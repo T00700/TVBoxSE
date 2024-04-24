@@ -7,7 +7,7 @@
 			"playerType": 1,
 			"boot": false,
 			"timeout": 5,
-			"url": "http://152.32.170.60/00700/vvebo/raw/branch/main/live.txt"
+			"url": "https://raw.gitmirror.com/T00700/TVBoxSE/master/live.txt"
 		},
 		{
 			"name": "私立直播",
