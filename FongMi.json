@@ -52,6 +52,15 @@
 			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/%E8%8D%90%E7%89%87.js"
 		},
 		{
+		"key": "csp_zeqaht",
+		"name": "采集资源",
+		"type": 1,
+		"api": "https://api.zeqaht.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1
+		},
+		{
 			"key": "csp_xbiu_80kk.app",
 			"name": "新视觉源",
 			"type": 3,
