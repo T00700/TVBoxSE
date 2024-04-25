@@ -300,7 +300,6 @@ CCTV-4K,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv4k
 凤凰香港,http://113.64.145.61:8081/hls/38/index.m3u8
 凤凰香港,http://183.204.13.13/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://se.xvvx.eu.org/ublive.php?id=358
-凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 TVBS HD,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS HD,http://se.xvvx.eu.org/ublive.php?id=2273
@@ -329,11 +328,6 @@ TVBS新闻,http://se.xvvx.eu.org/ublive.php?id=2
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
-台视新闻,https://epg.pw/stream/1e6f4fea556314599d76bcf7a81101aa774142e1bd344e2354f552f5ca2ea562.m3u8
-台视新闻,https://epg.pw/stream/323de3953f32eaf0c224d78f1db77be185fa7ce9245786b3bd95d462d86d08d8.m3u8
-台视新闻,https://epg.pw/stream/a399e85fa5940ba0350181fdfa9e103f3556324a504c5cb5ef35c0c4f9a04c36.m3u8
-台视新闻,https://epg.pw/stream/b9fa8d19fa8492880b9c9f66eca6111adf20aee719d3cb1e4a027168ca382510.m3u8
-台视新闻,https://epg.pw/stream/d388b721bbe24174167197bd8df71614187bcb174879a301f1bc24ff2d8d6136.m3u8
 台视新闻,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
 年代新闻,http://se.xvvx.eu.org/ublive.php?id=1099
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
@@ -342,7 +336,6 @@ TVBS新闻,http://se.xvvx.eu.org/ublive.php?id=2
 民视新闻,http://66.165.240.154:8080/live/tymsxw1/hls.m3u8
 民视新闻,http://livetv.skycf.eu.org/live.m3u8?c=11
 民视新闻,http://se.xvvx.eu.org/ublive.php?id=13
-民视新闻,https://epg.pw/stream/7270ae89dc1f30cfec2c03d01b6e2fbc50863f60936b534814dfd28caa72181e.m3u8
 镜新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 镜新闻台,http://se.xvvx.eu.org/ublive.php?id=300
 非凡新闻,http://se.xvvx.eu.org/ublive.php?id=314
