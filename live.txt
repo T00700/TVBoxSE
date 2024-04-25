@@ -350,30 +350,28 @@ TVBS新闻,http://se.xvvx.eu.org/ublive.php?id=2
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 
 科教频道,#genre#
-Discovery,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/9011/index.m3u8
-Discovery,http://ott.watch/stream/E9LDH2ZCN7/177.m3u8
 Discovery,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
-世界地理,http://majian.ixiaobai.net:58888/rtp/239.37.0.079:5540
-世界地理,http://www.kitcc.cn:8887/rtp/239.253.43.24:5146
-世界地理,http://hy.baojihzjc.com:9001/udp/239.111.205.71:5140
-世界地理,http://hy.baojihzjc.com:9001/udp/239.110.205.92:7908
-世界地理,http://108m64s098.yicp.fun:8808/rtp/239.253.43.7:5146
-世界地理,http://m0668.3322.org:4000/rtp/239.253.43.24:5146
-世界地理,http://108m64s098.yicp.fun:8808/rtp/239.253.43.24:5146
-兵器科技,http://majian.ixiaobai.net:58888/rtp/239.37.0.084:5540
-兵器科技,http://m0668.3322.org:4000/rtp/239.253.43.18:5146
-兵器科技,http://www.kitcc.cn:8887/rtp/239.253.43.9:5146
-兵器科技,http://www.kitcc.cn:8887/rtp/239.253.43.18:5146
-兵器科技,http://108m64s098.yicp.fun:8808/rtp/239.253.43.9:5146
-兵器科技,http://hy.baojihzjc.com:9001/udp/239.111.205.74:5140
-兵器科技,http://108m64s098.yicp.fun:8808/rtp/239.253.43.18:5146
-动物星球,http://ali.hlspull.yximgs.com/live/huanqiuhklivexcvbpjyhvjcvnjjsfjvbhfhcjhbnjsjbcvjfdvjsfcbjbnjjwxj.flv
-动物星球,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=59
+Discovery,http://ott.watch/stream/E9LDH2ZCN7/177.m3u8
+NASA TV,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+NASA TV,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd
+NASA TV,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
+NASA TV,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+世界地理,http://110.178.52.190:8082/udp/239.1.1.99:8099
+世界地理,http://110.178.52.190:8085/udp/239.1.1.99:8099
+世界地理,http://60.6.255.8:2180/live/sjdl/index.m3u8
+世界地理,https://pi.0472.org/live/sjdl.m3u8?token=162210
+兵器科技,http://110.178.52.190:8082/udp/239.1.1.97:8097
+兵器科技,http://110.178.52.190:8085/udp/239.1.1.97:8097
+兵器科技,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
+兵器科技,http://60.6.255.8:2180/live/gfjs/index.m3u8
+兵器科技,https://pi.0472.org/live/bqkj.m3u8?token=162210
 历史频道,http://213.226.69.130/iptv/BF9GWX8VNPYM9X/231/index.m3u8
-探索频道,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhfhcvbcvjfdvbnjcjjsjjjejjtspj.flv
-探索频道,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=56
-求索生活,http://www.kitcc.cn:8887/rtp/239.77.0.153:5146
-求索记录,http://183.221.31.230:4088/rtp/239.10.0.221:5140
+探索频道,http://se.xvvx.eu.org/ublive.php?id=1035
+美食星球,http://se.xvvx.eu.org/ublive.php?id=1360
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+动物星球,http://se.xvvx.eu.org/ublive.php?id=367
+动物星球,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+国家地理,http://se.xvvx.eu.org/ublive.php?id=302
 
 体育频道,#genre#
 JJ斗地主,http://hlsa-akm.douyucdn.cn/488743rAHScWyyII_4000.m3u8
