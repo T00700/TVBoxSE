@@ -51,6 +51,20 @@
 			"api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/%E8%8D%90%E7%89%87.js"
 		},
+		{"key":"文才","name":"T4┃文才┃秒播","type":4,"api":"https://catbox.n13.club/t4/wencai.php"},
+{"key":"剧圈","name":"T4┃剧圈┃秒播","type":4,"api":"https://catbox.n13.club/t4/juquan.php"},
+{"key":"黑狐","name":"T4┃黑狐┃秒播","type":4,"api":"https://catbox.n13.club/t4/heihu.php"},
+{"key":"角角","name":"T4┃角角┃秒播","type":4,"api":"https://catbox.n13.club/t4/jojo.php"},
+
+{"key":"采集","name":"T4┃采集┃秒播","type":4,"api":"https://catbox.n13.club/t4/caiji.php"},
+{"key":"荐片","name":"T4┃荐片┃秒播","type":4,"api":"https://catbox.n13.club/t4/jianpian.php"},
+{"key":"明日","name":"T4┃明日┃秒播","type":4,"api":"https://catbox.n13.club/t4/mingri.php"},
+{"key":"视觉","name":"T4┃视觉┃秒播","type":4,"api":"https://catbox.n13.club/t4/xinshijue.php"},
+
+{"key":"极光","name":"T4┃极光┃秒播","type":4,"api":"https://catbox.n13.club/t4/jiguang.php"},
+{"key":"韩剧","name":"T4┃韩剧┃秒播","type":4,"api":"https://catbox.n13.club/t4/hanju.php"},
+{"key":"腐剧","name":"T4┃腐剧┃秒播","type":4,"api":"https://catbox.n13.club/t4/fuju.php"},
+{"key":"骚火","name":"T4┃骚火┃秒播","type":4,"api":"https://catbox.n13.club/t4/saohuo.php"},
 		{
 			"key": "drpy_js_低端",
 			"name": "欧美日韩",
