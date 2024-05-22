@@ -2,6 +2,10 @@
 **就个人而言，强烈建议各位使用影视FongMi作为主力应用，优点太多不一一赘述，暂提供下载地址。**
 - [ ] [横屏电视版_2.2.0(4.1-4.4)](https://gh.con.sh/https://raw.githubusercontent.com/FongMi/Release/a92dcc6c71ac3b9e7757ba292f1f3e543afe1489/apk/kitkat/leanback.apk)----[横屏电视版_2.2.5 v7a(5.0-13)](https://gh.con.sh/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-armeabi_v7a.apk)----[竖屏手机版_2.2.5 v8a(5.0-13)](https://gh.con.sh/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-arm64_v8a.apk)
 # 接口
+- Tang
+```
+https://tang.hz.cn/zb/tv?type=169&token=
+```
 - FongMi
 ```
 http://00700.web3v.vip/FongMi/FongMi.json
