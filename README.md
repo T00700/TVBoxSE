@@ -4,7 +4,7 @@
 # 接口
 - Tang
 ```
-https://tang.hz.cn/zb/tv?type=169&token=
+https://tang.hz.cz/zb/tv?type=169&token=
 ```
 - FongMi
 ```
