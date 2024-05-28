@@ -45,7 +45,7 @@
 	],
 	"sites": [
 		{"key":"黑木耳采集","name":"黑木耳源","type":1,"api":"https://json.heimuer.tv/api.php/provide/vod/?ac=list","playUrl":"https://player.heimuer.tv/index.html?url=","searchable":1,"quickSearch": 1,"filterable": 1,"changeable":1},
-		{
+		//{
 			"key": "drpy_js_荐片",
 			"name": "荐片影视",
 			"type": 3,
