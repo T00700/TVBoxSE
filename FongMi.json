@@ -44,7 +44,7 @@
 		}
 	],
 	"sites": [
-		{"key":"黑木耳采集","name":"黑木耳源|采集","type":1,"api":"https://json.heimuer.tv/api.php/provide/vod/?ac=list","playUrl":"https://player.heimuer.tv/index.html?url=","searchable":1,"quickSearch": 1,"filterable": 1,"changeable":1},
+		{"key":"黑木耳采集","name":"黑木耳源","type":1,"api":"https://json.heimuer.tv/api.php/provide/vod/?ac=list","playUrl":"https://player.heimuer.tv/index.html?url=","searchable":1,"quickSearch": 1,"filterable": 1,"changeable":1},
 		{
 			"key": "drpy_js_荐片",
 			"name": "荐片影视",
@@ -61,33 +61,6 @@
 			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ddys.js"
 		},
 		{
-			"key": "csp_XBPQ_骚火",
-			"name": "仨火电影",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://152.32.170.60/00700/vvebo/raw/branch/main/XBPQ/%e9%aa%9a%e7%81%ab%e5%bd%b1%e8%a7%86.json"
-		},
-		{
-			"key": "csp_xbiu_dianyi",
-			"name": "电影先生",
-			"type": 3,
-			"api": "csp_XBiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://dianyi.ng/pianku-{cateId}-{area}-------{catePg}---{year}.html"
-		},
-		{
-			"key": "drpy_js_哔哩影视",
-			"name": "哔哩影视",
-			"type": 3,
-			"api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩影视.js"
-		},
-		{
 			"key": "drpy_js_JRKAN直播",
 			"name": "今日体育",
 			"type": 3,
@@ -95,11 +68,11 @@
 			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/JRKAN直播.js"
 		},
 		{
-			"key": "drpy_js_88看球",
-			"name": "八八看球",
+			"key": "drpy_js_哔哩影视",
+			"name": "哔哩影视",
 			"type": 3,
 			"api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/88看球.js"
+			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩影视.js"
 		},
 		{
 			"key": "drpy_js_哔哩直播",
@@ -140,21 +113,6 @@
 			"api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/评书随身听.js",
 			"playerType": "2"
-		},
-		{
-			"key": "drpy_js_蜻蜓FM",
-			"name": "蜻蜓广播",
-			"type": 3,
-			"api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/蜻蜓FM.js",
-			"playerType": "2"
-		},
-		{
-			"key": "drpy_js_开眼视频",
-			"name": "开眼视频",
-			"type": 3,
-			"api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/开眼视频.js"
 		},
 		{
 			"key": "csp_AList",
