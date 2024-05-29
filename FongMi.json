@@ -1,13 +1,13 @@
 {
-	"spider": "https://00700.web3v.vip/FongMi/FongMi.jar;md5;FDB39048BFED72C40BFF44A039A6582A",
-	"wallpaper": "https://00700.web3v.vip/FongMi/Wallpaper/01.jpg",
+	"spider": "https://raw.gitmirror.com/T00700/TVBoxSE/master/FongMi.jar;md5;FDB39048BFED72C40BFF44A039A6582A",
+	"wallpaper": "http://152.32.170.60/00700/vvebo/raw/branch/main/Wallpaper/01.jpg",
 	"lives": [{
 			"name": "毫秒直播",
 			"type": 0,
 			"playerType": 1,
 			"boot": false,
 			"timeout": 3,
-			"url": "https://00700.web3v.vip/FongMi/Live/live.txt"
+			"url": "https://raw.gitmirror.com/T00700/TVBoxSE/master/live.txt"
 		},
 		{
 			"name": "晴天直播",
@@ -15,7 +15,7 @@
 			"playerType": 2,
 			"boot": false,
 			"timeout": 5,
-			"url": "https://00700.web3v.vip/FongMi/Live/qt.txt"
+			"url": "https://raw.gitmirror.com/guot55/yg/main/qt.txt"
 		},
 		{
 			"name": "私立直播",
