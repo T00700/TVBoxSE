@@ -48,9 +48,9 @@
 
 		{
       "key": "量子",
-      "name": "量子",
+      "name": "量子1",
       "type": 1,
-      "api": "http://127.0.0.1:10079/p/0/proxy/http://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
+      "api": "http://127.0.0.1:10079/p/0/proxy/http://cj.lziapi.com/api.php/provide/vod/",
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
       "playerType":1,
       "searchable": 1,
