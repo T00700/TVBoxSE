@@ -45,19 +45,8 @@
 	],
 	"sites": [
 		{"key":"黑木耳采集","name":"黑木耳源","type":1,"api":"https://json.heimuer.tv/api.php/provide/vod/?ac=list","playUrl":"https://player.heimuer.tv/index.html?url=","searchable":1,"quickSearch": 1,"filterable": 1,"changeable":1},
-
-		{
-      "key": "量子",
-      "name": "量子1",
-      "type": 1,
-      "api": "http://127.0.0.1:10079/p/0/proxy/http://cj.lziapi.com/api.php/provide/vod/",
-      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-      "playerType":1,
-      "searchable": 1,
-      "changeable": 1
-    },
 		
-		{"key":"量子资源","name":"量子资源1","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","searchable":1,"quickSearch": 1,"filterable": 1,"changeable":1},
+		{"key":"量子资源","name":"量子资源2","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/https://cj.lzcaiji.com/api.php/provide/vod/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","searchable":1,"quickSearch": 1,"filterable": 1,"changeable":1},
 
 		{"key":"非凡采集","name":"非凡采集","type":1,"api":"http://api.ffzyapi.com/api.php/provide/vod/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","searchable":1,"quickSearch": 1,"filterable": 1,"changeable":1},
 		
