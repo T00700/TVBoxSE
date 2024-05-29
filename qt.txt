@@ -55,6 +55,15 @@ CCTV-17,mitv://generationnexxxt.com:19806/65a614e00004fec6e104afbe58b32445
 
 
 港台频道,#genre#
+凤凰中文,mitv://135.148.104.228:19806/64e1ab2a000417167359b3ca0417008f
+凤凰中文,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
+凤凰中文,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
+凤凰中文,mitv://generationnexxxt.com:19806/65fd687c000dccf1362379174a9617fc
+凤凰资讯,mitv://135.148.104.228:19806/6684e9f6606f49fba9b6de846dbdcb64
+凤凰资讯,mitv://generationnexxxt.com:19806/65fd6d04000e7c8036352c8637e97c89
+凤凰资讯,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
+凤凰香港,mitv://135.148.104.228:19806/8e396c3ec52f4eee9e5b7868042b1bf2
+凤凰香港,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
 TVBS HD,mitv://135.148.104.228:19806/9fb651a7ec2e402588a0752ba1035476
 TVBS HD,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 TVBS新闻,mitv://135.148.104.228:19806/6a155a5d7bea461b980b4fa559119a60
@@ -74,15 +83,6 @@ TVBS新闻,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 中天新闻,mitv://generationnexxxt.com:19806/e92e93fd67794e92acdc0d4005f0781a
 中视新闻,mitv://135.148.104.228:19806/cb5965a89e434df7aeb66b2364116ae4
 中视新闻,mitv://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
-凤凰中文,mitv://135.148.104.228:19806/64e1ab2a000417167359b3ca0417008f
-凤凰中文,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
-凤凰中文,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
-凤凰中文,mitv://generationnexxxt.com:19806/65fd687c000dccf1362379174a9617fc
-凤凰资讯,mitv://135.148.104.228:19806/6684e9f6606f49fba9b6de846dbdcb64
-凤凰资讯,mitv://generationnexxxt.com:19806/65fd6d04000e7c8036352c8637e97c89
-凤凰资讯,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
-凤凰香港,mitv://135.148.104.228:19806/8e396c3ec52f4eee9e5b7868042b1bf2
-凤凰香港,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
 华视新闻,mitv://135.148.104.228:19806/ebe8db2daafa47768f37bcae17bfe299
 华视新闻,mitv://generationnexxxt.com:19806/ebe8db2daafa47768f37bcae17bfe299
 台视新闻,mitv://135.148.104.228:19806/9817b59742464113bd5656fcc7dced84
