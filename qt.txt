@@ -156,7 +156,7 @@ Discovery,mitv://generationnexxxt.com:19806/65e9a59d000f257fe8f2360919064328
 纬来体育,mitv://generationnexxxt.com:19806/79090c69d43040148deaa21d5e26c32a
 
 
-播频道,#genre#
+轮播频道,#genre#
 HBO TV,mitv://135.148.104.228:19806/37f11d742fee447ab15f07db28095bd6
 HBO TV,mitv://135.148.104.228:19806/563a5981b8ad4df085b59ce98bbecb95
 HBO TV,mitv://135.148.104.228:19806/8a0208ebdfa04b5eab112f0c8b01719c
