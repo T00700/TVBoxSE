@@ -4,6 +4,7 @@
 	"lives": [{
 			"name": "毫秒直播",
 			"type": 0,
+			"playerType": 1,
 			"boot": false,
 			"timeout": 5,
 			"url": "https://raw.gitmirror.com/T00700/TVBoxSE/master/live.txt"
@@ -26,20 +27,11 @@
 			"ua": "okhttp/3.15"
 		},
 		{
-			"name": "港台直播",
+			"name": "直播[EXO]",
 			"type": 0,
-			"playerType": 1,
 			"boot": false,
 			"timeout": 5,
-			"url": "https://gh.con.sh/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/CR.txt"
-		},
-		{
-			"name": "电视家源",
-			"type": 0,
-			"playerType": 1,
-			"boot": false,
-			"timeout": 5,
-			"url": "https://gh.con.sh/https://raw.githubusercontent.com/YaoChuCai/YaoChuCai.github.io/main/dsj.txt"
+			"url": "https://raw.gitmirror.com/T00700/TVBoxSE/master/live.txt"
 		}
 	],
 	"sites": [
