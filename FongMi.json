@@ -46,7 +46,7 @@
 	"sites": [
 		{"key":"黑木耳采集","name":"黑木耳源","type":1,"api":"https://json.heimuer.tv/api.php/provide/vod/?ac=list","playUrl":"https://player.heimuer.tv/index.html?url=","searchable":1,"quickSearch": 1,"filterable": 1,"changeable":1},
 		
-		{"key":"量子采集","name":"量子采集","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/","searchable":1,"quickSearch": 1,"filterable": 1,"changeable":1},
+		{"key":"量子资源","name":"量子资源","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/","searchable":1,"quickSearch": 1,"filterable": 1,"changeable":1},
 
 		{"key":"非凡采集","name":"非凡采集","type":1,"api":"http://api.ffzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch": 1,"filterable": 1,"changeable":1},
 		
