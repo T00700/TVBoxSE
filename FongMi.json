@@ -10,6 +10,14 @@
 			"url": "https://raw.gitmirror.com/T00700/TVBoxSE/master/live.txt"
 		},
 		{
+			"name": "晴天直播",
+			"type": 0,
+			"playerType": 1,
+			"boot": false,
+			"timeout": 5,
+			"url": "https://raw.githubusercontent.com/guot55/yg/main/qt.txt"
+		}
+		{
 			"name": "私立直播",
 			"type": 0,
 			"playerType": 1,
@@ -25,14 +33,8 @@
 			"timeout": 5,
 			"url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
 			"ua": "okhttp/3.15"
-		},
-		{
-			"name": "直播[EXO]",
-			"type": 0,
-			"boot": false,
-			"timeout": 5,
-			"url": "https://raw.gitmirror.com/T00700/TVBoxSE/master/live.txt"
 		}
+		
 	],
 	"sites": [
 		{"key":"黑木耳采集","name":"黑木耳源","type":1,"api":"https://xml.heimuer.tv/api.php/provide/vod/","playUrl":"https://player.heimuer.tv/index.html?url=","searchable":1,"quickSearch": 1,"filterable": 1,"changeable":1},
