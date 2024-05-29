@@ -37,11 +37,13 @@
 		
 	],
 	"sites": [
+		{"key":"阿里资源","name":"阿里资源","type":1,"api":"http://aliys.cn:90/api.php/provide/vod/","searchable":1,"quickSearch": 1,"filterable": 1,"changeable":1,"categories":["电影","电视剧","综艺","动漫","短剧"]},
+		
 		{"key":"黑木耳采集","name":"黑木耳源","type":1,"api":"https://xml.heimuer.tv/api.php/provide/vod/","playUrl":"https://player.heimuer.tv/index.html?url=","searchable":1,"quickSearch": 1,"filterable": 1,"changeable":1},
 		
-		{"key":"量子资源","name":"量子资源","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/","searchable":1,"quickSearch": 1,"filterable": 1,"changeable":1,"categories":["国产剧","日韩剧","欧美剧","国产动漫","大陆综艺"]},
+		{"key":"非凡采集","name":"非凡采集","type":1,"api":"http://api.ffzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch": 1,"filterable": 1,"changeable":1,"categories":["国产剧","韩国剧","欧美剧","喜剧片","剧情片","恐怖片","科幻片","动漫片","大陆综艺","国产动漫","记录片"]},
 
-		{"key":"非凡采集","name":"非凡采集","type":1,"api":"http://api.ffzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch": 1,"filterable": 1,"changeable":1,"categories":["国产剧","韩国剧","欧美剧","喜剧片","剧情片","动漫片","大陆综艺","国产动漫","记录片"]},
+		{"key":"量子资源","name":"量子资源","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/","searchable":1,"quickSearch": 1,"filterable": 1,"changeable":1,"categories":["国产剧","韩国剧","欧美剧","喜剧片","剧情片","爱情片","恐怖片","科幻片","动漫片","国产动漫","大陆综艺"]},
 		
 		//{"key": "会占用大量缓存空间","name": "荐片影视","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/%E8%8D%90%E7%89%87.js"},
 		
