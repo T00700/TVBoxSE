@@ -37,7 +37,7 @@
 		
 	],
 	"sites": [
-		{"key":"黑木耳源","name":"黑木耳源","type":0,"api":"https://xml.heimuer.tv/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch": 1,"filterable": 1,"changeable":1,"categories":["国产剧","大陆综艺","国产动漫","韩国剧","喜剧片","爱情片","科幻片","恐怖片","动作片","剧情片","动漫片","记录片","短剧"]},
+		{"key":"黑木耳源","name":"黑木耳源","type":0,"api":"https://xml.heimuer.tv/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch": 1,"filterable": 1,"changeable":1,"categories":["国产剧","大陆综艺","国产动漫","韩剧","喜剧","剧情","爱情","科幻","惊悚","悬疑","冒险","犯罪","灾难","短剧"]},
 		
 		{"key":"非凡采集","name":"非凡采集","type":0,"api":"https://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/","searchable":1,"quickSearch": 1,"filterable": 1,"changeable":1,"categories":["国产剧","大陆综艺","国产动漫","韩国剧","喜剧片","爱情片","科幻片","恐怖片","动作片","剧情片","动漫片","记录片","短剧"]},
 		
