@@ -4,7 +4,6 @@
 	"lives": [{
 			"name": "毫秒直播",
 			"type": 0,
-			"playerType": 1,
 			"boot": false,
 			"timeout": 5,
 			"url": "https://raw.gitmirror.com/T00700/TVBoxSE/master/live.txt"
@@ -12,7 +11,7 @@
 		{
 			"name": "晴天直播",
 			"type": 0,
-			"playerType": 1,
+			"playerType": 2,
 			"boot": false,
 			"timeout": 5,
 			"url": "https://raw.gitmirror.com/guot55/yg/main/qt.txt"
