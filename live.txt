@@ -601,7 +601,6 @@ TVBS新闻,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 
 科教频道,#genre#
 player=2
-timeout=1
 Discovery,mitv://135.148.104.228:19806/0afefbe6244c42dbac40a3d8abef8d07
 Discovery,mitv://generationnexxxt.com:19806/0afefbe6244c42dbac40a3d8abef8d07
 Discovery,mitv://generationnexxxt.com:19806/39e1494bd82c449892c6f92a6c8dc213
