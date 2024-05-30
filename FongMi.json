@@ -6,6 +6,7 @@
 			"type": 0,
 			"playerType": 1,
 			"boot": false,
+			"timeout": 10,
 			"url": "https://raw.gitmirror.com/T00700/TVBoxSE/master/live.txt"
 		},
 		{
