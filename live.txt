@@ -621,6 +621,11 @@ Discovery,mitv://generationnexxxt.com:19806/65e9a59d000f257fe8f2360919064328
 美食星球,mitv://135.148.104.228:19806/1baaeb6967434fee9bf4412904e573b0
 美食星球,mitv://generationnexxxt.com:19806/1baaeb6967434fee9bf4412904e573b0
 美食星球,mitv://generationnexxxt.com:19806/60c698afbda7443998a2b9fd5c00c54d
+罪案侦缉,mitv://generationnexxxt.com:19806/ef7b4ee3be374092a4a0074a6be41e03
+EVE,mitv://generationnexxxt.com:19806/f21130546932443d98f6ec02aa4ec99a
+DMAX,mitv://generationnexxxt.com:19806/50af7fb4500840e292bcfae4dd50e97f
+BBC Earth,mitv://generationnexxxt.com:19806/49261fefe28441bea7b775cc44fa16b5
+BBC Lifestyle,mitv://generationnexxxt.com:19806/178e533979bb4ec3af9190ca475f23ef
 
 
 体育频道,#genre#
@@ -657,6 +662,8 @@ JJ斗地主,http://openhls-tct.douyucdn2.cn:80/dyliveflv1a/488743rAHScWyyII_4000
 爱尔达体育,mitv://generationnexxxt.com:19806/d94310f2cae94917b57a10a47635a8b9
 爱尔达体育,mitv://generationnexxxt.com:19806/df4f198dbe6347e1a084c79d208f227d
 爱尔达体育,mitv://generationnexxxt.com:19806/e59ca679d4a44907ad66df6679d972d6
+魅力足球,mitv://generationnexxxt.com:19806/ca7a1a18635e453a9a77e5fd5d425e89
+NBA,mitv://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
 
 
 轮播频道,#genre#
