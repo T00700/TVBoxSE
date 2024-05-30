@@ -601,6 +601,7 @@ TVBS新闻,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 
 科教频道,#genre#
 player=2
+timeout=1
 Discovery,mitv://135.148.104.228:19806/0afefbe6244c42dbac40a3d8abef8d07
 Discovery,mitv://generationnexxxt.com:19806/0afefbe6244c42dbac40a3d8abef8d07
 Discovery,mitv://generationnexxxt.com:19806/39e1494bd82c449892c6f92a6c8dc213
@@ -622,10 +623,8 @@ Discovery,mitv://generationnexxxt.com:19806/65e9a59d000f257fe8f2360919064328
 美食星球,mitv://generationnexxxt.com:19806/1baaeb6967434fee9bf4412904e573b0
 美食星球,mitv://generationnexxxt.com:19806/60c698afbda7443998a2b9fd5c00c54d
 罪案侦缉,mitv://generationnexxxt.com:19806/ef7b4ee3be374092a4a0074a6be41e03
-EVE,mitv://generationnexxxt.com:19806/f21130546932443d98f6ec02aa4ec99a
-DMAX,mitv://generationnexxxt.com:19806/50af7fb4500840e292bcfae4dd50e97f
-BBC Earth,mitv://generationnexxxt.com:19806/49261fefe28441bea7b775cc44fa16b5
-BBC Lifestyle,mitv://generationnexxxt.com:19806/178e533979bb4ec3af9190ca475f23ef
+娱乐生活,mitv://generationnexxxt.com:19806/50af7fb4500840e292bcfae4dd50e97f
+博思星球,mitv://generationnexxxt.com:19806/49261fefe28441bea7b775cc44fa16b5
 
 
 体育频道,#genre#
