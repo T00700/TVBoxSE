@@ -622,7 +622,6 @@ Discovery,mitv://generationnexxxt.com:19806/65e9a59d000f257fe8f2360919064328
 美食星球,mitv://generationnexxxt.com:19806/1baaeb6967434fee9bf4412904e573b0
 美食星球,mitv://generationnexxxt.com:19806/60c698afbda7443998a2b9fd5c00c54d
 罪案侦缉,mitv://generationnexxxt.com:19806/ef7b4ee3be374092a4a0074a6be41e03
-娱乐生活,mitv://generationnexxxt.com:19806/50af7fb4500840e292bcfae4dd50e97f
 博思星球,mitv://generationnexxxt.com:19806/49261fefe28441bea7b775cc44fa16b5
 
 
@@ -641,6 +640,8 @@ JJ斗地主,http://openhls-tct.douyucdn2.cn:80/dyliveflv1a/488743rAHScWyyII_4000
 纬来体育,mitv://generationnexxxt.com:19806/7162c44a105a42d98d12598c8125ce3e
 纬来体育,mitv://generationnexxxt.com:19806/79090c69d43040148deaa21d5e26c32a
 纬来体育,mitv://generationnexxxt.com:19806/79090c69d43040148deaa21d5e26c32a
+魅力足球,mitv://generationnexxxt.com:19806/ca7a1a18635e453a9a77e5fd5d425e89
+美职篮NBA,mitv://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
 爱尔达体育,mitv://135.148.104.228:19806/3ebc6b89559c44dca30c4c259a5646b9
 爱尔达体育,mitv://135.148.104.228:19806/68e521d35c0247ddbc5073dee98245a3
 爱尔达体育,mitv://135.148.104.228:19806/d1f16ee235314a0fbc33742ab7af534b
@@ -656,8 +657,6 @@ JJ斗地主,http://openhls-tct.douyucdn2.cn:80/dyliveflv1a/488743rAHScWyyII_4000
 爱尔达体育,mitv://generationnexxxt.com:19806/d94310f2cae94917b57a10a47635a8b9
 爱尔达体育,mitv://generationnexxxt.com:19806/df4f198dbe6347e1a084c79d208f227d
 爱尔达体育,mitv://generationnexxxt.com:19806/e59ca679d4a44907ad66df6679d972d6
-美职篮NBA,mitv://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
-魅力足球,mitv://generationnexxxt.com:19806/ca7a1a18635e453a9a77e5fd5d425e89
 
 
 轮播频道,#genre#
@@ -682,10 +681,10 @@ ThrillTV,mitv://generationnexxxt.com:19806/1c3c73215afd42558101c3ee65737202
 武林外传,https://lunbo.freetv.top/yy/1353852605
 武林外传,https://lunbo.freetv.top/yy/1355652820
 武林外传,https://lunbo.freetv.top/yy/21092633
-铁齿铜牙纪晓岚,https://lunbo.freetv.top/yy/1382781415
-铁齿铜牙纪晓岚,https://live.metshop.top/yy/1382781415
 宰相刘罗锅,https://live.metshop.top/yy/1382745191
 宰相刘罗锅,https://lunbo.freetv.top/yy/1382745191
+铁齿铜牙纪晓岚,https://lunbo.freetv.top/yy/1382781415
+铁齿铜牙纪晓岚,https://live.metshop.top/yy/1382781415
 
 
 景区频道,#genre#
