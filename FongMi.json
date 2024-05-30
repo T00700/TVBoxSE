@@ -14,7 +14,7 @@
 			"type": 0,
 			"playerType": 2,
 			"boot": false,
-			"timeout": 5,
+			"timeout": 10,
 			"url": "https://raw.gitmirror.com/T00700/TVBoxSE/master/qt.txt"
 		},
 		{
