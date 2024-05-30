@@ -637,10 +637,6 @@ JJ斗地主,http://epg.112114.xyz/douyu/488743
 JJ斗地主,http://vercel.160820.xyz/huya/14079954
 JJ斗地主,http://vercel.160820.xyz/douyu/488743
 JJ斗地主,http://openhls-tct.douyucdn2.cn:80/dyliveflv1a/488743rAHScWyyII_4000.m3u8
-五星体育,mitv://generationnexxxt.com:19806/387fd2fee8ce4ced972cd7be0f1fc77a
-五星体育,mitv://generationnexxxt.com:19806/d75057c993f84e7c86f94e8f1e56ad24
-广东体育,mitv://generationnexxxt.com:19806/99a6d27c4aff4490aaf7cdeb53af3382
-广东体育,mitv://generationnexxxt.com:19806/bb744a1252da46a6a2ae5546f4da7c72
 纬来体育,mitv://135.148.104.228:19806/79090c69d43040148deaa21d5e26c32a
 纬来体育,mitv://generationnexxxt.com:19806/7162c44a105a42d98d12598c8125ce3e
 纬来体育,mitv://generationnexxxt.com:19806/79090c69d43040148deaa21d5e26c32a
@@ -660,8 +656,8 @@ JJ斗地主,http://openhls-tct.douyucdn2.cn:80/dyliveflv1a/488743rAHScWyyII_4000
 爱尔达体育,mitv://generationnexxxt.com:19806/d94310f2cae94917b57a10a47635a8b9
 爱尔达体育,mitv://generationnexxxt.com:19806/df4f198dbe6347e1a084c79d208f227d
 爱尔达体育,mitv://generationnexxxt.com:19806/e59ca679d4a44907ad66df6679d972d6
+美职篮NBA,mitv://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
 魅力足球,mitv://generationnexxxt.com:19806/ca7a1a18635e453a9a77e5fd5d425e89
-NBA,mitv://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
 
 
 轮播频道,#genre#
