@@ -235,14 +235,12 @@ CCTV-13,http://36.249.151.142:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 
 晴天央视,#genre#
 player=2
-timeout=1
 CCTV-01,mitv://generationnexxxt.com:19806/1a50835e80564ba8ae28fce9bb7f228f
 CCTV-01,mitv://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e
 CCTV-02,mitv://generationnexxxt.com:19806/ce08ee69cea5402c99bf285704eac3e5
 CCTV-03,mitv://generationnexxxt.com:19806/784f6703531044be9cee14b793948d30
 CCTV-04,mitv://generationnexxxt.com:19806/50c3e18e04bf478db59251455cf3d309
 CCTV-05,mitv://generationnexxxt.com:19806/7d00bdeddb6c422796e62ae9e8b9398d
-CCTV-5+,mitv://generationnexxxt.com:19806/5b390808c064415fa55fa30feb8788ff
 CCTV-5+,mitv://generationnexxxt.com:19806/65a531aa00057c26dd8d1ccf196a034e
 CCTV-06,mitv://generationnexxxt.com:19806/3ec70c48b2024e4f9210169aec2914c7
 CCTV-07,mitv://generationnexxxt.com:19806/e70ef03e57794075962ec3960df5b167
