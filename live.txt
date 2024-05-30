@@ -1,3 +1,21 @@
+央衛香頻1,#genre#
+parse=1
+player=2
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+CCTV1綜合,https://www.xhzb.tw/tv-show-20000-1.html
+CCTV2財經,https://www.xhzb.tw/tv-show-20001-1.html
+CCTV3綜藝,https://www.xhzb.tw/tv-show-20002-1.html
+
+
+央衛香頻2,#genre#
+parse=1
+player=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+浙江衛視,https://www.yangshipin.cn/tv/home?pid=600002520
+湖南衛視,https://www.yangshipin.cn/tv/home?pid=600002475
+北京衛視,https://www.yangshipin.cn/tv/home?pid=600002309
+東方衛視,https://www.yangshipin.cn/tv/home?pid=600002483
+
 央视频道,#genre#
 CCTV-01,http://www.zhongyunkj.com:58008/paiptv/cctv1.m3u8
 CCTV-01,http://play.kankanlive.com/live/1661761962676984.flv
