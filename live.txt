@@ -1,4 +1,6 @@
 央视频道,#genre#
+player=1
+timeout=5
 CCTV-01,http://www.zhongyunkj.com:58008/paiptv/cctv1.m3u8
 CCTV-01,http://play.kankanlive.com/live/1661761962676984.flv
 CCTV-01,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8?zhend
@@ -235,6 +237,7 @@ CCTV-13,http://36.249.151.142:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 
 晴天央视,#genre#
 player=2
+timeout=10
 CCTV-01,mitv://generationnexxxt.com:19806/1a50835e80564ba8ae28fce9bb7f228f
 CCTV-01,mitv://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e
 CCTV-02,mitv://generationnexxxt.com:19806/ce08ee69cea5402c99bf285704eac3e5
@@ -265,6 +268,8 @@ CCTV-17,mitv://generationnexxxt.com:19806/65a614e00004fec6e104afbe58b32445
 
 
 卫视频道,#genre#
+player=1
+timeout=5
 北京卫视,http://www.zhongyunkj.com:58008/paiptv/BJWS.m3u8
 北京卫视,http://36.49.51.76:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://106.46.114.2:8011/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -520,6 +525,7 @@ CCTV-17,mitv://generationnexxxt.com:19806/65a614e00004fec6e104afbe58b32445
 
 晴天卫视,#genre#
 player=2
+timeout=10
 北京卫视,mitv://generationnexxxt.com:19806/8d7d0547db754c32bca6011693893b40
 东方卫视,mitv://generationnexxxt.com:19806/10521db17e054dbeba85448ac091ae64
 广东卫视,mitv://generationnexxxt.com:19806/cf7073fbb4c5490a86aca002247700f9
@@ -546,6 +552,7 @@ player=2
 
 港台频道,#genre#
 player=2
+timeout=10
 凤凰中文,mitv://135.148.104.228:19806/64e1ab2a000417167359b3ca0417008f
 凤凰中文,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
 凤凰中文,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
@@ -600,6 +607,7 @@ TVBS新闻,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 
 科教频道,#genre#
 player=2
+timeout=10
 Discovery,mitv://135.148.104.228:19806/0afefbe6244c42dbac40a3d8abef8d07
 Discovery,mitv://generationnexxxt.com:19806/0afefbe6244c42dbac40a3d8abef8d07
 Discovery,mitv://generationnexxxt.com:19806/39e1494bd82c449892c6f92a6c8dc213
@@ -626,6 +634,7 @@ Discovery,mitv://generationnexxxt.com:19806/65e9a59d000f257fe8f2360919064328
 
 体育频道,#genre#
 player=2
+timeout=10
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.m3u8
 JJ斗地主,http://openhls-tct.douyucdn2.cn:80/dyliveflv1a/488743rAHScWyyII_2000.m3u8
 JJ斗地主,http://159.75.85.63:35455/douyu/488743
@@ -660,6 +669,7 @@ JJ斗地主,http://openhls-tct.douyucdn2.cn:80/dyliveflv1a/488743rAHScWyyII_4000
 
 轮播频道,#genre#
 player=2
+timeout=10
 HBO TV,mitv://135.148.104.228:19806/37f11d742fee447ab15f07db28095bd6
 HBO TV,mitv://135.148.104.228:19806/563a5981b8ad4df085b59ce98bbecb95
 HBO TV,mitv://135.148.104.228:19806/8a0208ebdfa04b5eab112f0c8b01719c
@@ -687,6 +697,8 @@ ThrillTV,mitv://generationnexxxt.com:19806/1c3c73215afd42558101c3ee65737202
 
 
 景区频道,#genre#
+player=1
+timeout=5
 重庆李子坝站轻轨,https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
 四川峨眉山普贤菩萨,http://gcalic.v.myalicdn.com/gc/gccntv241-slf01_1/index.m3u8
 四川峨眉山云海日出,https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
