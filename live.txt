@@ -716,11 +716,9 @@ timeout=5
 浙江乌镇白莲塔,https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
 浙江乌镇蓝印花布,https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
 重庆李子坝站轻轨,https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
-安徽黟县西递牌坊,https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
 重庆巫山长江大桥,https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
 云南丽江玉龙雪山,https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
 安徽黟县西递牌坊,https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
-安徽黟县西递牌坊,https://gctxyc.liveplay.myqcloud.com/gc/yxxdpf_1/index.m3u8
 安徽黟县芦村远眺,https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
 安徽黟县西递半山亭,https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
 四川峨眉山普贤菩萨,http://gcalic.v.myalicdn.com/gc/gccntv241-slf01_1/index.m3u8
