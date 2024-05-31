@@ -700,6 +700,7 @@ ThrillTV,mitv://generationnexxxt.com:19806/1c3c73215afd42558101c3ee65737202
 player=1
 timeout=5
 甘肃鸣沙山,https://gcalic.v.myalicdn.com/gc/bsszbcs_1/index.m3u8
+鸣沙山月牙泉,https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
 陕西西安钟楼,https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
 辽宁沈阳浑河桥,https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8
 凤凰古城南华山,https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8
@@ -708,7 +709,6 @@ timeout=5
 浙江乌镇白莲塔,https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
 浙江乌镇蓝印花布,https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
 重庆李子坝站轻轨,https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
-甘肃鸣沙山月牙泉,https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
 安徽黟县西递牌坊,https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
 四川峨眉山普贤菩萨,http://gcalic.v.myalicdn.com/gc/gccntv241-slf01_1/index.m3u8
 四川峨眉山云海日出,https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
