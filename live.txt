@@ -80,11 +80,14 @@ CCTV-03,http://36.248.137.69:60033/tsfile/live/0003_1.m3u8
 CCTV-03,http://118.248.168.18:8088/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-03,http://183.196.25.171:808/hls/78/index.m3u8
 CCTV-03,http://1.24.190.98:10080/hls/3/index.m3u8
-CCTV-05,http://113.57.161.254:9000/tsfile/live/0005_1.m3u8
+CCTV-05,http://219.147.200.9:18080/newlive/live/hls/5/live.m3u8
 CCTV-05,http://39.135.126.62/PLTV/88888888/224/3221226900/index.m3u8
 CCTV-05,http://39.135.126.62/PLTV/88888888/224/3221227029/index.m3u8
-CCTV-05,http://1.24.190.98:10080/hls/5/index.m3u8
+CCTV-05,http://123.163.55.234:9901/tsfile/live/0005_1.m3u8?key=txiptv
 CCTV-5+,http://39.135.126.62/PLTV/88888888/224/3221226445/index.m3u8
+CCTV-5+,http://39.135.126.62/PLTV/88888888/224/3221226912/index.m3u8
+CCTV-5+,http://219.159.147.195:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://120.196.232.52:8088/000000001001/PLTV/651/224/3221227567/1.m3u8?HlsProfileId=
 CCTV-06,http://www.zhongyunkj.com:58008/paiptv/cctv6.m3u8
 CCTV-06,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV-06,http://106.46.114.2:8011/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
