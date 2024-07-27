@@ -36,17 +36,7 @@
 		}
 
 	],
-	"sites": [{
-			"key": "黑木耳源",
-			"name": "黑木耳源",
-			"type": 0,
-			"api": "https://xml.heimuer.tv/api.php/provide/vod/at/xml/?ac=list",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"categories": ["国产剧", "国产综艺", "韩剧", "喜剧", "剧情", "爱情", "科幻", "惊悚", "动画电影", "冒险", "犯罪", "灾难"]
-		},
+	"sites": [
 		{
 			"key": "非凡采集",
 			"name": "非凡采集",
