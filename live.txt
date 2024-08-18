@@ -242,6 +242,7 @@ Discovery,https://sxg.btjson.us.kg/beesport/Discovery_Life_Live_TV
 体育频道,#genre#
 player=1
 timeout=5
+JJ斗地主,https://live2-play-a.live.jjmatch.com/hilive/1825096013015289856_hd.flv
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 JJ斗地主,http://openhls-tct.douyucdn2.cn:80/dyliveflv1a/488743rAHScWyyII_2000.m3u8
 JJ斗地主,http://159.75.85.63:35455/douyu/488743
