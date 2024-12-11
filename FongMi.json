@@ -31,6 +31,14 @@
 			"categories": ["国产剧", "大陆综艺", "国产动漫", "韩国剧", "喜剧片", "爱情片", "科幻片", "恐怖片", "动作片", "剧情片", "动漫片", "记录片", "短剧"]
 		},
 		{
+			"key": "黑木耳",
+			"name": "黑木耳",
+			"type": 1,
+			"api": "http://127.0.0.1:10079/p/0/null/https://json.heimuer.xyz/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1
+		},
+		{
 			"key": "csp_Local",
 			"name": "本地视频",
 			"type": 3,
