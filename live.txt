@@ -140,4 +140,4 @@ player=2
 张雪峰[竖屏],http://dns.yiandrive.com:16813/douyin/zxfls
 陈一发[横屏],https://live.iill.top/youtube/@chenyifaer
 李子柒[横屏],http://dns.yiandrive.com:16813/huya/21969336
-旭旭宝宝[竖屏],http://dns.yiandrive.com:16813/douyin/renyixu1989
+旭旭宝宝[横屏],http://dns.yiandrive.com:16813/douyin/renyixu1989
