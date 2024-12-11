@@ -128,7 +128,7 @@ player=2
 动画频道,#genre#
 player=2
 熊出没,http://dns.yiandrive.com:16813/yy/1354930977
-动画轮播,http://dns.yiandrive.com:16813/yy/1356243352
+灌篮高手,http://dns.yiandrive.com:16813/yy/1356243352
 虹猫蓝兔,http://dns.yiandrive.com:16813/huya/22592516
 名侦探柯南,http://dns.yiandrive.com:16813/bilibili/30098402
 
