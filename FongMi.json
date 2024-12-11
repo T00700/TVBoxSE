@@ -52,6 +52,17 @@
 			"categories": ["国产剧", "大陆综艺", "国产动漫", "韩国剧", "欧美剧", "喜剧片", "爱情片", "科幻片", "恐怖片", "动作片", "剧情片", "动漫片", "记录片"]
 		},
 		{
+			"key": "黑木耳资源",
+			"name": "黑木耳资源",
+			"type": 1,
+			"api": "http://127.0.0.1:10079/p/0/null/https://json.heimuer.xyz/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"categories": ["电影", "电视剧", "国产综艺", "动漫", "短剧", "韩剧", "欧美剧"]
+		},
+		{
 			"key": "drpy_js_低端",
 			"name": "欧美日韩",
 			"type": 3,
