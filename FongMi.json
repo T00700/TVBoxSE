@@ -31,8 +31,8 @@
 			"categories": ["国产剧", "大陆综艺", "国产动漫", "韩国剧", "喜剧片", "爱情片", "科幻片", "恐怖片", "动作片", "剧情片", "动漫片", "记录片", "短剧"]
 		},
 		{
-			"key": "黑木耳",
-			"name": "黑木耳",
+			"key": "黑木耳采集",
+			"name": "黑木耳采集",
 			"type": 1,
 			"api": "https://json.heimuer.xyz/api.php/provide/vod/",
 			"searchable": 1,
