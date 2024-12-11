@@ -41,6 +41,7 @@ timeout=5
 辽宁都市,http://120.76.248.139/live/bfgd/4200000068.m3u8
 
 体育频道,#genre#
+player=1
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 JJ斗地主,http://dns.yiandrive.com:16813/douyu/488743
 JJ斗地主,http://dns.yiandrive.com:16813/huya/14079954
@@ -65,6 +66,7 @@ JJ斗地主,http://epg.112114.xyz/douyu/488743
 高尔夫网球,http://10.255.128.136/PLTV/88888888/224/3221225866/10000100000000060000000000533951_0.smil/index.m3u8?fmt=ts2hls
 
 综艺频道,#genre#
+player=1
 家有儿女,http://dns.yiandrive.com:16813/huya/11352872
 武林外传,http://dns.yiandrive.com:16813/yy/21092633
 武林外传,http://dns.yiandrive.com:16813/yy/1454629602
@@ -80,6 +82,7 @@ JJ斗地主,http://epg.112114.xyz/douyu/488743
 本山选谁上春晚,http://dns.yiandrive.com:16813/douyu/9403712
 
 影视频道,#genre#
+player=1
 天道,http://dns.yiandrive.com:16813/yy/1382735574
 变形金刚,http://dns.yiandrive.com:16813/yy/1382736803
 父母爱情,http://dns.yiandrive.com:16813/huya/11602071
@@ -92,6 +95,7 @@ JJ斗地主,http://epg.112114.xyz/douyu/488743
 铁齿铜牙纪晓岚,http://dns.yiandrive.com:16813/huya/11342396
 
 动画频道,#genre#
+player=1
 熊出没,http://dns.yiandrive.com:16813/yy/1354930977
 动画轮播,http://dns.yiandrive.com:16813/yy/1356243352
 虹猫蓝兔,http://dns.yiandrive.com:16813/huya/22592516
