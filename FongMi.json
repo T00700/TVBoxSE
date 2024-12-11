@@ -23,7 +23,7 @@
 			"key": "非凡采集",
 			"name": "非凡采集",
 			"type": 0,
-			"api": "http://127.0.0.1:10079/p/0/null/https://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/",
+			"api": "https://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -34,7 +34,7 @@
 			"key": "黑木耳",
 			"name": "黑木耳",
 			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/null/https://json.heimuer.xyz/api.php/provide/vod/",
+			"api": "https://json.heimuer.xyz/api.php/provide/vod/",
 			"searchable": 1,
 			"quickSearch": 1
 		},
