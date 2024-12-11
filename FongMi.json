@@ -6,25 +6,6 @@
 			"type": 0,
 			"boot": false,
 			"url": "https://raw.gitmirror.com/T00700/TVBoxSE/master/live.txt"
-		},
-		{
-			"name": "港台直播",
-			"type": 0,
-			"boot": false,
-			"url": "https://raw.gitmirror.com/T00700/TVBoxSE/master/qt.txt"
-		},
-		{
-			"name": "私立直播",
-			"type": 0,
-			"boot": false,
-			"url": "https://gh.con.sh/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt"
-		},
-		{
-			"name": "iptv6直播",
-			"type": 0,
-			"boot": false,
-			"url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-			"ua": "okhttp/3.15"
 		}
 
 	],
