@@ -16,8 +16,6 @@
 			"type": 0,
 			"api": "https://cj.lzcaiji.com/api.php/provide/vod/from/lzm3u8/at/xml/",
 			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
 			"changeable": 1,
 			"categories": ["国产剧", "大陆综艺", "国产动漫", "韩国剧", "欧美剧", "喜剧片", "爱情片", "科幻片", "恐怖片", "动作片", "剧情片", "短剧", "记录片"]
 		},
