@@ -1,6 +1,7 @@
 {
     "spider": "https://raw.gitmirror.com/T00700/TVBoxSE/master/T00700.jar;md5;FDB39048BFED72C40BFF44A039A6582A",
     "wallpaper": "https://raw.gitmirror.com/T00700/TVBoxSE/master/Wallpaper/01.jpg",
+    "warningText": "",
     "lives": [
         {
             "name": "自营直播",
