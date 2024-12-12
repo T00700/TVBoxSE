@@ -49,10 +49,6 @@
             "name": "量子采集",
             "type": 0,
             "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/lzm3u8/at/xml/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
             "categories": [
                 "国产剧",
                 "韩国剧",
