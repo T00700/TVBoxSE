@@ -10,7 +10,6 @@
         }
     ],
     "sites": [
-        //{"key":"量子采集","name":"量子采集","type":0,"api":"https://cj.lzcaiji.com/api.php/provide/vod/at/xml/","categories":["国产剧","韩国剧","欧美剧","大陆综艺","日韩综艺","国产动漫","日韩动漫","短剧","记录片"]},
         {
             "key": "量子资源",
             "name": "量子资源",
