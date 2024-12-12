@@ -45,57 +45,6 @@
             ]
         },
         {
-            "key": "量子采集",
-            "name": "量子采集",
-            "type": 0,
-            "api": "https://cj.lzcaiji.com/api.php/provide/vod/at/xml/",
-            "categories": [
-                "国产剧",
-                "韩国剧",
-                "欧美剧",
-                "大陆综艺",
-                "日韩综艺",
-                "国产动漫",
-                "日韩动漫",
-                "短剧",
-                "记录片"
-            ]
-        },
-        {
-            "key": "非凡资源",
-            "name": "非凡资源",
-            "type": 1,
-            "api": "http://ffzy2.tv/api.php/provide/vod/",
-            "categories": [
-                "国产剧",
-                "韩国剧",
-                "欧美剧",
-                "大陆综艺",
-                "日韩综艺",
-                "国产动漫",
-                "日韩动漫",
-                "短剧",
-                "记录片"
-            ]
-        },
-        {
-            "key": "非凡采集",
-            "name": "非凡采集",
-            "type": 0,
-            "api": "https://api.ffzyapi.com/api.php/provide/vod/at/xml/",
-            "categories": [
-                "国产剧",
-                "韩国剧",
-                "欧美剧",
-                "大陆综艺",
-                "日韩综艺",
-                "国产动漫",
-                "日韩动漫",
-                "短剧",
-                "记录片"
-            ]
-        },
-        {
             "key": "csp_Local",
             "name": "本地视频",
             "type": 3,
