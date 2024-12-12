@@ -12,6 +12,46 @@
     ],
     "sites": [
         {
+            "key": "非凡资源",
+            "name": "非凡资源",
+            "type": 1,
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+            "playurl": "json:https://tvmvip.com/lz2.php?url=",
+			"categories": [
+                "国产剧",
+                "欧美剧",
+                "韩国剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+				"国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "记录片"
+            ]
+        },
+		        {
+            "key": "量子资源",
+            "name": "量子资源",
+            "type": 1,
+            "api": "http://cj.lziapi.com/api.php/provide/vod/",
+            "playurl": "json:https://tvmvip.com/lz2.php?url=",
+            "categories": [
+                "国产剧",
+                "欧美剧",
+                "韩国剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+				"国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "记录片"
+            ]
+        },
+        {
             "key": "暴风资源",
             "name": "暴风资源",
             "type": 1,
