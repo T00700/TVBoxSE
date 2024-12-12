@@ -1,5 +1,5 @@
 {
-	"spider": "https://raw.gitmirror.com/T00700/TVBoxSE/master/PizazzGY.jar;md5;6044E3CEB295D82028C72E4524BAE5F5",
+	"spider": "https://raw.gitmirror.com/T00700/TVBoxSE/master/pg.jar;md5;22b4794ce37f1cdc423eba20eef7dcd6",
 	"wallpaper": "https://raw.gitmirror.com/T00700/TVBoxSE/master/Wallpaper/01.jpg",
 	"lives": [{
 			"name": "毫秒直播",
@@ -11,7 +11,7 @@
 	],
 	"sites": [
 		{
-			"key": "量子",
+			"key": "量子1",
 			"name": "量子",
 			"type": 1,
 			"api": "http://127.0.0.1:10079/p/0/proxy/http://cj.lziapi.com/api.php/provide/vod/?",
@@ -21,7 +21,7 @@
 			"changeable": 1
 		},
 		{
-			"key": "非凡",
+			"key": "非凡1",
 			"name": "非凡",
 			"type": 1,
 			"api": "http://127.0.0.1:10079/p/0/proxy/http://cj.ffzyapi.com/api.php/provide/vod/?",
