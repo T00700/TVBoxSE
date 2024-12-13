@@ -13,10 +13,10 @@
     "sites": [
         {
             "key": "360_spider",
-            "name": "360影视",
+            "name": "360影视1",
             "api": "csp_SP360",
             "type": 3,
-            "playUrl": "json:https://tvmvip.com/lz2.php?url=",
+            "playUrl": "https://tvmvip.com/lz2.php?url=",
             "playerType": "1"
         },
         {
