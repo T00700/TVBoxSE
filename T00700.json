@@ -23,6 +23,7 @@
             "name": "暴风资源",
             "type": 1,
             "api": "https://bfzyapi.com/api.php/provide/vod/",
+            "playUrl":"https://vip.vipuuvip.com/?url=",
             "categories": [
                 "电影片",
                 "国产剧",
