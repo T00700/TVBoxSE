@@ -13,7 +13,7 @@
     "sites": [
         {
             "key": "360_spider",
-            "name": "360影视7",
+            "name": "360影视",
             "api": "csp_SP360",
             "type": 3,
             "playerType": "1"
