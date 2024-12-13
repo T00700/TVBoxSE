@@ -13,10 +13,9 @@
     "sites": [
         {
             "key": "360_spider",
-            "name": "360影视2",
+            "name": "360影视3",
             "api": "csp_SP360",
             "type": 3,
-            "playUrl": "https://zy.qiaoji8.com/gouzi.php?url=",
             "playerType": "1"
         },
         {
@@ -35,6 +34,79 @@
                 "日韩动漫",
                 "记录片"
             ]
+        }
+    ],
+    "parses": [
+        {
+            "name": "解析聚合",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
+            "name": "Json轮询",
+            "type": 2,
+            "url": "Sequence"
+        },
+        {
+            "name": "解析一",
+            "type": 1,
+            "url": "https://tvmvip.com/lz2.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905",
+                    "抖音",
+                    "douyin",
+                    "NetFilx"
+                ]
+            }
+        },
+        {
+            "name": "解析二",
+            "type": 1,
+            "url": "https://zy.qiaoji8.com/gouzi.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905",
+                    "抖音",
+                    "douyin",
+                    "NetFilx"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
         }
     ]
 }
