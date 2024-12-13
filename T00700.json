@@ -39,19 +39,9 @@
     ],
     "parses": [
         {
-            "name": "解析聚合",
-            "type": 3,
-            "url": "Demo"
-        },
-        {
             "name": "Json轮询",
             "type": 2,
             "url": "Sequence"
-        },
-        {
-            "name": "解析一",
-            "type": 1,
-            "url": "https://tvmvip.com/lz2.php?url="
         },
         {
             "name": "巧技一",
