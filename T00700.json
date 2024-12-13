@@ -1,5 +1,5 @@
 {
-    "spider": "https://raw.gitmirror.com/T00700/TVBoxSE/master/T00700.jar;md5;FDB39048BFED72C40BFF44A039A6582A",
+    "spider": "https://raw.gitmirror.com/T00700/TVBoxSE/master/juejijianghu.jar;md5;DCAD2384F6C780CFBF140D973044ECDA",
     "wallpaper": "https://raw.gitmirror.com/T00700/TVBoxSE/master/Wallpaper/01.jpg",
     "warningText": "",
     "lives": [
@@ -11,6 +11,14 @@
         }
     ],
     "sites": [
+        {
+            "key": "360_spider",
+            "name": "360影视",
+            "api": "csp_SP360",
+            "type": 3,
+            "playUrl": "json:https://tvmvip.com/lz2.php?url=",
+            "playerType": "1"
+        },
         {
             "key": "暴风资源",
             "name": "暴风资源",
@@ -25,46 +33,6 @@
                 "日韩综艺",
                 "国产动漫",
                 "日韩动漫",
-                "记录片"
-            ]
-        },
-        {
-            "key": "非凡资源",
-            "name": "非凡资源",
-            "type": 1,
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
-            "playurl": "json:https://tvmvip.com/lz2.php?url=",
-            "categories": [
-                "国产剧",
-                "欧美剧",
-                "韩国剧",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "记录片"
-            ]
-        },
-        {
-            "key": "量子资源",
-            "name": "量子资源",
-            "type": 1,
-            "api": "http://cj.lziapi.com/api.php/provide/vod/",
-            "playurl": "json:https://tvmvip.com/lz2.php?url=",
-            "categories": [
-                "国产剧",
-                "欧美剧",
-                "韩国剧",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
                 "记录片"
             ]
         }
