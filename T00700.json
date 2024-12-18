@@ -1,13 +1,13 @@
 {
-    "spider": "https://ghp.ci/https://raw.githubusercontent.com/T00700/TVBoxSE/master/360.jar;md5;45ADF1FECC96EA1B59CB169E3831501B",
-    "wallpaper": "https://ghp.ci/https://raw.githubusercontent.com/T00700/TVBoxSE/master/Wallpaper/01.jpg",
+    "spider": "https://raw.gitmirror.com/T00700/TVBoxSE/master/360.jar;md5;45ADF1FECC96EA1B59CB169E3831501B",
+    "wallpaper": "https://raw.gitmirror.com/T00700/TVBoxSE/master/Wallpaper/01.jpg",
     "warningText": "",
     "lives": [
         {
             "name": "自营直播",
             "type": 0,
             "boot": true,
-            "url": "https://ghp.ci/https://raw.githubusercontent.com/T00700/TVBoxSE/master/live.txt"
+            "url": "https://raw.gitmirror.com/T00700/TVBoxSE/master/live.txt"
         }
     ],
     "sites": [
