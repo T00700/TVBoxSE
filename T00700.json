@@ -6,7 +6,7 @@
         {
             "name": "自营直播",
             "type": 0,
-            "boot": true,
+            "boot": false,
             "url": "https://raw.gitmirror.com/T00700/TVBoxSE/master/live.txt"
         }
     ],
