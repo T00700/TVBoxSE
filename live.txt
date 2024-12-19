@@ -114,6 +114,7 @@ player=2
 地下交通站,http://dns.yiandrive.com:16813/yy/1382736795
 地下交通站,http://dns.yiandrive.com:16813/huya/11342433
 鹊刀门传奇,http://dns.yiandrive.com:16813/huya/11352963
+东北二人转,http://dns.yiandrive.com:16813/yy/1356033451
 易中天品三国,http://dns.yiandrive.com:16813/huya/11602032
 历届春晚小品,http://dns.yiandrive.com:16813/huya/30254422
 本山选谁上春晚,http://dns.yiandrive.com:16813/douyu/9403712
