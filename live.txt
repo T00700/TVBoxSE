@@ -86,8 +86,12 @@ JJ斗地主,https://www.goodiptv.club/bilibili/22021983
 JJ斗地主,https://www.goodiptv.club/douyin/685317364746
 JJ斗地主,http://epg.112114.xyz/douyu/488743
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
-五星体育,http://61.173.144.157:9901/tsfile/live/1010_1.m3u8
 五星体育,http://223.166.234.114:7777/tsfile/live/1030_1.m3u8
+五星体育,https://stream1.freetv.fun/1522a13ebe48f54e117fb3a28855a3bb936d426c64e38d2735ffdc608666e3fd.m3u8
+五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-8.m3u8
+五星体育,https://stream1.freetv.fun/4881181ce7c229726cc597354dcd8ac833357167c1f7af8b48b2d08267400041.ctv
+劲爆体育,https://stream1.freetv.fun/10e7e7a5ced5c48e60a44b2c666da394a8a1cf17893d071b88a27fd4e7b73b63.ctv
+劲爆体育,https://stream1.freetv.fun/bdeec15ec3f3a021b4e8a7f5352e1ca6e917da9f2eaaddf0073a28237a80f00e.m3u8
 红牛体育,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 辽宁体育,http://10.255.128.136/PLTV/88888888/224/3221226287/10000100000000060000000000801421_0.smil/index.m3u8?fmt=ts2hls
 央视台球,http://10.255.128.136/PLTV/88888888/224/3221225798/10000100000000060000000000000424_0.smil/index.m3u8?fmt=ts2hls
