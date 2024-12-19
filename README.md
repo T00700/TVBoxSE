@@ -14,7 +14,7 @@ http://00700.web3v.vip/FongMi/FongMi.json
 https://raw.gitmirror.com/T00700/TVBoxSE/master/T00700.json
 ```
 ```
-https://ghp.ci/https://raw.githubusercontent.com/T00700/TVBoxSE/master/T00700.json
+https://ghproxy.cn/https://raw.githubusercontent.com/T00700/TVBoxSE/master/T00700.json
 ```
 # 仓库
 ```
