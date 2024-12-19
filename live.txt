@@ -140,10 +140,10 @@ player=2
 
 直播频道,#genre#
 player=2
-刀郎[竖屏],http://dns.yiandrive.com:16813/douyin/53111350323
-苏群[竖屏],http://dns.yiandrive.com:16813/douyin/1653502679
-杨毅[竖屏],http://dns.yiandrive.com:16813/douyin/1096996129
-张雪峰[竖屏],http://dns.yiandrive.com:16813/douyin/zxfls
-陈一发[横屏],https://live.iill.top/youtube/@chenyifaer
-李子柒[横屏],http://dns.yiandrive.com:16813/huya/21969336
-旭旭宝宝[横屏],http://dns.yiandrive.com:16813/douyin/renyixu1989
+刀郎,http://dns.yiandrive.com:16813/douyin/53111350323
+苏群,http://dns.yiandrive.com:16813/douyin/1653502679
+杨毅,http://dns.yiandrive.com:16813/douyin/1096996129
+张雪峰,http://dns.yiandrive.com:16813/douyin/zxfls
+陈一发,https://live.iill.top/youtube/@chenyifaer
+李子柒,http://dns.yiandrive.com:16813/huya/21969336
+旭旭宝宝,http://dns.yiandrive.com:16813/douyin/renyixu1989
