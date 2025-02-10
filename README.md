@@ -29,7 +29,7 @@ Python爬虫:https://github.com/UndCover/PyramidStore.git
 ```
 # 其他
 ```
-JS在线校验：http://json.jsrun.cn/
+JS在线校验：http://jsrun.net/json/new
 电视直播：http://tonkiang.us/
 夜视直播：https://yeslivetv.com/
 港台直播(VPN)：www.stream-link.org/
