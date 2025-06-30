@@ -21,7 +21,7 @@ https://ghproxy.cn/https://raw.githubusercontent.com/T00700/TVBoxSE/master/T0070
 官仓0718封仓:https://github.com/CatVodTVOfficial/TVBoxOSC.git
 俊版_TVBox:https://github.com/q215613905/TVBoxOS.git
 T9版_TVBox:https://github.com/takagen99/Box.git
-蜂蜜_TVBox:https://github.com/FongMi/TV.git
+蜂蜜_TVBox:https://github.com/FongMi/Release/tree/fongmi
 服务端爬虫T4:https://github.com/sec-an/TV_Spider.git
 Python爬虫:https://github.com/UndCover/PyramidStore.git
 道长_DR_JS:https://github.com/hjdhnx/dr_py.git
